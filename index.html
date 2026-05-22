@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Key Takeaway — Chopper</title>
+
+<!-- PWA -->
+<link rel="manifest" href="manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Key Takeaway">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="theme-color" content="#1e3a6e">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+
+/* ── Theme: Finance Pro — default ────────────────────────────────────────── */
+:root{
+  --bg:#ffffff;--surface:#ffffff;--surface2:#f4f6fb;--surface3:#e6eaf4;
+  --border:#c8d0e2;--text:#152244;--muted:#5a6b8c;
+  --accent:#b07030;
+  --accent-light:#faf3e8;
+  --accent-dark:#7a4e20;
+  --badge-bg:#1e3a6e;--badge-text:#ffffff;
+  --tab-active-bg:#ffffff;
+  --red:#c0392b;--radius:12px;
+  --font:'Inter',-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+}
+
+/* ── Theme: Sunrise ──────────────────────────────────────────────────────── */
+[data-theme="sunrise"]{
+  --bg:#fff7ed;--surface:#ffffff;--surface2:#ffedd5;--surface3:#fed7aa;
+  --border:#fdba74;--text:#1c1510;--muted:#9a6a50;
+  --accent:#ea580c;--accent-light:#ffedd5;--accent-dark:#c2410c;
+  --badge-bg:#ea580c;--badge-text:#fff;
+  --tab-active-bg:#ffffff;
+}
+
+/* ── Theme: Dark Amber ───────────────────────────────────────────────────── */
+[data-theme="dark"]{
+  --bg:#18120a;--surface:#241b0e;--surface2:#1e1508;--surface3:#2e2210;
+  --border:#3d2e15;--text:#fef3c7;--muted:#a08c6a;
+  --accent:#f59e0b;--accent-light:#2e2210;--accent-dark:#fcd34d;
+  --badge-bg:#f59e0b;--badge-text:#18120a;
+  --tab-active-bg:#241b0e;
+  --red:#f87171;
+}
+
+body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:100vh;
+  line-height:1.6;-webkit-font-smoothing:antialiased;transition:background .25s,color .25s;}
+
+/* ── Header ─────────────────────────────────────────────────────────────── */
+.hdr{padding:14px 20px;background:var(--surface);border-bottom:1px solid var(--border);
+  display:flex;align-items:center;gap:12px;position:sticky;top:0;z-index:10;
+  transition:background .25s,border-color .25s;
+  padding-top:max(14px, env(safe-area-inset-top));}
+.hdr-icon{width:40px;height:40px;min-width:40px;border-radius:12px;overflow:hidden;}
+.hdr-icon img{width:100%;height:100%;object-fit:cover;display:block;}
+.hdr-title{font-size:16px;font-weight:700;}
+.hdr-sub{font-size:11px;color:var(--muted);margin-top:1px;}
+.hdr-right{margin-left:auto;display:flex;gap:8px;align-items:center;}
+.chip{background:var(--accent-light);color:var(--accent-dark);border-radius:20px;
+  padding:4px 11px;font-size:12px;font-weight:600;white-space:nowrap;transition:background .25s,color .25s;}
+.sync-info{font-size:10px;color:var(--muted);}
+
+/* ── Theme switcher ──────────────────────────────────────────────────────── */
+.theme-switcher{display:flex;gap:5px;align-items:center;}
+.theme-btn{width:22px;height:22px;border-radius:50%;border:2px solid transparent;
+  cursor:pointer;transition:transform .15s,border-color .15s;}
+.theme-btn:hover{transform:scale(1.15);}
+.theme-btn.active{border-color:var(--text);transform:scale(1.1);}
+.theme-btn[data-t="sunrise"]{background:linear-gradient(135deg,#fdba74,#ea580c);}
+.theme-btn[data-t="dark"]   {background:linear-gradient(135deg,#3d2e15,#f59e0b);}
+.theme-btn[data-t="finance"] {background:linear-gradient(135deg,#1e3a6e,#b07030);}
+
+/* ── Market tab bar ──────────────────────────────────────────────────────── */
+.market-bar{display:flex;gap:0;padding:0 20px;background:var(--surface);
+  border-bottom:1px solid var(--border);overflow-x:auto;scrollbar-width:none;}
+.market-bar::-webkit-scrollbar{display:none;}
+.mkt-btn{padding:11px 16px;font-size:13px;font-weight:500;color:var(--muted);
+  background:none;border:none;cursor:pointer;white-space:nowrap;font-family:var(--font);
+  border-bottom:2px solid transparent;transition:color .12s,border-color .12s;
+  -webkit-tap-highlight-color:transparent;}
+.mkt-btn:hover{color:var(--text);}
+.mkt-btn.active{color:var(--accent);border-bottom-color:var(--accent);font-weight:600;}
+.mkt-count{display:inline-block;background:var(--surface3);color:var(--muted);
+  font-size:10px;font-weight:600;padding:1px 6px;border-radius:10px;margin-left:5px;
+  vertical-align:middle;}
+
+/* ── Toolbar ─────────────────────────────────────────────────────────────── */
+.toolbar{padding:10px 16px 4px;display:flex;align-items:center;gap:10px;}
+.toolbar input{flex:1;padding:9px 13px;
+  border:1px solid var(--border);border-radius:8px;
+  font-family:var(--font);font-size:14px;background:var(--surface);color:var(--text);outline:none;
+  -webkit-appearance:none;}
+.toolbar input:focus{border-color:var(--accent);}
+.toolbar-label{font-size:12px;color:var(--muted);white-space:nowrap;}
+
+/* ── No-tag warning badge ────────────────────────────────────────────────── */
+.no-tag-badge{display:inline-flex;align-items:center;gap:3px;font-size:10px;
+  background:#fff3cd;color:#856404;border:1px solid #ffc107;
+  padding:1px 7px;border-radius:10px;margin-left:4px;}
+
+/* ── No-data screen ─────────────────────────────────────────────────────── */
+#no-data{display:none;flex-direction:column;align-items:center;justify-content:center;
+  min-height:60vh;padding:32px;text-align:center;}
+#no-data h2{font-size:20px;margin-bottom:8px;}
+#no-data p{color:var(--muted);font-size:14px;max-width:480px;line-height:1.7;margin-top:6px;}
+.cmd-block{margin-top:20px;background:var(--surface);border:1px solid var(--border);
+  border-radius:10px;padding:16px 20px;text-align:left;font-size:13px;max-width:480px;width:100%;}
+.cmd-block code{display:block;background:#1e1e1e;color:#d4d4d4;padding:10px 14px;
+  border-radius:6px;font-family:monospace;font-size:12px;margin-top:8px;word-break:break-all;}
+
+/* ── Latest strip ────────────────────────────────────────────────────────── */
+.latest-strip{padding:6px 16px 10px;display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+.latest-label{font-size:11px;font-weight:600;color:var(--muted);text-transform:uppercase;
+  letter-spacing:.05em;white-space:nowrap;}
+.latest-chip{display:inline-flex;align-items:center;gap:5px;padding:5px 10px;
+  background:var(--surface2);border:1px solid var(--border);border-radius:20px;
+  font-size:11.5px;font-weight:500;color:var(--text);cursor:pointer;white-space:nowrap;
+  transition:background .12s,border-color .12s;-webkit-tap-highlight-color:transparent;}
+.latest-chip:hover{background:var(--accent-light);border-color:var(--accent);color:var(--accent-dark);}
+.latest-chip .lc-ticker{font-weight:700;color:var(--badge-bg);}
+.latest-chip .lc-date{color:var(--muted);font-size:10.5px;}
+
+/* ── Grid ────────────────────────────────────────────────────────────────── */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));
+  gap:14px;padding:14px 16px 40px;}
+
+/* ── Card ────────────────────────────────────────────────────────────────── */
+.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  display:flex;flex-direction:column;overflow:hidden;transition:box-shadow .15s;}
+.card:hover{box-shadow:0 4px 20px rgba(21,34,68,.10);}
+.card.hidden{display:none!important;}
+
+.card-header{padding:12px 14px 10px;display:flex;align-items:center;gap:10px;
+  border-bottom:1px solid var(--border);}
+.ticker-badge{font-size:14px;font-weight:700;color:var(--badge-text);background:var(--badge-bg);
+  padding:3px 10px;border-radius:6px;letter-spacing:.03em;transition:background .25s,color .25s;}
+.note-count{font-size:11px;color:var(--muted);margin-left:auto;
+  background:var(--surface2);border:1px solid var(--border);padding:2px 8px;border-radius:10px;}
+
+/* ── Tabs bar ────────────────────────────────────────────────────────────── */
+.tabs-bar{display:flex;overflow-x:auto;scrollbar-width:none;
+  background:var(--surface2);border-bottom:1px solid var(--border);}
+.tabs-bar::-webkit-scrollbar{display:none;}
+.tab-btn{padding:9px 14px;font-size:11.5px;font-weight:500;color:var(--muted);
+  background:none;border:none;cursor:pointer;white-space:nowrap;font-family:var(--font);
+  border-bottom:2px solid transparent;transition:color .12s,border-color .12s;
+  -webkit-tap-highlight-color:transparent;}
+.tab-btn:hover{color:var(--text);}
+.tab-btn.active{color:var(--accent);border-bottom-color:var(--accent);background:var(--tab-active-bg);}
+
+/* ── Tab content ─────────────────────────────────────────────────────────── */
+.tab-content{position:relative;}
+.tab-pane{display:none;padding:13px 14px;max-height:340px;overflow-y:auto;font-size:13px;line-height:1.8;}
+.tab-pane.active{display:block;}
+.tab-pane::-webkit-scrollbar{width:4px;}
+.tab-pane::-webkit-scrollbar-track{background:transparent;}
+.tab-pane::-webkit-scrollbar-thumb{background:var(--border);border-radius:4px;}
+
+/* ── Content rendering ───────────────────────────────────────────────────── */
+.c-date{display:inline-block;font-size:11px;font-weight:600;color:var(--accent-dark);
+  background:var(--accent-light);padding:1px 8px;border-radius:4px;margin-bottom:8px;}
+.c-line{margin-bottom:3px;}
+.c-warn{color:var(--red);margin-bottom:3px;}
+.c-star{color:var(--yellow);font-weight:500;margin-bottom:3px;}
+.c-tag{font-size:10px;background:var(--surface3);color:var(--muted);
+  padding:1px 6px;border-radius:10px;margin-right:2px;}
+strong{font-weight:600;}
+
+/* ── Mobile ──────────────────────────────────────────────────────────────── */
+@media(max-width:600px){
+  .hdr{padding:12px 14px;gap:10px;padding-top:max(12px,env(safe-area-inset-top));}
+  .hdr-title{font-size:15px;}
+  .sync-info{display:none;}
+  .market-bar{padding:0 14px;}
+  .toolbar{padding:10px 14px 4px;}
+  .latest-strip{padding:6px 14px 8px;}
+  .grid{grid-template-columns:1fr;padding:10px 12px 40px;gap:10px;}
+  .tab-pane{max-height:280px;}
+}
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="hdr">
+  <div class="hdr-icon">
+    <img src="Chopper.jpeg" alt="Chopper">
+  </div>
+  <div>
+    <div class="hdr-title">Key Takeaway</div>
+    <div class="hdr-sub">Chopper — Stock Notes</div>
+  </div>
+  <div class="hdr-right">
+    <div class="theme-switcher">
+      <button class="theme-btn" data-t="sunrise" onclick="setTheme('sunrise',this)" title="Sunrise"></button>
+      <button class="theme-btn" data-t="dark" onclick="setTheme('dark',this)" title="Dark Amber"></button>
+      <button class="theme-btn active" data-t="finance" onclick="setTheme('finance',this)" title="Finance Pro"></button>
+    </div>
+    <span class="chip" id="count-chip">—</span>
+    <span class="sync-info" id="sync-info"></span>
+  </div>
+</div>
+
+<!-- Market tab bar -->
+<div class="market-bar" id="market-bar"></div>
+
+<!-- Toolbar -->
+<div class="toolbar">
+  <input type="search" id="search" placeholder="ค้นหา ticker..." oninput="filterCards(this.value)" autocomplete="off" autocorrect="off">
+  <span class="toolbar-label" id="result-label"></span>
+</div>
+
+<!-- Latest strip -->
+<div class="latest-strip" id="latest-strip"></div>
+
+<!-- No-data fallback -->
+<div id="no-data">
+  <h2>ยังไม่มีข้อมูล</h2>
+  <p>ไม่พบ <code>keytakeaway_data.js</code> — รัน <code>copy_data.bat</code> ใน folder นี้ก่อน แล้ว deploy ใหม่</p>
+</div>
+
+<!-- Card grid -->
+<div class="grid" id="grid"></div>
+
+<!-- Data file (copy จาก parent ด้วย copy_data.bat) -->
+<script src="keytakeaway_data.js" onerror="window._DATA_ERR=true"></script>
+
+<script>
+/* ── Theme ───────────────────────────────────────────────────────────────── */
+function setTheme(t, btn) {
+  const el = document.documentElement;
+  if (t === 'finance') { delete el.dataset.theme; } else { el.dataset.theme = t; }
+  document.querySelectorAll('.theme-btn').forEach(b => b.classList.toggle('active', b === btn));
+  localStorage.setItem('kt-theme', t);
+}
+(function initTheme() {
+  const saved = localStorage.getItem('kt-theme') || 'finance';
+  const btn = document.querySelector(`.theme-btn[data-t="${saved}"]`);
+  if (btn) setTheme(saved, btn);
+})();
+
+/* ── Helpers ─────────────────────────────────────────────────────────────── */
+function esc(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function renderContent(raw) {
+  const lines = raw.trim().split('\n');
+  let html = '';
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    if (!line || line === '---') continue;
+    if (line.startsWith('**Date:**')) {
+      html += `<span class="c-date">${esc(line.replace('**Date:**','').trim())}</span><br>`;
+      continue;
+    }
+    let p = esc(line);
+    p = p.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+    p = p.replace(/#(\w+)/g, '<span class="c-tag">$&</span>');
+    let cls = 'c-line';
+    if (line.startsWith('⚠️')) cls = 'c-warn';
+    else if (line.startsWith('⭐') || line.startsWith('⭐️')) cls = 'c-star';
+    html += `<div class="${cls}">${p}</div>`;
+  }
+  return html;
+}
+
+/* ── Latest strip ────────────────────────────────────────────────────────── */
+const MONTHS = {jan:0,feb:1,mar:2,apr:3,may:4,jun:5,jul:6,aug:7,sep:8,oct:9,nov:10,dec:11};
+function parseNoteDate(str) {
+  if (!str) return new Date(0);
+  const m = str.trim().match(/(\d{1,2})\s+(\w+)\s+(\d{2,4})/);
+  if (!m) return new Date(0);
+  const yr = m[3].length === 2 ? 2000 + +m[3] : +m[3];
+  return new Date(yr, MONTHS[m[2].toLowerCase().slice(0,3)] ?? 0, +m[1]);
+}
+
+function renderLatestStrip() {
+  const strip = document.getElementById('latest-strip');
+  if (!strip) return;
+  const entries = [];
+  stockData.forEach(stock => {
+    stock.takeaways.forEach((t, idx) => {
+      const dateStr = (t.label.match(/\d{1,2}\s+\w+\s+\d{2,4}/) || [])[0] || '';
+      entries.push({ ticker: stock.ticker, label: t.label, date: dateStr, parsed: parseNoteDate(dateStr), idx });
+    });
+  });
+  entries.sort((a, b) => b.parsed - a.parsed || a.ticker.localeCompare(b.ticker));
+  const latestDate = entries[0]?.parsed.getTime();
+  const top = entries.filter(e => e.parsed.getTime() === latestDate);
+  if (!top.length) { strip.style.display = 'none'; return; }
+  strip.innerHTML = '<span class="latest-label">Latest</span>' +
+    top.map(e => `
+      <button class="latest-chip" onclick="jumpTo('card-${e.ticker}',${e.idx})">
+        <span class="lc-ticker">${esc(e.ticker)}</span>
+        <span class="lc-date">${esc(e.date)}</span>
+      </button>`).join('');
+}
+
+function jumpTo(cardId, tabIdx) {
+  if (activeMkt !== 'All') setMarket('All');
+  const searchEl = document.getElementById('search');
+  if (searchEl.value) { searchEl.value = ''; filterCards(''); }
+  switchTab(cardId, tabIdx);
+  const card = document.getElementById(cardId);
+  if (card) card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+/* ── Market bar ──────────────────────────────────────────────────────────── */
+let activeMkt = 'All';
+
+function renderMarketBar() {
+  const bar = document.getElementById('market-bar');
+  if (!bar) return;
+  const counts = {};
+  stockData.forEach(s => { const m = s.market || 'Others'; counts[m] = (counts[m] || 0) + 1; });
+  const marketsWithData = (typeof MARKETS !== 'undefined' ? MARKETS : []).filter(m => counts[m] > 0);
+  const tabs = ['All', ...marketsWithData];
+  const total = stockData.length;
+  bar.innerHTML = tabs.map(m => {
+    const cnt = m === 'All' ? total : (counts[m] || 0);
+    return `<button class="mkt-btn${m === activeMkt ? ' active' : ''}" onclick="setMarket('${m}')">${m}<span class="mkt-count">${cnt}</span></button>`;
+  }).join('');
+}
+
+function setMarket(m) {
+  activeMkt = m;
+  renderMarketBar();
+  filterCards(document.getElementById('search').value);
+}
+
+/* ── Card render ─────────────────────────────────────────────────────────── */
+function renderCard(stock) {
+  const id = 'card-' + stock.ticker;
+  const count = stock.takeaways.length;
+  let tabsHtml = '', panesHtml = '';
+  stock.takeaways.forEach((t, i) => {
+    const active = i === 0 ? ' active' : '';
+    tabsHtml  += `<button class="tab-btn${active}" onclick="switchTab('${id}',${i})">${esc(t.label)}</button>`;
+    panesHtml += `<div class="tab-pane${active}">${renderContent(t.content)}</div>`;
+  });
+  const noTagBadge = stock.noTag ? `<span class="no-tag-badge">⚠ no market</span>` : '';
+  return `
+    <div class="card" id="${id}" data-ticker="${stock.ticker}" data-market="${esc(stock.market||'Others')}">
+      <div class="card-header">
+        <span class="ticker-badge">${esc(stock.ticker)}</span>${noTagBadge}
+        <span class="note-count">${count} note${count>1?'s':''}</span>
+      </div>
+      <div class="tabs-bar">${tabsHtml}</div>
+      <div class="tab-content">${panesHtml}</div>
+    </div>`;
+}
+
+/* ── Tab switch ──────────────────────────────────────────────────────────── */
+function switchTab(cardId, idx) {
+  const card = document.getElementById(cardId);
+  card.querySelectorAll('.tab-btn').forEach((b, i) => b.classList.toggle('active', i === idx));
+  card.querySelectorAll('.tab-pane').forEach((p, i) => p.classList.toggle('active', i === idx));
+}
+
+/* ── Filter ──────────────────────────────────────────────────────────────── */
+function filterCards(q) {
+  const term = q.trim().toUpperCase();
+  let visible = 0;
+  document.querySelectorAll('.card').forEach(c => {
+    const tickerMatch = !term || c.dataset.ticker.toUpperCase().includes(term);
+    const mktMatch = activeMkt === 'All' || c.dataset.market === activeMkt;
+    const show = tickerMatch && mktMatch;
+    c.classList.toggle('hidden', !show);
+    if (show) visible++;
+  });
+  const total = document.querySelectorAll('.card').length;
+  document.getElementById('count-chip').textContent = visible + ' stocks';
+  document.getElementById('result-label').textContent =
+    (term || activeMkt !== 'All') ? `แสดง ${visible} จาก ${total}` : '';
+}
+
+/* ── Mount ───────────────────────────────────────────────────────────────── */
+(function mount() {
+  const grid = document.getElementById('grid');
+  const noData = document.getElementById('no-data');
+  if (window._DATA_ERR || typeof stockData === 'undefined' || !stockData.length) {
+    noData.style.display = 'flex';
+    document.getElementById('count-chip').textContent = 'no data';
+    return;
+  }
+  grid.innerHTML = stockData.map(renderCard).join('');
+  renderMarketBar();
+  renderLatestStrip();
+  const total = stockData.length;
+  const notes = stockData.reduce((s, x) => s + x.takeaways.length, 0);
+  document.getElementById('count-chip').textContent = `${total} stocks`;
+  document.getElementById('result-label').textContent = `${notes} notes รวม`;
+  if (typeof SYNC_TIMESTAMP !== 'undefined') {
+    document.getElementById('sync-info').textContent = `Synced: ${SYNC_TIMESTAMP}`;
+  }
+})();
+</script>
+
+<!-- Register Service Worker -->
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js').catch(() => {});
+  });
+}
+</script>
+</body>
+</html>
