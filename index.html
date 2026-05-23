@@ -69,14 +69,15 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .sync-info{font-size:10px;color:var(--muted);}
 
 /* ── Theme switcher ──────────────────────────────────────────────────────── */
-.theme-switcher{display:flex;gap:5px;align-items:center;}
-.theme-btn{width:22px;height:22px;border-radius:50%;border:2px solid transparent;
-  cursor:pointer;transition:transform .15s,border-color .15s;}
-.theme-btn:hover{transform:scale(1.15);}
-.theme-btn.active{border-color:var(--text);transform:scale(1.1);}
+.theme-switcher{display:flex;gap:4px;align-items:center;}
+.theme-btn{width:14px;height:14px;border-radius:50%;border:none;
+  cursor:pointer;transition:transform .15s,box-shadow .15s;
+  box-shadow:0 0 0 1px rgba(0,0,0,.12);}
+.theme-btn:hover{transform:scale(1.2);}
+.theme-btn.active{box-shadow:0 0 0 2px var(--bg), 0 0 0 3.5px var(--accent);}
 .theme-btn[data-t="sunrise"]{background:linear-gradient(135deg,#fdba74,#ea580c);}
 .theme-btn[data-t="dark"]   {background:linear-gradient(135deg,#3d2e15,#f59e0b);}
-.theme-btn[data-t="finance"] {background:linear-gradient(135deg,#1e3a6e,#b07030);}
+.theme-btn[data-t="finance"]{background:linear-gradient(135deg,#1e3a6e,#b07030);}
 
 /* ── Market tab bar ──────────────────────────────────────────────────────── */
 .market-bar{display:flex;gap:0;padding:0 20px;background:var(--surface);
