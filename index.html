@@ -55,7 +55,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
   line-height:1.6;-webkit-font-smoothing:antialiased;transition:background .25s,color .25s;}
 
 /* ── Header ─────────────────────────────────────────────────────────────── */
-.hdr{padding:14px 20px;background:var(--surface);border-bottom:1px solid var(--border);
+.hdr{padding:14px 20px;background:var(--bg);border-bottom:1px solid var(--border);
   display:flex;align-items:center;gap:12px;position:sticky;top:0;z-index:10;
   transition:background .25s,border-color .25s;
   padding-top:max(14px, env(safe-area-inset-top));}
@@ -80,7 +80,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .theme-btn[data-t="finance"]{background:linear-gradient(135deg,#1e3a6e,#b07030);}
 
 /* ── Market tab bar ──────────────────────────────────────────────────────── */
-.market-bar{display:flex;gap:0;padding:0 20px;background:var(--surface);
+.market-bar{display:flex;gap:0;padding:0 20px;background:var(--bg);
   border-bottom:1px solid var(--border);overflow-x:auto;scrollbar-width:none;}
 .market-bar::-webkit-scrollbar{display:none;}
 .mkt-btn{padding:11px 16px;font-size:13px;font-weight:500;color:var(--muted);
