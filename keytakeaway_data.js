@@ -1,9 +1,9 @@
 // AUTO-GENERATED — Chopper Key Takeaway Data
-// Last sync: 2026-05-26 13:28:37
+// Last sync: 2026-05-26 13:29:51
 // Source: D:\My Drive\Stock Notes
 // DO NOT edit manually — run sync_data.py to regenerate
 
-const SYNC_TIMESTAMP = "2026-05-26 13:28:37";
+const SYNC_TIMESTAMP = "2026-05-26 13:29:51";
 const MARKETS = ["SET", "DR", "US", "China", "Others"];
 const stockData = [
   {
@@ -131,8 +131,8 @@ const stockData = [
   },
   {
     "ticker": "Advantest",
-    "market": "Others",
-    "noTag": true,
+    "market": "DR",
+    "noTag": false,
     "takeaways": [
       {
         "label": "THI 26 May 26",
@@ -558,8 +558,8 @@ const stockData = [
   },
   {
     "ticker": "KISS",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "P Meng 25 May 26",
@@ -621,8 +621,8 @@ const stockData = [
   },
   {
     "ticker": "Lenovo",
-    "market": "Others",
-    "noTag": true,
+    "market": "DR",
+    "noTag": false,
     "takeaways": [
       {
         "label": "THI 26 May 26",
