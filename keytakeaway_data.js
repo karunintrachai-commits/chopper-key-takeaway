@@ -1,9 +1,9 @@
 // AUTO-GENERATED — Chopper Key Takeaway Data
-// Last sync: 2026-05-26 23:41:55
-// Source: G:\My Drive\Stock Notes
+// Last sync: 2026-05-28 13:43:46
+// Source: D:\My Drive\Stock Notes
 // DO NOT edit manually — run sync_data.py to regenerate
 
-const SYNC_TIMESTAMP = "2026-05-26 23:41:55";
+const SYNC_TIMESTAMP = "2026-05-28 13:43:46";
 const MARKETS = ["SET", "DR", "US", "China", "Others"];
 const stockData = [
   {
@@ -330,6 +330,10 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "KKPS 28 May 26",
+        "content": "**Date:** 28 May 26\n\nCOM7 - BofA raised Apple’s PO to US$380 from US$330 a positive read-through\n\nThis is based on the thesis that Apple has ability to capture the emerging “agentic smartphone” opportunity, which could lead to multiple rerating.\n\nThis will be achieved by making newer iPhones materially better AI devices through stronger NPUs, higher memory and bandwidth, scaling hybrid inference across on-device models, and enabling them to better understand intent, retrieve context, and complete workflows. There is a high chance that the new Siri version will meet these requirements, further widening the gap between iPhones and other brands while generating an additional US$15-30bn in incremental revenue.\n\nThis is another positive read-through for COM7 (BUY), as iPhones will likely continue gaining market share. Higher memory prices have resulted in increased selling prices for other flagship Android brands, making iPhones more competitive in terms of pricing, on top of other advantages such as brand equity, ecosystem, and software support. These trends have already been reflected in the weak 1Q mobile phone performance of key Android brands such as Samsung and Xiaomi relative to Apple’s.\n\n---\n\n**Market:** SET"
+      },
+      {
         "label": "KKPS 14 May 26",
         "content": "**Date:** 14 May 26\n\nWe have received some pushback on the stock, mainly around concerns over Ufund, COM7’s BNPL vehicle, and the slow earnings growth of the parent company.\n\nStarting with Ufund, its loan portfolio rose 31% QoQ in 1Q26, while the approval rate increased to 48% from an average of 42% in 2025. This has raised concerns that NPLs could become an issue again, as they did in 2021 to 2022 when the NPL ratio reached 3.5% to 4.3%. We believe the risk is now limited.\n\nAt that time, the approval rate was much higher at 70% to 86%, while COM7 relied on an outsourced credit scoring service due to its limited experience. The Lockphone system was also still at an early stage of adoption and was less effective. \n\nCOM7 now has its own internal scoring system, allowing it to assess credit risk more effectively. The Lockphone system has also become more effective in controlling credit risk, supported by cooperation from mobile phone brands. As a result, credit risk management and cash collection have improved, with the NPL ratio now below 1%.\n\nIn addition, Ufund’s customer mix has shifted more toward working age customers and away from students, which should also help reduce NPL risk. Mobile phones are essential tools for working customers in their daily lives and income generation, making repayment discipline stronger than in the student segment.\n\nNote that the working age segment now accounts for over 72% of Ufund’s total portfolio, while the student segment has declined to 28% from 100% during 2021 to 2023, suggesting a materially lower risk profile.\n\nLonger term, COM7 targets raising the approval rate to 60%, which it views as appropriate and unlikely to create excessive asset quality risk.\n\nOn concerns over the slow earnings growth of the parent company, we believe the parent company’s profit margin does not accurately reflect the real performance of its retail operations. Major costs such as rental expenses and human resources are not allocated to subsidiaries and are instead booked entirely in the parent company’s P&L. Therefore, top line revenue growth, which rose 9% YoY in 1Q26, is the most reliable indicator of core retail performance.\n\n2Q tracking so far remains strong, supported by solid retail top line growth and improving cash collection. Buy."
       },
@@ -464,6 +468,10 @@ const stockData = [
     "market": "SET",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "CLSA 28 May 26",
+        "content": "**Date:** 28 May 26\n\nInfineon announced its second price hike of 2026 effective July 1, citing AI data centre demand “exceeding expectations” alongside rising supply chain costs — with Texas Instruments simultaneously announcing its own second price hike covering PMICs and MOSFETs.  \n\nWe see this is a positive read-through for HANA on two fronts: \n\n(1) Infineon and TI are inferred key customers of HANA’s Ayutthaya IC assembly business — pricing power signals the IC upcycle is real, accelerating, and broader than consensus expects, supporting our FY27 estimates which sit 27–31% above Street; \n\n(2) surging demand for power semiconductors in AI data centres validates HANA’s PMS strategic pivot into AI Power Infrastructure via SiC JFET and high-voltage SiC MOSFET — the TAM HANA is entering is tightening, not commoditising. IC recovery playing out faster than consensus.\n\nhttps://www.trendforce.com/news/2026/05/27/news-infineon-announces-second-2026-price-hike-effective-july-1-amid-rising-supply-chain-costs-strong-demand/"
+      },
       {
         "label": "KKPS 21 May 26 ①",
         "content": "**Date:** 21 May 26\n\nHana meeting - 3 AI products\n\n1. AI cooling device, Phononic project\nLPN EMS has the Phononic AI cooling project on track, with a new agreement to double output. The product supports cooling for GPU, HBM, networking and optical components, where heat density is becoming a key AI data center bottleneck.\n\nTiming: Q3/26 to Q4/27\nAI revenue opportunity, likely more visible in 2027.\n\n2. High density PCBA for 1.6T optical testing\nHana won a new high density PCBA project for an oscilloscope used in 1.6T transceiver optical testing. Direct customer is likely a test equipment OEM, while end users are hyperscalers and optical module makers.\n\nTiming: Ramp from end Q3/26, full capacity by Q4/26 to Q1/27\nMost tangible upside. Management said revenue could become equivalent to a top 5 customer by 2027, with limited capex.\n\n3. SiC solid state transformer devices\nPMS is targeting SiC devices for solid state transformers used in AI data center power infrastructure. SSTs improve power efficiency, reduce footprint and support higher power density.\n\nTiming: Q2/27 to Q4/27\nStrategic but early. PMS likely remains loss making in 2026, with upside mainly from 2027. Similar story as Wolfspeed."
@@ -620,6 +628,17 @@ const stockData = [
     ]
   },
   {
+    "ticker": "Kuaishou",
+    "market": "DR",
+    "noTag": false,
+    "takeaways": [
+      {
+        "label": "THI 28 May 26",
+        "content": "**Date:** 28 May 26\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎_𝐊𝐮𝐚𝐢𝐬𝐡𝐨𝐮 𝐄𝐚𝐫𝐧𝐢𝐧𝐠𝐬 𝐐𝐮𝐢𝐜𝐤 𝐂𝐨𝐦𝐦𝐞𝐧𝐭\n\nKuaishou กำไรดีกว่าคาด แต่ margin ถูกกดจาก AI\n\n• Kuaishou รายงานงบ 1Q26 ดีกว่าคาดในภาพรวม รายได้อยู่ที่ RMB33.72bn โต 3.4% YoY และสูงกว่าตลาดคาด 0.91% ขณะที่ adjusted net income อยู่ที่ RMB3.37bn สูงกว่าคาด 11.31% และ adjusted EPS สูงกว่าคาด 13.04% แม้กำไรจะลดลงแรง 27% แต่ยังออกมาดีกว่าที่ตลาดกังวล\n\n• แรงหนุนหลักมาจาก online marketing services (ads) และ Kling AI โดยรายได้โฆษณาโต 9.27% YoY ส่วน other services โต 15.86% YoY จาก Kling AI ที่ทำรายได้มากกว่า RMB650mn และโตมากกว่า 300% YoY ทำให้ Kuaishou เริ่มมีภาพของธุรกิจ AI ที่ monetize ได้จริง ไม่ใช่แค่แพลตฟอร์มวิดีโอสั้นและ e-commerce แบบเดิม\n\n• จุดที่เป็นตำหนิ คือ gross margin ลดเหลือ 51.2% ต่ำกว่าตลาดคาดเล็กน้อย และลดลงจาก 54.6% ในปีก่อน และจาก 55.1% ในไตรมาสก่อน จากต้นทุน server, bandwidth, ค่าเสื่อม และการลงทุน AI ที่สูงขึ้น ขณะที่ MAU โตแรงเป็น 771.7mn แต่ DAU โตเพียง 412.7mn ทำให้ต้องติดตามต่อว่า user ที่เข้ามาเพิ่มจากเทศกาลและแคมเปญ จะเปลี่ยนเป็นผู้ใช้ประจำและช่วยดัน e-commerce/โฆษณาได้มากแค่ไหนในไตรมาสถัดไป\n\n• เราจะ update รายละเอียดเพิ่มเติมอีกครั้งหลัง Earnings Call\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎 𝐎𝐟𝐟𝐢𝐜𝐞"
+      }
+    ]
+  },
+  {
     "ticker": "Lenovo",
     "market": "DR",
     "noTag": false,
@@ -701,6 +720,17 @@ const stockData = [
       {
         "label": "TNS 19 May 26",
         "content": "**Date:** 19 May 26\n\nMINT (BUY, TP Bt37.0): Neutral view from analyst meeting\n\n- MINT reaffirmed its three-year revenue and profit growth targets for 2026-28, targeting high-single-digit annual revenue growth and 15-20% annual profit growth, driven by asset-light expansion in both its hotel and food businesses. The company expects to sign management agreements for 50+, 80+, and 100+ hotels in 2026-28.\n\n- Total portfolio RevPAR in April 2026 recorded low-single-digit growth. On-the-book RevPAR for 2Q26 is expected to grow by low single digits in Europe, while Thailand is projected to decline by low single digits and the Maldives by high single digits.\n\n- Food SSSG in April 2026 declined by low single digits, with Thailand posting low-single-digit growth, China delivering double-digit growth, while Australia and Singapore recorded low-single-digit declines.\n\n- MINT still targets to launch a REIT worth c.US$1bn in early 4Q26. Proceeds will mainly be used for new investments and debt repayment. Management expects to see y-y EPS growth after issuing REIT. MINT targets to spend capex of Bt15-16/14/14bn in 2026-28.\n\n- To manage rising costs, MINT has secured food supplies for the next six months in its food business, while nearly 100% of energy costs in Europe have been hedged for its hotel business. MINT expects its EBITDA margin to improve y-y in 2Q26.\n\n- We do not expect MINT to deliver exciting earnings growth in 2Q26, but we expect its y-y earnings growth momentum to improve in 2H26. Trading at 14.1x 2026F PE, we believe the stock remains inexpensive; BUY.\n\nSiriporn ttbw"
+      }
+    ]
+  },
+  {
+    "ticker": "MRVL",
+    "market": "DR",
+    "noTag": false,
+    "takeaways": [
+      {
+        "label": "THI 28 May 26",
+        "content": "**Date:** 28 May 26\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎_𝐌𝐚𝐫𝐯𝐞𝐥𝐥 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐄𝐚𝐫𝐧𝐢𝐧𝐠𝐬 𝐑𝐞𝐬𝐮𝐥𝐭 𝟏𝐐𝐅𝐘𝟐𝟕 (𝟏𝐐𝐂𝐘𝟐𝟔)\n\nMarvell ยกเป้า AI Connectivity แต่ EPS ยังถูกกดจากการลงทุน\n\n𝐊𝐞𝐲 𝐭𝐚𝐤𝐞𝐚𝐰𝐚𝐲𝐬\n\nรายได้ดีจาก Data Center แต่ EPS ไม่ได้ beat แรงเท่ารายได้\n\n• Marvell รายงานรายได้ 1QFY27 ที่ $2.418bn ทำสถิติสูงสุดใหม่ตามที่ตลาดคาด และโต 28% YoY แรงหนุนหลักมาจาก Data Center ที่ทำรายได้ $1.833bn โต 27% YoY จากดีมานด์ AI ที่แข็งแรงใน optical interconnect, custom silicon และ switching อย่างไรก็ตาม EPS อยู่ที่ $0.80 inline กับที่ตลาดคาดและ flat QoQ สูงกว่ากลาง guidance เพียง $0.01 จากจำนวนหุ้น diluted ที่เพิ่มขึ้นจากดีล Celestial AI, XConn และ NVIDIA ทำให้ภาพรวมเป็นงบที่รายได้และ guidance ดี แต่ upside ของ EPS ถูกกดดันจากการลงทุนและ dilution ระยะสั้น\n\nGrowth Curve ถูกยกขึ้น 3 ธุรกิจเร่งพร้อมกัน\n\n• Marvell ยกภาพการเติบโตทั้งปีขึ้นชัดเจน จากเดิมคาดว่ารายได้รายไตรมาสตั้งแต่ Q2 จะโตระดับ high single-digit QoQ มาเป็น Q2 โต double digit QoQ และ Q3-Q4 โตอย่างน้อย 10% QoQ ทำให้บริษัทคาดว่ารายได้ต่อไตรมาสจะแตะ $3bn ใน Q3 เร็วกว่ามุมมองเดิม 1 ไตรมาส ขณะที่ FY27 revenue growth ถูกปรับจากมากกว่า 30% เป็นประมาณ 40% และ FY28 จากใกล้ 40% เป็นประมาณ 45% บนฐานรายได้ที่สูงขึ้น จุดสำคัญคือการเติบโตนี้มาจาก 3 ธุรกิจที่เร่งพร้อมกัน ได้แก่ interconnect, switching และ custom ไม่ใช่แค่ custom XPU เพียงขาเดีย\n\nInterconnect ถูก Upgrade แรงสุด 30% > 50% > 70% ในรอบ 9 เดือน\n\n• Interconnect เป็นตัวเร่งหลัก บริษัทปรับ guidance FY27 ขึ้นซ้ำ 3 รอบ จาก 30% มาเป็นมากกว่า 50% ใน call ก่อน และล่าสุดปรับเป็นมากกว่า 70% YoY สะท้อน demand ฝั่ง AI networking ที่แข็งกว่าที่บริษัทเคยมองอย่างต่อเนื่อง และยังบอกเป็นนัยว่า adoption ของ connectivity หลาย layer เร็วขึ้นพร้อมกัน โดยเฉพาะ scale-out สำหรับเชื่อม AI cluster ภายใน data center ให้รับ traffic มากขึ้น (PAM4 800G และ 1.6T), scale-up สำหรับเชื่อมชิป AI ระยะใกล้ให้ latency ต่ำและ bandwidth สูงมาก (CPO/NPO) และ scale-across สำหรับเชื่อมหลาย data center ให้ทำงานใกล้เคียงกับ cluster เดียวกัน (DCI Modules) จุดที่น่าสนใจคือ scale-across เริ่มกลายเป็นโอกาสใหม่ เพราะ AI cluster ขนาดใหญ่ต้องการการเชื่อมต่อระหว่าง data center ที่เร็วและเสถียรมากขึ้น ทำให้ DCI Modules มีโอกาสขยายจาก use case เดิมไปสู่โครงสร้างพื้นฐานของ AI workload โดยตรง\n\nSwitching และ Custom กลายเป็น Growth Engine ถัดไป\n\n• Switching เริ่มกลายเป็นธุรกิจที่ใหญ่ขึ้น จาก scale-out Ethernet switch ที่บริษัทคาดว่าจะเกิน $600mn ใน FY27 และ tracking ไปสู่ระดับ annualized $1bn ใน FY28 ขณะที่ scale-up switch ได้แรงหนุนจาก XConn, PCIe/CXL switch และ NVLink Fusion ที่ช่วยให้ Marvell เชื่อม custom silicon เข้ากับ ecosystem ของ NVIDIA ได้ ส่วน Custom ยังเป็นแรงหนุนระยะยาว โดย FY27 คาดโตมากกว่า 20% YoY, FY28 ปรับจาก at least double เป็น more than double และ FY29 ยืนยันเป้าหมายมากกว่า $10bn โดยหลัก ๆ มาจาก XPU attach เช่น NIC และ CXL memory attach เพราะเป็นชิปรอบระบบที่ช่วยให้ memory, network และ data movement วิ่งทัน XPU หลัก และผู้บริหารเคยบอกว่า XPU attach มีลักษณะ margin-rich กว่า เพราะใช้ Marvell IP มากกว่า\n\nMargin ถูกกดระยะสั้น เพื่อแลกกับ AI Platform ระยะยาว\n\n• Gross Margin ใน Q1 อยู่ที่ 58.9% ลดลง 10bps QoQ และ 90bps YoY ขณะที่ guide Q2 อยู่ในกรอบ 58.25–59.25% สะท้อน Product Mix ที่เปลี่ยนไปสู่ Custom Silicon ซึ่งมี gross margin ต่ำกว่าค่าเฉลี่ยของบริษัท รวมถึงค่าใช้จ่ายจากการรวม Celestial AI, XConn และการลงทุนเพื่อ secure supply ให้ทันดีมานด์ AI ที่เร่งขึ้น\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎 𝐎𝐟𝐟𝐢𝐜𝐞"
       }
     ]
   },
@@ -935,9 +965,20 @@ const stockData = [
     ]
   },
   {
-    "ticker": "SK Hynix",
+    "ticker": "SEAFCO",
     "market": "Others",
     "noTag": true,
+    "takeaways": [
+      {
+        "label": "FSS 26 May 26",
+        "content": "**Date:** 26 May 26\n\n(-) SEAFCO – ประชุม Opp. Day โทนค่อนไปทางลบ\n\nผู้บริหารยังคงเป้ารายได้ปี 2026 ที่ 1.8 พันลบ. (+17% y-y) ใกล้เคียงกับสมมติฐานเราที่ 1.75 พันลบ. รองรับด้วย Backlog ปัจจุบัน 1.4 พันลบ. \n\nอย่างไรก็ตาม ปริมาณเทคอนกรีต 2QTD เฉลี่ยอยู่ที่ 1,063 cu.m. ลดลง -12% จากค่าเฉลี่ย 1Q26 จากผลของวันหยุดยาวและการย้ายเครื่องจักร สะท้อนว่ารายได้ 2Q26 มีโอกาสชะลอ q-q \n\nอีกทั้ง ผลกระทบจากสงครามคาดส่งผลให้ต้นทุนงานระหว่างทำเพิ่มขึ้นราว 5% (น้ำมัน +3% และวัสดุก่อสร้าง +2%) คาดกดดัน GPM ลดลงราว 1-2% ส่วนงานใหม่สามารถส่งผ่านต้นทุนไปยังราคาประมูลได้ ส่งผลให้เราประเมินกำไร 2Q26 ยังเติบโต y-y จากฐานต่ำใน 2Q25 แต่อ่อนลง q-q จากเดิมที่คาดว่าจะเร่งตัวขึ้น\n\nงานในมือมีสัดส่วนหลักมาจากรถไฟฟ้าสายสีส้ม ซึ่งจะส่งมอบงานหลักช่วงปลาย 3Q26 ขณะที่รายได้ 4Q26 ยังขึ้นอยู่กับการเติมงานใหม่ โดยมีงานรอประมูล 1.28 หมื่นลบ. แบ่งเป็นงานภาครัฐ 83% และเอกชน 17% ปัจจุบันงานในตลาดส่วนใหญ่ยังเป็นโครงการเอกชนขนาดเล็กซึ่งมาร์จิ้นไม่สูง ขณะที่บริษัทคาดหวังงานภาครัฐ อาทิ ทางด่วน และมอเตอร์เวย์ คาดเห็นความชัดเจนใน 4Q26 และเริ่มก่อสร้างต้น 1Q27 ซึ่งยังมีความเสี่ยงหากการประมูลล่าช้า\n\n#Finansia #FSSIA"
+      }
+    ]
+  },
+  {
+    "ticker": "SK Hynix",
+    "market": "Other",
+    "noTag": false,
     "takeaways": [
       {
         "label": "BofA 22 May 26",
@@ -1017,6 +1058,10 @@ const stockData = [
     "market": "US",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "BofA 28 May 26",
+        "content": "**Date:** 28 May 26\n\nSOX is up ~72% YTD and now accounts for ~18% of the S&P 500. Importantly, the rally has been earnings-led rather, not PE multiple driven.\n\nForward P/E at ~25.6x is broadly unchanged YTD and remains below prior ~30x peaks. We see limited evidence of speculative multiple expansion, supporting the durability of the AI-driven rally.\n\nWe believe the AI cycle is still early and forecast AI TAM tripling to ~$1.7T by 2030E. \n\nWe remain constructive on AI infrastructure, supported by: (1) 3-5x YoY growth at frontier labs, (2) improving monetization and exponential token growth (Google +7x YoY), (3) tight supply with near-full utilization, and (4) underappreciated sovereign, enterprise, and industrial demand.\n\nPositioning continues to favor compute, memory, analog, and semicaps. Preferred exposure: \n(1) Compute (NVDA, AVGO, AMD)\n(2) Memory (MU)\n(3) Analog (ADI, TXN)\n(4) Semicap equipment (LRCX, KLAC)\n(5) EDA (CDNS)\n(6) Interconnects (MRVL)\n(7) Consumer.\n\nไปกันต่อ 🚀"
+      },
       {
         "label": "BofA 26 May 26",
         "content": "**Date:** 26 May 26\n\nGlobal Semis – AI Power Semis and the Transition to 800V Data Centers\n\nAI is creating a massive new power infrastructure cycle, making power delivery the next major bottleneck for AI scaling. As GPU density rises, rack power demand could increase from 10 to 15kW today to over 1MW by the end of the decade, forcing a complete redesign of data center power architecture. \n\nTo solve this, the industry is expected to transition from legacy 48V systems to 800V DC architecture, which improves efficiency, reduces copper usage, lowers power loss, and supports much higher power density. This shift upgrades the entire power chain from the grid to the GPU. \n\nThe main beneficiaries are analog and power semiconductor companies because every layer of the system needs more advanced chips, including power conversion, voltage regulation, sensing, protection, and cooling. \n\nBofA estimates the AI analog semiconductor market grows from about $8bn today to $27bn by 2030. The biggest technology winners are Silicon Carbide (SiC) and Gallium Nitride (GaN), which are more efficient for high voltage AI power systems. \n\nBofA highlights Texas Instruments, Infineon, ADI, and ON Semiconductor as key beneficiaries, with Infineon expected to gain the most share from the shift to 800V infrastructure.\n\n\n***This is a new global investment theme for semis companies***\n\nAs we have consistently highlighted, HANA and KCE are in the supply chains of Texas Instruments, Infineon, ADI, and ON Semiconductor, all of which are key beneficiaries of rising AI power semiconductor demand. \n\nHANA also mentioned in its latest analyst briefing that it aims to shift focus from EV SiC to data center SiC, which directly links to this theme. \n\nDelta Electronics has publicly stated that it has developed next generation 800V DC power solutions with NVIDIA, capable of supporting 1.1MW AI racks. It also showcased 800V DC power, cooling, and microgrid solutions at OCP 2025 and NVIDIA GTC 2026. \n\nOur bullish view is clear. The recent rally in Thai electronics is not merely speculation. A new structural investment theme is emerging for the Thai electronic sector, and it could translate into real fundamental upside. This is why we remain bullish. BUY!\n\n---\n\n**Market:** US\n**Sector:** Semiconductor"
@@ -1133,6 +1178,10 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "KKPS 28 May 26",
+        "content": "**Date:** 28 May 26\n\n🧔‍♂️🏖️European Tourists Return to the Beaches\n\n*We are seeing signs that European tourist demand may be recovering faster than market expectations. Thailand’s inbound European tourist arrivals returned to 9% YoY growth during 18–24 May, marking the first positive weekly growth since the Middle East conflict began.\n\n*Samui passenger volume also accelerated to 24% YoY growth during the same period, bringing overall May growth to 13% YoY (vs a 3% YoY decline in April). \n\n*Meanwhile, tourist arrivals in the Maldives rebounded from a 26% YoY decline in April to 21% YoY growth during 17–25 May. \n\n*We believe this recovery trend is mainly driven by the resumption of Middle Eastern airline operations, with flight activity recovering to around 80% of normal levels.\n\n*RevPAR trends among hotel operators are showing a similar recovery pattern:\n\n• CENTEL’s Samui: from -1-3% YoY in April to +double digit in May and June\n• AWC’s Samui: from -2% YoY in April to +5% YoY in May\n• SHR’s Samui: +20% YoY in May\n• CENTEL’s existing Maldives: from -10% YoY in April to +double digit in May \n• SHR’s Maldives: from -24% YoY in April to +14% YoY in May (Hard Rock Maldive only) \n\n*Stock that should benefit from this trend:\n\n• BA: 72% of passenger revenue from Samui routes \n• CENTEL: 14% and 35% of hotel revenue from the Maldives and Thailand’s upcountry \n• AWC: 56% of hotel revenue from Thailand’s upcountry \n• SHR: 25% and 22% of hotel revenue from the Maldives and Thailand’s upcountry \n• WPH: hospitals in Samui and Krabi, with 37% of international patient revenue mainly from European tourists\n\n---\n\n**Market:** SET\n**Sector:** Tourism"
+      },
+      {
         "label": "KKPS 8 May 26",
         "content": "**Date:** 8 May 26\n\nBangkok Luxury Hotel Trend Update (KKPS, 8 May 26)\n\n*We recently had an update with Bound and Beyond (BEYOND TB, Not Rated), which owns and operates Four Seasons Bangkok at Chao Phraya River and Capella Bangkok.\n\n*BEYOND’s RevPAR should grow by 16–18% YoY in 1Q26, driven by a strong occupancy rate of 68% (vs. 54% in 1Q25), while F&B revenue should increase by 10% YoY, supported by MICE activities and restaurant outlets. As a result, profit is expected to double from Bt55mn in 1Q25 to ~Bt100mn in 1Q26\n\n*RevPAR growth remained strong in April at around +20% YoY and should grow by 15% YoY in early May. In addition, forward bookings for May and June continue to show positive growth. As a result, BEYOND expects mid-teen RevPAR growth in 2Q26.\n\n*Performance in 1Q26 and 2Q26 has exceeded expectations and remains resilient despite the Middle East conflict, suggesting that the Bangkok luxury hotel segment is relatively insulated from the impact. In addition, BEYOND has adjusted its strategy by increasing wholesale customers and shifting focus toward Asian markets, particularly Chinese tourists, to offset weaker European demand.\n\n*Within our coverage, we favor ERW. We estimate 1Q26 profit to grow by 7% YoY to Bt370mn, with potential upside to reach a new quarterly record (vs. Bt373mn in 4Q25). For 2Q26, forward booking RevPAR should grow in the low single digits YoY, supported by Bangkok hotels (56% of total hotel revenue) and Chinese guests. We view this as better than expected, with limited impact from the Middle East conflict, especially considering that the share price has declined by nearly 20% since the conflict began."
       },
@@ -1150,6 +1199,17 @@ const stockData = [
       {
         "label": "BofA 20 May 26",
         "content": "**Date:** 20 May 26\n\nVertiv - Faster markets, stronger outgrowth\n\nMgmt raised its med term revenue guide by 800bp to 20-22% CAGR and lifted its adj. op margin target by 200bp to 27%+, both well above consensus 2030E.\n\nVRT raised content per MW to $3.25-3.75mn, up 10-15% from $2.75-3.0mn prior, reflecting rising AI DC complexity, higher power density, and broader scope across power and thermal. Further upside is possible as next gen architectures and liquid cooling expand VRT’s wallet share per MW.\n\nVRT also raised TAM to $75bn from $62bn, driven by new offerings from recent acquisitions, including PurgeRite, and organic investments such as 800V DC products.\n\nNote that Delta can participate in 800V DC adoption, supported by its HVDC power architecture, rack level power solutions, and liquid cooling portfolio."
+      }
+    ]
+  },
+  {
+    "ticker": "WHA",
+    "market": "SET",
+    "noTag": false,
+    "takeaways": [
+      {
+        "label": "TNS 26 May 26",
+        "content": "**Date:** 26 May 26\n\nWHA: More data center exposure… maintain BUY with higher TP of Bt5.8\n\n• Ongoing FDI upcycle continues to drive strong IE land demand; forecast 2026-27F presales at 2,600/2,300 rai vs. 1,340 rai in 2025.\n\n• WHA remains well exposed to data center customers. Following the 900-rai big-lot presale earlier this year, we expect another 700-rai deal next year.\n\n• Data centers should support long-term recurring utility income growth through higher water and electricity demand.\n\n• WHA still looks inexpensive at 16/11x 2026-27F PE. Earnings estimates revised by -11/+4/+27% for 2026-28F, reflecting higher energy costs this year but stronger land transfer income in 2028F."
       }
     ]
   },
@@ -1187,6 +1247,21 @@ const stockData = [
       {
         "label": "FSS 18 May 26",
         "content": "**Date:** 18 May 26\n\n(+) XO กำไร 1Q26 ฟื้นตัวดี q-q และ y-y\n\n📌กำไรสุทธิ 1Q26 เท่ากับ 129 ลบ. (+47.6% q-q, +13.7% y-y)\nหากไม่รวมการปรับลงมูลค่าสินค้าคงเหลือ 14.9 ลบ. (สุทธิภาษี 11.9 ลบ.) จะมีกำไรปกติที่ 139 ลบ. (+45.3% q-q, +23.7% y-y)\n\n📌กำไรฟื้นตัว q-q มาจากอัตรากำไรขั้นต้นที่สูงขึ้นเป็น 45.4% จาก 38.4% ใน 4Q25 และค่าใช้จ่ายที่ลดลง\n\n📌กำไรฟื้นตัว y-y มาจากรายได้ฟื้นตัว +6.8% y-y (แต่ -6.2% q-q) โตที่ตลาดยุโรปเป็นหลัก +6.5% y-y ส่วนอเมริกายังลดลง q-q และ y-y\n\n#Finansia #FSSIA"
+      }
+    ]
+  },
+  {
+    "ticker": "Xiaomi",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "BofA 28 May 26",
+        "content": "**Date:** 28 May 26\n\nXiaomi’s latest results show memory inflation is becoming a real margin headwind for Android brands. In 1Q26, smartphone GPM fell even though ASP rose 8% YoY. Mgmt is trying to offset this through better mix, tighter channel control, and premiumization, but the margin decline shows these actions are not enough to fully absorb higher component costs.\n\nThis is likely an industry wide issue. As memory prices rise, Android brands may have to raise prices or cut specs. Either way, iPhone becomes more competitive, especially in the premium segment. If Android flagships keep moving higher in price, the gap versus iPhone becomes less meaningful, while Apple still has stronger brand equity, resale value, ecosystem stickiness, financing, and longer software support.\n\nWe think this also supports our positive thesis on COM7, as stronger iPhone competitiveness should benefit Apple focused retail channels.\n\n---\n\n# Xiaomi Idea"
+      },
+      {
+        "label": "THI 27 May 26",
+        "content": "**Date:** 27 May 26\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎_𝐗𝐢𝐚𝐨𝐦𝐢 𝐄𝐚𝐫𝐧𝐢𝐧𝐠𝐬 𝐑𝐞𝐬𝐮𝐥𝐭 𝟏𝐐𝟐𝟔\n\nXiaomi สะดุดจากราคา memory สูง, IoT ฐานสูง, EV ช่วงเปลี่ยนผ่าน\n\n𝐊𝐞𝐲 𝐭𝐚𝐤𝐞𝐚𝐰𝐚𝐲𝐬\n\nรายได้ลดลงครั้งแรกในรอบ 11 ไตรมาส จากแรงกดดัน 3 ด้านพร้อมกัน\n\n• Xiaomi เข้าสู่ปี 2026 ด้วยแรงกดดันพร้อมกันทั้งต้นทุนสูงขึ้น ความต้องการซื้ออ่อนลง และการแข่งขันรุนแรงขึ้น ทำให้รายได้ 1Q26 ลดลง 10.9% YoY เหลือ RMB 99.1 bn เป็นการลดลงครั้งแรกในรอบ 11 ไตรมาส แต่ยังใกล้เคียงตลาดคาด ขณะที่ adjusted net profit ลดลง 43.1% YoY เหลือ RMB 6.1 bn แต่ดีกว่าคาดเล็กน้อย ภาพรวมของงบจึงค่อนข้างผสมผสาน โดยรายได้และ gross profit ใกล้เคียงตลาดคาด แต่กำไรจากการดำเนินงานยังถูกกดจาก smartphone เผชิญต้นทุน memory, IoT ฐานสูง, EV ช่วงเปลี่ยนรุ่น และการลงทุน AI/R&D ที่ยังสูง\n\nSmartphone ยอมเสีย volume เพื่อป้องกัน margin ใน memory supercycle\n\n• ผู้บริหารย้ำว่าต้นทุน memory เข้าสู่รอบขาขึ้นที่ยาวมาก และอาจกดดันต่อถึงปี 2027–2028 ทำให้ Xiaomi ไม่เลือกขึ้นราคากับลูกค้าแบบตรง ๆ แต่ลดการขายรุ่นกลาง-ล่างและคุม stock ในช่องทางขายแทน ผลคือ smartphone shipment ลดลง 19.2% YoY เหลือ 33.8 mn units แต่ ASP ทำสถิติใหม่ที่ RMB 1,310 โต 8.2% YoY เพราะขายรุ่น high-end มากขึ้น จุดดีคือ gross margin ยังยืนได้ที่ 10.1% ในช่วงต้นทุนสูง จุดเสี่ยงคือ volume หายค่อนข้างแรงและแรงกดดันจาก memory ยังไม่จบเร็ว\n\nIoT รายได้หดตัวแรงจากฐาน trade-in/subsidy แต่ margin และ overseas ดีกว่าคาด\n\n• IoT รายได้ -23.7% YoY ซึ่งถูกกดจากฐานสูงในจีน เพราะปีก่อนได้แรงหนุนจากมาตรการ trade-in/subsidy และ 2Q26 ยังมีโอกาสเจอฐานสูงต่อ แต่คุณภาพกำไรดีกว่าที่ตลาดกังวล โดย gross margin เพิ่มเป็น 25.2% ดีขึ้น 5.1 pp QoQ ขณะที่ overseas IoT ทำสถิติสูงสุดใหม่และโต double digit ผู้บริหารจึงวาง IoT เป็นตัวช่วยพยุงกำไรของกลุ่มในช่วงที่ smartphone ถูกต้นทุน memory กดดัน\n\nEV สะดุดจากช่วงเปลี่ยนรุ่น แต่ผู้บริหารบอกว่าผ่านช่วงยากสุดแล้ว\n\n• EV ส่งมอบ 80,856 คัน ใน 1Q26 ต่ำกว่าที่ตลาดคาด เพราะบริษัทหยุดขายรุ่นเก่าเพื่อเตรียม new-generation SU7 ทำให้ volume ต่ำ, ASP ลด, margin ลดเหลือ 20.1% และพลิกกลับมาขาดทุน RMB 3.1 bn อย่างไรก็ตาม ผู้บริหารย้ำว่า EV ผ่านช่วงยากสุดแล้ว หลัง new-generation SU7 มี locked-in orders เกิน 80,000 คัน และยังมั่นใจเป้าส่งมอบทั้งปี 550,000 คัน แม้ run-rate ต้นปีต่ำ จุดที่ต้องพิสูจน์ต่อคือ 2Q26–2H26 ยอดส่งมอบต้องเร่งขึ้นตามที่บริษัทคาด\n\nAI กลายเป็นแกนใหม่ของ Xiaomi แต่ต้องแลกกับการลงทุนที่สูงขึ้น\n\n• ผู้บริหารเปลี่ยนโทนชัดขึ้นว่า AI ไม่ใช่แค่ฟีเจอร์เสริมในมือถือ แต่จะเป็นสมองกลางของ ecosystem “คน-รถ-บ้าน” โดย Xiaomi วางงบลงทุน AI, AI ในโลกจริง เช่น รถอัจฉริยะและหุ่นยนต์ รวมถึงธุรกิจนวัตกรรมมากกว่า RMB 16 bn ในปี 2026 และยังเปิดทางเพิ่มงบได้ หากเห็นผลตอบแทนชัดเจน รอบนี้ MiMo เริ่มมีการใช้งานจริงมากขึ้น เช่น token consumption ทะลุ 4 trillion tokens ในหนึ่งสัปดาห์ และ retention หลัง free trial อยู่ที่ 35% ส่วน miclaw ถูกวางเป็นจุดเริ่มของผู้ช่วย AI ที่สั่งงานข้ามมือถือ แท็บเล็ต คอมพิวเตอร์ และอุปกรณ์ในบ้านได้ จุดดีคือ long-term story แข็งขึ้น แต่ระยะสั้น AI ยังเป็นช่วงลงทุนและอาจกดกำไร ก่อนจะเห็นรายได้หรือกำไรที่จับต้องได้ชัดเจนขึ้น\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎 𝐎𝐟𝐟𝐢𝐜𝐞"
       }
     ]
   }
