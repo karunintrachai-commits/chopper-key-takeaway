@@ -1,9 +1,9 @@
 // AUTO-GENERATED — Chopper Key Takeaway Data
-// Last sync: 2026-06-10 15:43:32
+// Last sync: 2026-06-10 15:54:31
 // Source: G:\My Drive\Stock Notes
 // DO NOT edit manually — run sync_data.py to regenerate
 
-const SYNC_TIMESTAMP = "2026-06-10 15:43:32";
+const SYNC_TIMESTAMP = "2026-06-10 15:54:31";
 const MARKETS = ["SET", "DR", "US", "China", "Others"];
 const stockData = [
   {
@@ -368,8 +368,8 @@ const stockData = [
   },
   {
     "ticker": "COST",
-    "market": "Others",
-    "noTag": true,
+    "market": "DR",
+    "noTag": false,
     "takeaways": [
       {
         "label": "BVI 10 Jun 26",
@@ -397,6 +397,10 @@ const stockData = [
     "market": "SET",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "TNS 10 Jun 26",
+        "content": "**Date:** 10 Jun 26\n\nCPF – Upgrade to BUY; attractive risk-reward\n\nWe upgrade CPF to BUY (from Hold). The stock has declined 27% YTD, with current valuation implying limited value for its core operations relative to its listed stakes in CPALL and CPAXT, estimated at Bt18.6/share at market prices or Bt24/share based on our TP assumptions.\n\nWe raise 2026–28F earnings by 16/5/1% on stronger-than-expected 1Q26 results and lower SG&A expenses. Our DCF-based TP remains unchanged at Bt23 (2026F base year).\n\nFundamentally, we see pork prices in Thailand and China nearing cyclical bottoms, while Vietnam remains strong.\n\nFeed costs remain manageable, supported by ample global supply and CPF’s ~3-month low-cost inventory buffer.\n\nCPF’s ~5.5% dividend yield in 2026F provides additional downside support."
+      },
       {
         "label": "FSS 18 May 26 ①",
         "content": "**Date:** 18 May 26\n\n(+) CPF ประชุมช่วงบ่าย ผบห.ให้มุมมองราคาเนื้อสัตว์จะปรับขึ้นใน 2H26 ทั้งไทยและจีน ส่วนเวียดนามน่าจะยืนสูงต่อเนื่อง\n\n📌ผบห.ให้วิวเชิงบวกต่อแนวโน้มราคาหมูไทยและหมูจีนใน 2H26 ว่ามีโอกาสปรับขึ้น จาก Supply ที่จะลดลง ฝั่งไทยมาจากการลดลงของรายย่อย เพราะแบกรับขาดทุนไม่ไหว + สมาคมขอความร่วมมือลดการเลี้ยงสุกรขุน เอามาทำหมูหัน จากเดิมที่มอง Supply หมูทั้งประเทศปี 2026 เพิ่มขึ้น 4 แสนตัว กลายเป็นอาจลดลงจากปีก่อนราว 2-3 แสนตัว\n\n📌ส่วนฝั่งจีน ภาครัฐขอความร่วมมือผู้เลี้ยง 25 รายใหญ่ลด Supply ลงเป็น 8% (รอบแรกลดไปแล้ว 5%) และให้เลี้ยงไม่เกิน 125 กก/ตัว ปัจจุบันราคาหมูจีนอยู่ที่ 9.7 หยวน/กก. ทาง CPF มองว่าจะขยับขึ้นเป็น 12 และ 13 หยวน ใน 3Q26 และ 4Q26 ตามลำดับ จะพลิกมีกำไรใน 2H26 ได้อีกครั้ง\n\n📌ระยะสั้น ราคาหมูไทย 2Q26 ที่อ่อนตัวลงมา มาจาก 1) การระบาย supply ของผู้เลี้ยงรายย่อย ที่กังวลต่อโรคปากเท่าเปื่อย (เป็นโรคที่มีอยู่แล้ว) แต่รอบนี้เป็นสายพันธุ์ใหม่ ยังไม่มีวัคซีน ปัจจุบันระบาดในต่างประเทศ ยังไม่เข้าประเทศไทย อาการคือ จะทำให้ลูกหมูช็อคหัวใจวาย มีโอกาสเสียหายราว 20% (เรียกว่าเป็นน้องๆ ASF) และ 2) จาก demand ที่อ่อนแอ\n\n📌การส่งออกไก่ยังดีทั้งจากไทย และเวียดนาม โดยในไทยเน้นการส่งออกไก่แปรรูป และลูกค้าหลักคือ QSR เน้นคุณภาพ และปรับราคาขึ้นได้ ส่วนปริมาณส่งออกไก่จากโรงงานของ CPF ในเวียดนามกำลังเร่งตัวขึ้น โดยตลาดหลักคือ ญี่ปุ่น และมีส่งไป ฮ่องกง สิงคโปร์ กัมพูชา และล่าสุดได้อนุญาตเพิ่มที่เกาหลีใต้ โดยลูกค้าไม่ทับกับโรงงาน CPF ในไทย แต่คาดอาจแย่งส่วนแบ่งตลาดจากลูกค้าไทยเจ้าอื่น\n\n📌เดิม CPF ได้รับอนุญาตส่งออกไก่ไปจีน 3 โรงงาน ปัจจุบันเหลือส่งออกได้ 1 โรง (โคราช เป็นโรงที่กำลังการผลิตมากสุด) ส่วนอีก 2 โรง ส่งออกไปไม่ได้ เพราะจีนไม่เข้ามาตรวจ แต่ยอดส่งออกจีนน้อยมาก\n\n📌แนวโน้มต้นทุนวัตถุดิบจะปรับขึ้นต่อเนื่องใน 2H26 โดยข้าวโพดอาจขยับไปถึง 12-12.5 บาท ขึ้นจาก 11 บาท และกากถั่วเหลืองอาจไป 16-17 บาท ขึ้นจาก 14-15 บาท CPF มีล็อกไว้ไม่น้อยกว่า 100 วัน อาจเริ่มกระทบในช่วง 2H26\n\n📌ทั้งนี้ ไทยมีการลงนาม MOU นำเข้าข้าวโพดจาก 4 บริษัทในสหรัฐ (ไม่ต้องแลกกับการนำเข้าหมู) ราว 1 ล้านตัน คาดจะเริ่มนำเข้าได้ช่วงปลายปี และจะมากขึ้นในปี 2027\n\n📌หุ้นซื้อคืนที่ครบกำหนดให้ขายได้จำนวน 163.9 ล้านหุ้น (1.95% ของหุ้นทั้งหมด) ต้นทุน 21.4 บาท/หุ้น คาดบริษัทอาจไม่ขายออกมา เพราะสถานการณ์ไม่เอื้ออำนวย\n\n📌หากราคาเนื้อสัตว์ทั้งในไทยและจีนปรับขึ้นตามได้วิวที่ผบห.ให้ เราคาดกำไรจะกลับมาฟื้นตัวได้ชัดเจนใน 2H26 ยังคงราคาเป้าหมายที่ 24 บาท แนะนำ ซื้อ ภายหลังเห็นราคาหมูขยับขึ้นอีกครั้ง\n\n#Finansia #FSSIA\n\n---\n\n# CPF Idea"
@@ -889,8 +893,8 @@ const stockData = [
   },
   {
     "ticker": "Nanya",
-    "market": "Others",
-    "noTag": true,
+    "market": "Taiwan",
+    "noTag": false,
     "takeaways": [
       {
         "label": "THI 10 Jun 26",
@@ -1093,8 +1097,8 @@ const stockData = [
   },
   {
     "ticker": "SEAFCO",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "FSS 26 May 26",
@@ -1179,8 +1183,8 @@ const stockData = [
   },
   {
     "ticker": "STPI",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "**Date:** 28 May 26 28 May 26",
@@ -1313,8 +1317,8 @@ const stockData = [
   },
   {
     "ticker": "TSMC",
-    "market": "Others",
-    "noTag": true,
+    "market": "US",
+    "noTag": false,
     "takeaways": [
       {
         "label": "THI 10 Jun 26",
@@ -1421,8 +1425,8 @@ const stockData = [
   },
   {
     "ticker": "Xiaomi",
-    "market": "Others",
-    "noTag": true,
+    "market": "DR",
+    "noTag": false,
     "takeaways": [
       {
         "label": "BofA 28 May 26",
