@@ -1,9 +1,9 @@
 // AUTO-GENERATED — Chopper Key Takeaway Data
-// Last sync: 2026-06-10 15:54:31
+// Last sync: 2026-06-18 14:47:45
 // Source: G:\My Drive\Stock Notes
 // DO NOT edit manually — run sync_data.py to regenerate
 
-const SYNC_TIMESTAMP = "2026-06-10 15:54:31";
+const SYNC_TIMESTAMP = "2026-06-18 14:47:45";
 const MARKETS = ["SET", "DR", "US", "China", "Others"];
 const stockData = [
   {
@@ -135,6 +135,10 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "KKPS 16 Jun 26",
+        "content": "**Date:** 16 Jun 26\n\n🏨AWC: May Operating Performance Update\n\n*RevPAR improved from 3% YoY growth in April to 6% YoY growth in May. Upcountry hotels delivered particularly strong performance, with RevPAR growing 25% YoY, driven by Chiang Mai (+40%), Samui (+17–18%), and Hua Hin (+14%). However, Bangkok hotel RevPAR declined by 9% YoY due to a high base at Marriott Marquis, which hosted a large MICE event last year, and the ramp-up of Jubilee Prestige. Excluding these two hotels, Bangkok RevPAR would have been broadly flat YoY.\n\n*Forward bookings for June remain strong, with RevPAR growth tracking at around 7% YoY. As a result, we expect 2Q26 RevPAR growth of 5–6% YoY.\n\n*Looking ahead, forward bookings have accelerated to 25% YoY growth for 3Q26 and 40% YoY growth for 4Q26, supported by the IMF and World Bank Group Meetings in Bangkok this October. In addition, forward bookings at Melia Pattaya have increased threefold for 4Q26 and fourfold for December, benefiting from the Tomorrowland event. Average ADR at both Marriott Pattaya and Melia Pattaya has also increased to around Bt10,000, compared with the normal range of Bt4,000–7,000.\n\n---\n\n**Market:** SET"
+      },
+      {
         "label": "KKPS 2 Apr 26",
         "content": "**Date:** 2 Apr 26\n\n🏨AWC: Operating Stats Update\n\n*We recently had an update with AWC. Same-hotel RevPAR has turned positive, improving from -2% YoY in 4Q25 to +2% YoY in Jan–Feb, mainly driven by upcountry hotels (+5% YoY).\n\n*Despite the Middle East conflict, same-hotel RevPAR is expected to continue growing by around 5% YoY, supported by a low base last year. A key driver is the recovery in Chinese tourists, with revenue from Chinese guests (excluding new hotels) increasing by 11% YoY in Jan–Feb.\n\n*Some impact is expected in April, with forward bookings (excluding new hotels) likely to decline slightly by 2% YoY. Middle Eastern and European guests account for 7% and 20% of revenue, respectively.\n\n*On the positive side, forward bookings for 2H26 have increased by 40% YoY, driven by major events, including the World Bank Group meeting in Bangkok in October."
       }
@@ -183,6 +187,10 @@ const stockData = [
     "market": "SET",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "MST 11 Jun 26",
+        "content": "**Date:** 11 Jun 26\n\nBBL – Mixed feedback on our downgraded to HOLD (TP THB180)\n \nWe collected all feedback from the several investors post our call on BBL’s downgrade to HOLD this week.\n\nRetail and High Net Worth (HNW) investors remain optimistic about BBL’s deep valuation discount.\n\nInstitutional players are split based on their investment horizons and macro assumptions. \n\nLocal and Foreign Institutions generally view the bank as a major proxy for long-term interest rate uptrends but differ on the timing of near-term catalysts.\n\nHedge Funds focus heavily on near-term regional risks, specifically surrounding Indonesia and Permata Bank.\n \nPlease see more details below\n \n1. Retail & High Net Worth | Bullish / Value-Driven\n\nThey firmly believe BBL’s share price remains fundamentally cheap, even after its recent upward price momentum.\n\nThey see massive latent value in BBL given its significantly lower valuation multiples (PER, P/BV) compared to other Thai big banks.\n\nThey note that BBL’s dividend yield is only 1 percentage point lower than the sector average, leaving substantial room for management to surprise on the upside by increasing its dividend payout ratio.\n \n2. Local Institutional | Macro-Driven & Split on Timing\n\nSome investors expect a policy rate uptrend to begin in early 2027. They actively favor BBL and KTB as the prime beneficiaries of a widening NIM.\n\nThey argue that the positive earnings impact from an eventual Thai interest rate hike will comfortably offset any earnings drag from Permata Bank (which accounts c. 15% of BBL’s bottom line).\n\nConversely, more conservative local institutions see no positive drivers over the next 6–12 months, believing a policy rate hike is highly unlikely in near term.\n \n3. Foreign Institutional | Structural Bulls vs. Switching Queries\n\nLong-term investors expect market sentiment to transition away from the bearish \"low dividend payout\" narrative toward a bullish \"prime beneficiary of higher interest rates\" thesis.\n\nSeveral accounts are actively asking for ideas to switch out of BBL into other banks. However, they simultaneously acknowledge that peer valuations look fully valued/fair at current levels, offering few compelling alternatives.\n\nThese investors exhibit low anxiety regarding Permata Bank's earnings volatility due to its resilient buffers—specifically its high Common Equity Tier 1 ratio and robust NPL coverage.\n \n4. Hedge Funds | Risk-Averse & Tactically Focused\n\nThey express explicit concerns regarding Indonesia’s long-term political, economic outlook and Permata Bank's earnings, anticipating this to act as a persistent overhang on BBL throughout the year.\n\nSome investors are intensely focused on BBL’s non-interest income (specifically its dividend and investment income from its massive investment portfolio) to support overall bottom-line earnings.\n\nJesada\nMaybank"
+      },
       {
         "label": "MST 10 Jun 26",
         "content": "**Date:** 10 Jun 26\n\nBBL - The good and the bad\n \nWe downgrade BBL to HOLD from BUY with an unchanged TP of THB180. Potential upside is limited after BBL offered 11% total return in the past 2 months.\n\nWe note robust corporate loan demand for working capital in 1H26 and expect positive momentum to persist on FDI in electronics and related data center investments in 2H26.\n\nBBL is a prime beneficiary of (i) rising bond yields, (ii) higher dividend income and (iii) solid domestic and global equity markets this year.\n \nHowever, we expect a dip in Permata earnings to impact BBL’s bottom line from 2Q26 due to higher credit cost and lower NIM. \n\nAs some loans are collateralised with equities, the drop in the Jakarta Composite Index (JCI) poses some negative risk to provisions.\n \nLink to report\nhttps://mkefactsettd.maybank-ke.com/PDFS/539385.pdf\n\nJesada\nMaybank\n\n---\n\n**Market:** SET"
@@ -382,6 +390,10 @@ const stockData = [
     "market": "SET",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "TNS 17 Jun 26",
+        "content": "**Date:** 17 Jun 26\n\nCPALL. BUY, Bt62 TP (from Bt60)\n\nWe expect CPALL to still deliver 13% EPS growth this year despite the co-payment pressure.\n\nExpects 3Q26F SSSG to decline by less than 1.5% y-y, versus 4Q25 during the first co-payment period, due to better preparedness. CPALL should also benefit from inflation through higher selling prices and margin expansion.\n\nLong-term, branch expansion of 3-4% p.a. and gross margin improvements remain the key drivers, for  13-14% eps  growth in 2026-27F\n\nIn our view, valuation already prices in governance concerns at 13x PE and reflects meaningful share price underperformance. We expect good  2Q26F results as a catch-up catalyst."
+      },
       {
         "label": "FSS 21 May 26",
         "content": "**Date:** 21 May 26\n\n(0) CPALL takeaways from analyst meeting\n\nผู้บริหารยังมีมุมมอง conservative ต่อ outlook ใน 2H26 ปัจจุบันเห็นกำลังซื้อที่ประคองตัว โดยประเด็นที่ยังต้องติดตาม คือ 1) ต้นทุนที่ปรับตัวขึ้น ในมุมค่าน้ำมัน (กระทบ 0.15% to sales ทุก 10 บาท) และค่าไฟฟ้าที่อาจปรับตัวเพิ่มขึ้นในช่วง 4 เดือนสุดท้าย (ทุก 15% ที่เพิ่ม จะกระทบราว 100 ลบ/เดือน) และ 2) ผลกระทบจากมาตรการคนละครึ่ง\n\nเราประเมินผลกระทบจากสงครามจะยัง manageable โดยมีการปรับ efficiency ในเรื่อง logistics ส่วนค่าไฟฟ้าน้ำหนักจะอยู่ที่ 4 เดือนหลัง ทั้งนี้ ในขาบวก เรายังมอง CPALL เป็น inflationary winner ที่จะได้ประโยชน์จากเงินเฟ้อขาขึ้น ผ่านการปรับ ASPs ซึ่งจะช่วยชดเชยผลกระทบดังกล่าวได้\n\nรวมถึง ประเด็น other income คาดยังเห็นความต่อเนื่องจาก 1Q26 จากการทำ promotion + campaign ที่ประสบควาสำเร็จ ซึ่งจะหนุนให้ supplier support ยังมีความต่อเนื่อง\n\nVirtual bank: ผู้บริหารยังยืนยันเป็นประเด็นการปฎิบัติตามกฎเกณฑ์เป็นหลัก ไม่ใช่ strategic move ของบริษัท\n\nCambodia: สิ้นงวด 1Q26 มีสาขารวม 63 แห่ง (ลดลงจาก 125 และ 112 แห่ง ในงวด 3Q25 และ 4Q25 ตามลำดับ) ปัจจุบันยังอยู่ในช่วง wait&see โดย management guide ในกลุ่ม asset บางส่วนสามารถเคลื่อนย้ายได้ ภาพรวมเราจึงยังมองผลกระทบกรณี impairment ยังจำกัด\n\nแนวโน้ม SSS qtd 2Q26 คาดยังเติบโตราว 1-2% หนุนจากอากาศที่ยังร้อนขึ้น y-y (CPAXT ยังทรงตัว y-y) เบื้องต้นคาดกำไร 2Q26 ยังเติบโตราว 10% y-y หนุนจากทั้งทิศทางยอดขาย และ GPM ที่คาดยังมีความต่อเนื่อง ยังคงคาดกำไรปี 2026 เติบโต 10.9% y-y\n\nปัจจุบัน CPALL ซื้อขายที่ 13.4x 2026E P/E ยังต่ำกว่ากลุ่มค้าปลีกที่ราว 14-15x 2026E P/E เล็กน้อย คงคำแนะนำ ซื้อ ราคาเป้าหมาย 63 บาท\n \n#Finansia #FSSIA\n\n---\n\n**Market:** SET"
@@ -914,6 +926,17 @@ const stockData = [
     ]
   },
   {
+    "ticker": "ORCL",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "THI 11 Jun 26",
+        "content": "**Date:** 11 Jun 26\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎_𝐎𝐫𝐚𝐜𝐥𝐞 𝐄𝐚𝐫𝐧𝐢𝐧𝐠𝐬 𝐑𝐞𝐬𝐮𝐥𝐭 𝟒𝐐𝐅𝐘𝟐𝟔 (𝟐𝐐𝐂𝐘𝟐𝟔)\n\nOracle AI Backlog แกร่ง แต่ CapEx และ Margin ยังเป็นโจทย์ใหญ่\n\nราคาหุ้นปรับตัวลงราว 11% after hours\n\n𝐊𝐞𝐲 𝐭𝐚𝐤𝐞𝐚𝐰𝐚𝐲𝐬\n\nงบออกมาดีกว่าคาด แต่ตลาดโฟกัสไปที่ต้นทุนมากกว่า\n\n• Oracle รายงานงบ 4QFY26 ดีกว่าคาด รายได้รวม $19.18bn (beat 0.5%) ทำ record high โต 20% YoY ด้าน EPS อยู่ที่ $2.11 (beat 7.11%) โต 24% โดยหากตัด one-time gain ออกยังได้ $2.03 โต 20% บ่งชี้ core earnings ยังแข็งแกร่ง ด้านรายได้ cloud รวมต่ำกว่าคาด (miss 0.82%) ฉุดจาก SaaS (miss 1.04%) แต่มี IaaS (beat 1.23%) เป็นแรงหนุน อย่างไรก็ตาม จุดที่ตลาดให้น้ำหนักรอบนี้กลับเป็นต้นทุนของการเติบโต ทั้ง CapEx, funding และ margin หลังผู้บริหารยอมรับตรงๆ ว่าการเร่งขยาย data center และการเร่งตัวของรายได้ infrastructure กดดัน gross margin ให้ลดลง\n\nRPO โต 3.6x เท่า ยืนยัน demand ฝั่ง AI infra ยังแข็งแกร่งมาก\n\n• RPO เพิ่มจาก $553bn เป็น $638bn (beat 8.23%) โต 363% YoY และ 15% QoQ เป็นยอดที่ผูกสัญญารองรับแล้ว ไม่ใช่แค่ pipeline โดยผู้บริหารระบุว่า backlog ระดับนี้ให้ความชัดเจนต่อรายได้ในอนาคตแบบที่ไม่เคยมีมาก่อน บริษัทคาดรับรู้ 12% ใน 12 เดือนข้างหน้า และอีก 34% ในช่วง 13-36 เดือน ประกอบกับ utilization GPU 97.5% และกำลังการผลิต AI ถูกจองแล้ว 98% ประเด็นจึงไม่ใช่มี demand หรือไม่ แต่อยู่ที่ Oracle จะแปลง RPO เป็น revenue, margin และ cash flow ได้เร็วแค่ไหน\n\nCloud engine โตครบทั้ง AI infra, multi-cloud database และ cloud database\n\n• IaaS (บริการให้เช่าโครงสร้างพื้นฐานคลาวด์) โต 92% YoY โดยเฉพาะ Infrastructure CPU & GPU (ส่วนให้เช่าเครื่องประมวลผลโดยเฉพาะ GPU สำหรับงาน AI) โต 119% YoY ส่วน database (บริการฐานข้อมูลบนคลาวด์) โต 29% และ multi-cloud database (การเอา Oracle database ไปรันบนคลาวด์คู่แข่งอย่าง Azure, Google, AWS) โต 404% YoY แม้ชะลอจาก 531% ไตรมาสก่อนแต่ยังสูงมาก จุดต่างจาก neocloud ที่มีแต่ GPU คือข้อมูลสำคัญของลูกค้าฝังอยู่ในระบบ Oracle อยู่แล้ว การเอา AI มารันข้างๆ ข้อมูลจึงให้ผลลัพธ์เร็วและตรงกว่าการขนข้อมูลออกไปที่อื่น ซึ่งเป็นกำแพงที่ neocloud ที่มีแต่ GPU ลอกเลียนได้ยาก\n\nGross margin ถูกกดจากช่วง ramp แต่ operating margin ยังประคองได้ด้วย cost efficiency\n\n• gross margin FY26 ลดลงราว 5pp ตามคาด และ FY27 ยังมีแนวโน้มลดต่อจาก timing ของ data center ramp และ mix ที่เอนไปทาง infrastructure เทียบกับไตรมาสก่อนที่ผู้บริหารเคยย้ำว่า AI capacity มี gross margin 32% เหนือ guidance 30% โทนรอบนี้เปลี่ยนเป็นยอมรับว่า margin จะถูกกดก่อนแล้วค่อยฟื้น โดยผู้บริหารบอกว่าคาดเห็น margin ฝั่ง infrastructure ดีขึ้นเร็วเมื่อเข้าสู่ระดับรายได้เต็มตามสัญญาใน 2HFY27 ส่วน operating margin ยังขยับขึ้นเล็กน้อยจากการลด operating cost โดยเฉพาะ sales & marketing\n\nBYOH และ Prepaid โตจาก $29bn เป็น $75bn ลดภาระเงินทุน แต่ CapEx ยังเป็นโจทย์ใหญ่\n\n• โมเดล bring-your-own-hardware และ prepaid โตจาก $29bn เป็น $75bn ลูกค้าร่วมจ่ายล่วงหน้าหรือเอา GPU มาเอง ทำให้ Oracle ไม่ต้องแบกเงินลงทุนทั้งหมด ช่วยลดภาระการหาเงินทุนและหนุน ROIC ระดับ project โดยผู้บริหารระบุว่าโครงสร้างเหล่านี้ทำให้ความต้องการเงินสดเพื่อลงทุนต่ำลงและผลตอบแทนต่อทุนดีขึ้น การส่งมอบก็เร่งขึ้น FY26 เกิน 1.2GW และ 1QFY27 ใกล้ 1GW เกือบเท่าทั้งปีก่อนรวมกัน แต่อีกด้าน FY27 ยังคาดเงินสดที่ต้องจ่ายจริงสุทธิสำหรับ CapEx ราว $70bn บวกส่วนลูกค้าจ่ายล่วงหน้าอีก $20-25bn และต้องระดมทุน $40bn จุดอ่อนที่ชัดคือ free cash flow ติดลบ $1.87 ซึ่งต่ำกว่าตลาดคาด และเป็นตำหนิที่สุดในรอบนี้\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎 𝐎𝐟𝐟𝐢𝐜𝐞"
+      }
+    ]
+  },
+  {
     "ticker": "OSP",
     "market": "SET",
     "noTag": false,
@@ -944,6 +967,10 @@ const stockData = [
     "market": "SET",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "KKPS 17 Jun 26",
+        "content": "**Date:** 17 Jun 26\n\nBofA U/G JCDecaux to Buy; +ve read through for PLANB\n\nBofA’s upgrade of JCDecaux highlights a more constructive global OOH backdrop, which should also support PLANB. \n\nKey industry drivers are turning more favorable, including resilient outdoor audiences in an increasingly fragmented media landscape, rising digital OOH penetration, faster adoption of programmatic advertising, stronger yield from premium digital inventory, and improving operating leverage as revenue growth recovers.\n\nThese trends are highly relevant to PLANB, given its leading position in Thailand’s OOH market and strong ability to monetize high traffic locations across transit, retail, roadside, and lifestyle media.\n\nWe believe PLANB should benefit from the same structural tailwinds behind JCDecaux’s more bullish outlook. \n\nFirst, OOH remains one of the few media channels with durable audience reach, making it increasingly attractive for advertisers facing weaker targeting efficiency across online channels. \n\nSecond, the shift toward digital and programmatic should lift utilization and yield, supporting revenue growth without a proportional increase in capex. \n\nThird, recovery in travel, tourism, events, and consumer activity should improve traffic across PLANB’s key media locations. \n\nLastly, better industry discipline and stronger demand should translate into margin expansion, supporting earnings and FCF improvement.\n\nOverall, JCDecaux’s positive note reinforces our view that the market is underappreciating PLANB’s medium term revenue durability, margin upside, and improving cash generation. We reiterate Buy.\n\n---\n\n**Market:** SET"
+      },
       {
         "label": "KKPS 15 May 26",
         "content": "**Date:** 15 May 26\n\n*Mgmt still expects 2Q26 to grow both YoY and QoQ despite geopolitical concern. April utilization already above 70% vs around 73% in 2Q25. Visibility for May-Jun still limited.\n\n*Lower GPM mainly from Hello LED cost structure (labor + PPA) and lower BNK margin as last year had special events. If PLANB buys the remaining 50% of Hello LED in the future (not this year), PPA expense would rise from Bt32mn/year to Bt64mn/year. Excluding these, underlying GM still in line with 32% guidance.\n\n*Maintain FY26 total revenue growth guidance at 6-7% despite 1Q26 revenue growth already at 10% YoY.\n\n*EPL revenue dropped to Bt25mn this quarter from Bt37mn last quarter. However, the company still maintains its guidance of Bt200-300mn revenue per season."
@@ -1107,6 +1134,17 @@ const stockData = [
     ]
   },
   {
+    "ticker": "SIRI",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "TNS 17 Jun 26",
+        "content": "**Date:** 17 Jun 26\n\nSIRI: Flight to quality. Initiate a BUY  TP Bt1.70\n\nOur key investment thesis is that SIRI is emerging as a winner from the current property downturn. While many developers are facing financing constraints and weaker product offerings, SIRI continues to gain market share thanks to its strong brand, diversified product portfolio, and solid balance sheet.\n\nWe think the residential market is near the bottom of the cycle this year. As GDP growth improves, we expect presales to grow from Bt41bn in 2026 to Bt45-48bn in 2027-28, while margins should bottom in 2026 and gradually recover. This underpins our forecast for 2%, 9%, and 11% EPS growth over 2026-28.\n\nDespite being at the trough of the earnings cycle, the stock trades at only 6x 2026 PE and offers an attractive 8% dividend yield."
+      }
+    ]
+  },
+  {
     "ticker": "SK Hynix",
     "market": "Other",
     "noTag": false,
@@ -1157,6 +1195,10 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "TNS 17 Jun 26",
+        "content": "**Date:** 17 Jun 26\n\nSTECON, BUY, TP Bt19\n\nNew work and more\n\n- Following our utility analyst’s upgrade on Gulf yesterday, STECON will also benefit from GULF’s data center projects and a higher SOTP value. \n\n- We raise our TP to Bt19/share from Bt16, driven by: 1) higher data center-related project opportunities, leading us to raise new-order assumptions by Bt5bn p.a., and 2) GULF’s TP hike to Bt75 from Bt65, adding Bt1.2/share to STECON’s valuation.\n\n- STECON remains a top pick as:\n\n1) it is among the few contractors eligible to bid for Thailand’s potential Bt775bn infrastructure pipeline.\n\n2) it has exposure to high-growth sectors, particularly data centers and renewables.\n\n3) we expect a 15% three-year earnings CAGR from its construction business.\n\n4) valuation remains attractive at just 10x FY26 P/E.\n\n---\n\n**Market:** SET"
+      },
+      {
         "label": "FSS 22 May 26",
         "content": "**Date:** 22 May 26\n\n(0) STECON - ประชุมนวค.เช้านี้โทนกลาง\n\nบริษัทยังคงเป้ารายได้ปีนี้ที่ 3.5 หมื่นลบ. +5% y-y (สอดคล้องกับคาดการณ์เรา) โดย 1Q26 คิดเป็น 21% ของทั้งปี เป็นไปตามฤดูกาลของการก่อสร้าง ก่อนจะเร่งตัวขึ้นใน 2H26\n\nบริษัทยังคงเป้า GPM ทั้งปีที่ 7% แม้ 1Q26 ทำได้สูงถึง 7.8% แต่ 2Q26 จากเริ่มเห็นผลกระทบด้านต้นทุนที่สูงขึ้นจากสงคราม\n\nอย่างไรก็ดี คาดว่ายังบริหารจัดการได้ โดยวัสดุหลักอย่างเหล็กเส้นมีการล็อกราคาตั้งแต่ต้นปี รองรับ 80-90% ของการใช้ปีนี้ ส่วนคอนกรีต มีนโยบายทำสัญญาล่วงหน้า 6 เดือน-1 ปี\n\nBacklog ปัจจุบัน 9.6 หมื่นลบ. ไม่รวมสนามบินอู่ตะเภาราว 2.7 หมื่นลบ. ซึ่งมีความคืบหน้าได้รับ NTP แล้วและอยู่ระหว่างเจรจาสิทธิประโยชน์ คาดเริ่มงานก่อสร้างใน 2H26 \n\nคงเป้า New backlog ในปีนี้ที่ 5 หมื่นลบ. โดย 1Q26 รับเพิ่ม 7 พันลบ.เป็นงานเอกชน ช่วงที่เหลือของปีคาดหวังจาก Mega project ภาครัฐเป็นหลัก จากการเปิดประมูลงานใน 2H26 อาทิ มอเตอร์เวย์ M5, M9 รถไฟความเร็วสูงเฟส 2\n\nเราคงประมาณการกำไรสุทธิปีนี้ 1.7 พันลบ. (-11% y-y) แนวโน้มกำไร 2Q26 จะเร่งตัวขึ้นจากการบันทึกเงินปันผลรับจาก GULF แต่ Operation ธุรกิจรับเหมาฯคาดยังทรงตัว ขณะที่เรามองว่างานประมูลภาครัฐใหม่มีโอกาสเห็นเร็วสุดใน 4Q26 แต่ราคาหุ้น YTD +124% outperform กลุ่มฯมาก จึงยังแนะนำถือ ราคาเหมาะสม 13 บ.\n\n#Finansia #FSSIA\n\n---\n\n# STECON Idea"
       },
@@ -1197,6 +1239,10 @@ const stockData = [
     "market": "Others",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "THI 11 Jun 26",
+        "content": "**Date:** 11 Jun 26\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎_𝐌𝐚𝐫𝐤𝐞𝐭 𝐀𝐥𝐞𝐫𝐭: ส่งออกเกาหลีใต้ 10 วันแรก มิ.ย. พุ่งทำ record high\n\n• เกาหลีใต้รายงานส่งออก 10 วันแรกของเดือน June อยู่ที่ $28.6bn โต 85.9% YoY และ 55% MoM เร่งขึ้นชัดเจนจากช่วง 10 วันแรกของเดือน May ที่โต 43.7% YoY โดยแม้ส่วนหนึ่งมาจากจำนวนวันทำการที่มากกว่าปีก่อน แต่หากปรับด้วยจำนวนวันทำการแล้ว daily average exports ยังโต 46.1% YoY สูงกว่า May ที่โต 43.7% YoY สะท้อนว่าแรงส่งไม่ได้มาจาก calendar effect\n\n• แรงหนุนหลักยังมาจาก semiconductors ซึ่งทำจุดสูงสุดเป็นประวัติการณ์ที่ $11.07bn โต 206% YoY เร่งขึ้นจากเดือนก่อนที่โต 150% YoY และเพิ่มขึ้นราว 30% MoM สะท้อนว่า demand ฝั่ง AI, HBM, high-end DRAM, NAND และ server-related memory ยังแข็งแรงมาก\n\n• อีกสัญญาณที่ช่วยยืนยันว่า AI cycle ไม่ได้หยุดอยู่แค่ chip คือ computer peripherals ในเดือน June ที่โตสูงถึง 259.4% YoY สะท้อนว่า demand กำลังไหลต่อจาก semiconductor ไปยัง AI server, storage และ data center hardware layer มากขึ้น\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎 𝐎𝐟𝐟𝐢𝐜𝐞"
+      },
       {
         "label": "THI 10 Jun 26 ①",
         "content": "**Date:** 10 Jun 26\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎_𝐌𝐚𝐫𝐤𝐞𝐭 𝐀𝐥𝐞𝐫𝐭: เกาหลีใต้ส่งออก May ทำสถิติสูงสุดใหม่ Semi กลับมาเร่ง MoM\n\n• ส่งออกเซมิคอนดักเตอร์เกาหลีใต้เดือน พ.ค. อยู่ที่ $37.16 bn ทำระดับ record high เติบโต 169.4% YoY และ 16.5% MoM หลังเดือน เม.ย. อยู่ที่ $31.9 bn จุดเปลี่ยนสำคัญคือเดือนก่อนยังเป็นภาพ “ยืนสูงแต่พักเล็กน้อย MoM” แต่เดือน พ.ค. กลับมาทำจุดสูงสุดใหม่ชัดเจน โดยแรงหนุนหลักมาจาก Memory โดยตรง ทั้ง DRAM exports โต 369.8% YoY เป็น $18.6 bn และ NAND exports โต 206.8% YoY เป็น $1.7 bn\n\n• ตัวเลขที่ช่วยเสริม Memory thesis คือ Computer exports โต 290.7% YoY เป็น $4.18 bn จาก demand SSD สำหรับ AI server ทำให้ภาพรอบนี้ไม่ใช่แค่ DRAM/HBM cycle แต่เริ่มเห็น NAND และ enterprise SSD ถูกดึงเข้าไปอยู่ใน AI infrastructure cycle มากขึ้น เพราะ AI server ต้องใช้ทั้ง memory สำหรับประมวลผลและ storage สำหรับเก็บ/ดึงข้อมูลจำนวนมาก\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎 𝐎𝐟𝐟𝐢𝐜𝐞"
@@ -1286,6 +1332,10 @@ const stockData = [
     "market": "SET",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "MST 17 Jun 26",
+        "content": "**Date:** 17 Jun 26\n\nTIDLOR - Compelling risk-reward profile\n \nImproving asset quality and rising non-life insurance market share underpin our positive view.\n \nA 9% total shareholder yield (5% buyback + 4% dividend) from an A+ rated company with a strengthening credit cycle and strong tech moat offers attractive risk-reward.\n \nLink to report https://mkefactsettd.maybank-ke.com/PDFS/541196.pdf\n\nCapital return capacity\n\nSubstantial cash return capability is secured by an A+ rating, robust liquidity support from BAY, and a strong balance sheet.\n\nCredit cycle inflection\n\nBalance sheet de-risked following the FY23–24 post-growth cleanup and FY24–25 tightening leaves a higher-quality loan book with lower NPL formation.\n\nInsurance diversification\n\nGaining market share in high-margin non-life premiums. High retention, 90% of policyholders are non-borrowers— diversified recurring income.\n\nWe forecast 15% earnings growth and 15.7% ROE in FY26E, potentially 16.2–16.4% if the full THB 2.4bn buyback is deployed. Management intends to utilize all buyback budget to improve EPS and ROE.\n\nAs of 16-Jun, TIDLOR has buyback 5.9m shares with an average price of THB17.7/sh.\n\nBUY with TP THB25. Top pick in finance sector.\n\nJesada\nMaybank\n\n---\n\n**Market:** SET"
+      },
       {
         "label": "MBKET 21 May 26",
         "content": "**Date:** 21 May 26\n\nTIDLOR – Positive on capital management\n \nTIDLOR announced FY25 dividend of THB0.69/sh, c.40% payout ratio, XD on 2 June. \n\nThe company also informed THB2.4b share buyback program covering up to 4.24% of paid-up capital from May 28 to Nov 27, 2026.\n \nComment \n \nWe are positive on this news as its THB2.4b budget on share buyback program provides a significant catalyst, effectively serving as a stronger value signal than the dividend payment alone. \n \nWe see share repurchase to support share price, uplift EPS and improve ROE.\n \nDespite potential impact on energy prices and credit costs, TIDLOR’s asset quality remains resilient with effective risk management (low NPL ratio of 1.5% and 340% NPL coverage).\n\nWe also see positive news flow on the falling oil price and bond yields due to the final stages of US-Iran negotiations.\n \nTIDLOR remains our Top Pick in finance sector due to its focusing on disciplined underwriting, high earnings visibility and diversified income stream. \n\nBUY with TP THB25.\n\nJesada\nMaybank\n\n---\n\n**Market:** SET"
