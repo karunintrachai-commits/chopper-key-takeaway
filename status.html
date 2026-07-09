@@ -151,7 +151,7 @@ code{background:var(--surface3);padding:1px 6px;border-radius:4px;font-size:12px
   <div class="hdr-icon"><img src="Chopper.jpeg" alt="Chopper"></div>
   <div>
     <div class="hdr-title">Status</div>
-    <div class="hdr-sub">Chopper — สถานะข้อมูลล่าสุด</div>
+    <div class="hdr-sub">Chopper — Latest data status</div>
   </div>
   <div class="hdr-right">
     <div class="theme-switcher">
@@ -159,26 +159,26 @@ code{background:var(--surface3);padding:1px 6px;border-radius:4px;font-size:12px
       <button class="theme-btn" data-t="dark" onclick="setTheme('dark',this)" title="Dark Amber"></button>
       <button class="theme-btn active" data-t="finance" onclick="setTheme('finance',this)" title="Finance Pro"></button>
     </div>
-    <a class="link-btn" href="index.html">ดูทั้งหมด</a>
+    <a class="link-btn" href="index.html">All notes</a>
   </div>
 </div>
 
 <div class="wrap" id="wrap">
   <div class="hero" id="hero"></div>
 
-  <div class="section-title">ภาพรวม Coverage</div>
+  <div class="section-title">Coverage Overview</div>
   <div class="stats" id="stats"></div>
 
-  <div class="section-title">รายการล่าสุด <span id="batch-date-lbl"></span></div>
+  <div class="section-title">Latest Batch <span id="batch-date-lbl"></span></div>
   <div class="panel" id="batch"></div>
 
-  <div class="section-title">Timeline ย้อนหลัง</div>
+  <div class="section-title">Timeline</div>
   <div class="panel" id="timeline"></div>
 </div>
 
 <div id="no-data">
-  <h2>ยังไม่มีข้อมูล</h2>
-  <p>ไม่พบ <code>keytakeaway_data.js</code> — รัน <code>push.bat</code> เพื่อ sync + deploy ก่อน</p>
+  <h2>No data yet</h2>
+  <p><code>keytakeaway_data.js</code> not found — run <code>push.bat</code> to sync + deploy first.</p>
 </div>
 
 <script src="keytakeaway_data.js" onerror="window._DATA_ERR=true"></script>
@@ -224,7 +224,7 @@ function daysAgo(d){
   const t = new Date(d); t.setHours(0,0,0,0);
   return Math.round((today - t) / 86400000);
 }
-function agoText(n){ if (n <= 0) return 'วันนี้'; if (n === 1) return 'เมื่อวาน'; return `${n} วันก่อน`; }
+function agoText(n){ if (n <= 0) return 'Today'; if (n === 1) return 'Yesterday'; return `${n} days ago`; }
 
 /* ── Build ────────────────────────────────────────────────────────────────── */
 function collectEntries(){
@@ -243,14 +243,14 @@ let TL_LIMIT = 8, GROUPS = [];
 
 function renderHero(latest){
   const n = daysAgo(latest.date);
-  let cls = 'fresh-dot', word = 'สดใหม่';
-  if (n > 7){ cls += ' stale'; word = 'ข้อมูลเก่า'; }
-  else if (n > 3){ cls += ' warn'; word = 'เริ่มเก่า'; }
+  let cls = 'fresh-dot', word = 'Fresh';
+  if (n > 7){ cls += ' stale'; word = 'Stale'; }
+  else if (n > 3){ cls += ' warn'; word = 'Aging'; }
   document.getElementById('hero').innerHTML = `
     <div class="hero-main">
-      <div class="hero-eyebrow">Key Takeaway ล่าสุด</div>
+      <div class="hero-eyebrow">Latest Key Takeaway</div>
       <div class="hero-date">${fmtDate(latest.date)}</div>
-      <div class="hero-sub">${latest.count} note จาก ${latest.tickers} ticker ในวันนี้</div>
+      <div class="hero-sub">${latest.count} notes from ${latest.tickers} tickers</div>
     </div>
     <div class="fresh-badge"><span class="${cls}"></span>${word} · ${agoText(n)}</div>`;
 }
@@ -265,9 +265,9 @@ function renderStats(entries){
     .map(m => `<span class="mkt-pill">${esc(m)} ${mktCount[m]}</span>`).join('');
   const activeDays = new Set(entries.filter(e=>e.parsed).map(e=>dayKey(e.parsed))).size;
   document.getElementById('stats').innerHTML = `
-    <div class="stat"><div class="stat-val">${tickers}</div><div class="stat-lbl">Tickers ทั้งหมด</div></div>
-    <div class="stat"><div class="stat-val">${notes}</div><div class="stat-lbl">Notes รวม</div></div>
-    <div class="stat"><div class="stat-val">${activeDays}</div><div class="stat-lbl">วันที่มี note</div></div>
+    <div class="stat"><div class="stat-val">${tickers}</div><div class="stat-lbl">Total Tickers</div></div>
+    <div class="stat"><div class="stat-val">${notes}</div><div class="stat-lbl">Total Notes</div></div>
+    <div class="stat"><div class="stat-val">${activeDays}</div><div class="stat-lbl">Active Days</div></div>
     <div class="stat"><div class="stat-val">${Object.keys(mktCount).length}</div><div class="stat-lbl">Markets</div>
       <div class="stat-mkts">${pills}</div></div>`;
 }
@@ -302,7 +302,7 @@ function renderTimeline(){
   }).join('');
   if (GROUPS.length > TL_LIMIT){
     html += `<div class="tl-more"><button onclick="TL_LIMIT+=8;renderTimeline()">
-      แสดงเพิ่ม (เหลืออีก ${GROUPS.length - TL_LIMIT} วัน)</button></div>`;
+      Show more (${GROUPS.length - TL_LIMIT} days left)</button></div>`;
   }
   document.getElementById('timeline').innerHTML = html;
 }
@@ -326,7 +326,7 @@ function renderTimeline(){
 
   if (!GROUPS.length){
     document.getElementById('hero').innerHTML =
-      '<div class="hero-main"><div class="hero-date">— ไม่มีวันที่ —</div></div>';
+      '<div class="hero-main"><div class="hero-date">— No dates —</div></div>';
     renderStats(entries);
     return;
   }
