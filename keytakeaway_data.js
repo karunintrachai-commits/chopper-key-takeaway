@@ -1,10 +1,10 @@
 // AUTO-GENERATED — Chopper Key Takeaway Data
-// Last sync: 2026-07-09 21:44:05
+// Last sync: 2026-07-09 21:47:36
 // Source: G:\My Drive\Stock Notes
 // DO NOT edit manually — run sync_data.py to regenerate
 
-const SYNC_TIMESTAMP = "2026-07-09 21:44:05";
-const MARKETS = ["SET", "DR", "US", "China", "Others"];
+const SYNC_TIMESTAMP = "2026-07-09 21:47:36";
+const MARKETS = ["SET", "DR", "US", "China", "Taiwan", "Others"];
 const stockData = [
   {
     "ticker": "AAV",
@@ -1432,7 +1432,7 @@ const stockData = [
   },
   {
     "ticker": "SK Hynix",
-    "market": "Other",
+    "market": "Others",
     "noTag": false,
     "takeaways": [
       {
