@@ -17,9 +17,9 @@ if %errorlevel% neq 0 (
 )
 echo.
 echo [3/3] Pushing to GitHub...
-git add keytakeaway_data.js
+git add -A
 git commit -m "sync %date%"
 git push
 echo.
-echo Done! เปิด iPhone แล้ว refresh ได้เลย
+echo Done! เปิด iPhone แล้ว refresh ได้เลย (index.html / status.html)
 pause

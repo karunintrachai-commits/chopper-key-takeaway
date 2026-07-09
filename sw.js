@@ -1,6 +1,7 @@
-const CACHE = 'kt-v1';
+const CACHE = 'kt-v2';
 const ASSETS = [
   './index.html',
+  './status.html',
   './manifest.json',
   './keytakeaway_data.js',
 ];
