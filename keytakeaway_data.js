@@ -1,9 +1,9 @@
 // AUTO-GENERATED — Chopper Key Takeaway Data
-// Last sync: 2026-07-09 21:36:38
+// Last sync: 2026-07-09 21:44:05
 // Source: G:\My Drive\Stock Notes
 // DO NOT edit manually — run sync_data.py to regenerate
 
-const SYNC_TIMESTAMP = "2026-07-09 21:36:38";
+const SYNC_TIMESTAMP = "2026-07-09 21:44:05";
 const MARKETS = ["SET", "DR", "US", "China", "Others"];
 const stockData = [
   {
@@ -544,8 +544,8 @@ const stockData = [
   },
   {
     "ticker": "CPN",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "FSS 24 Jun 26",
@@ -555,8 +555,8 @@ const stockData = [
   },
   {
     "ticker": "CRD",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "Ohm 07 Jul 26",
@@ -803,8 +803,8 @@ const stockData = [
   },
   {
     "ticker": "ITC",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "FSS 24 Jun 26",
@@ -1291,8 +1291,8 @@ const stockData = [
   },
   {
     "ticker": "QCOM",
-    "market": "Others",
-    "noTag": true,
+    "market": "DR",
+    "noTag": false,
     "takeaways": [
       {
         "label": "THI 25 Jun 26",
@@ -1630,8 +1630,8 @@ const stockData = [
   },
   {
     "ticker": "TCOM",
-    "market": "Others",
-    "noTag": true,
+    "market": "DR",
+    "noTag": false,
     "takeaways": [
       {
         "label": "Mic 25 Jun 26",
@@ -1752,8 +1752,8 @@ const stockData = [
   },
   {
     "ticker": "TU",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "KS 29 Jun 26",
@@ -1782,8 +1782,8 @@ const stockData = [
   },
   {
     "ticker": "Transportation",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "INVX 18 Jun 26",
