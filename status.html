@@ -16,10 +16,11 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.34.0/dist/tabler-icons.min.css">
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 
-/* ── Theme: Finance Pro (default) ─────────────────────────────────────────── */
+/* ── Theme: Finance Pro ──────────────────────────────────────────────────── */
 :root{
   --bg:#f5f5f0;--surface:#ffffff;--surface2:#f4f6fb;--surface3:#e6eaf4;
   --border:#c8d0e2;--text:#152244;--muted:#5a6b8c;
@@ -29,19 +30,6 @@
   --radius:14px;
   --font:'Inter',-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
 }
-[data-theme="sunrise"]{
-  --bg:#fff7ed;--surface:#ffffff;--surface2:#ffedd5;--surface3:#fed7aa;
-  --border:#fdba74;--text:#1c1510;--muted:#9a6a50;
-  --accent:#ea580c;--accent-light:#ffedd5;--accent-dark:#c2410c;
-  --badge-bg:#ea580c;--badge-text:#fff;
-}
-[data-theme="dark"]{
-  --bg:#18120a;--surface:#241b0e;--surface2:#1e1508;--surface3:#2e2210;
-  --border:#3d2e15;--text:#fef3c7;--muted:#a08c6a;
-  --accent:#f59e0b;--accent-light:#2e2210;--accent-dark:#fcd34d;
-  --badge-bg:#f59e0b;--badge-text:#18120a;
-  --green:#4ade80;--amber:#fbbf24;--red:#f87171;
-}
 
 body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:100vh;
   line-height:1.6;-webkit-font-smoothing:antialiased;transition:background .25s,color .25s;}
@@ -50,19 +38,13 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .hdr{padding:14px 20px;background:var(--bg);border-bottom:1px solid var(--border);
   display:flex;align-items:center;gap:12px;position:sticky;top:0;z-index:10;
   padding-top:max(14px,env(safe-area-inset-top));}
-.hdr-icon{width:40px;height:40px;min-width:40px;border-radius:12px;overflow:hidden;}
-.hdr-icon img{width:100%;height:100%;object-fit:cover;display:block;}
+.hdr-icon{width:38px;height:38px;min-width:38px;border-radius:10px;
+  background:var(--accent-light);border:1px solid var(--border);
+  display:flex;align-items:center;justify-content:center;
+  color:var(--accent);font-size:21px;}
 .hdr-title{font-size:16px;font-weight:700;}
 .hdr-sub{font-size:11px;color:var(--muted);margin-top:1px;}
 .hdr-right{margin-left:auto;display:flex;gap:8px;align-items:center;}
-.theme-switcher{display:flex;gap:4px;align-items:center;}
-.theme-btn{width:14px;height:14px;border-radius:50%;border:none;cursor:pointer;
-  transition:transform .15s;box-shadow:0 0 0 1px rgba(0,0,0,.12);}
-.theme-btn:hover{transform:scale(1.2);}
-.theme-btn.active{transform:scale(1.15);}
-.theme-btn[data-t="sunrise"]{background:linear-gradient(135deg,#fdba74,#ea580c);}
-.theme-btn[data-t="dark"]   {background:linear-gradient(135deg,#4a4a4a,#1a1a1a);}
-.theme-btn[data-t="finance"]{background:linear-gradient(135deg,#1e3a6e,#b07030);}
 .link-btn{font-size:12px;font-weight:600;color:var(--accent-dark);background:var(--accent-light);
   border:1px solid var(--border);border-radius:20px;padding:5px 12px;text-decoration:none;
   white-space:nowrap;-webkit-tap-highlight-color:transparent;}
@@ -148,17 +130,12 @@ code{background:var(--surface3);padding:1px 6px;border-radius:4px;font-size:12px
 
 <!-- Header -->
 <div class="hdr">
-  <div class="hdr-icon"><img src="Chopper.jpeg" alt="Chopper"></div>
+  <div class="hdr-icon"><i class="ti ti-key"></i></div>
   <div>
     <div class="hdr-title">Status</div>
     <div class="hdr-sub">Chopper — Latest data status</div>
   </div>
   <div class="hdr-right">
-    <div class="theme-switcher">
-      <button class="theme-btn" data-t="sunrise" onclick="setTheme('sunrise',this)" title="Sunrise"></button>
-      <button class="theme-btn" data-t="dark" onclick="setTheme('dark',this)" title="Dark Amber"></button>
-      <button class="theme-btn active" data-t="finance" onclick="setTheme('finance',this)" title="Finance Pro"></button>
-    </div>
     <a class="link-btn" href="index.html">All notes</a>
   </div>
 </div>
@@ -183,19 +160,6 @@ code{background:var(--surface3);padding:1px 6px;border-radius:4px;font-size:12px
 
 <script src="keytakeaway_data.js" onerror="window._DATA_ERR=true"></script>
 <script>
-/* ── Theme ────────────────────────────────────────────────────────────────── */
-function setTheme(t, btn){
-  const el = document.documentElement;
-  if (t === 'finance'){ delete el.dataset.theme; } else { el.dataset.theme = t; }
-  document.querySelectorAll('.theme-btn').forEach(b => b.classList.toggle('active', b === btn));
-  localStorage.setItem('kt-theme', t);
-}
-(function initTheme(){
-  const saved = localStorage.getItem('kt-theme') || 'finance';
-  const btn = document.querySelector(`.theme-btn[data-t="${saved}"]`);
-  if (btn) setTheme(saved, btn);
-})();
-
 /* ── Helpers ──────────────────────────────────────────────────────────────── */
 function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 
