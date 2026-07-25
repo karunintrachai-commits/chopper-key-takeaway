@@ -1,9 +1,9 @@
 // AUTO-GENERATED — Chopper Key Takeaway Data
-// Last sync: 2026-07-25 21:29:24
+// Last sync: 2026-07-25 21:34:57
 // Source: G:\My Drive\Stock Notes
 // DO NOT edit manually — run sync_data.py to regenerate
 
-const SYNC_TIMESTAMP = "2026-07-25 21:29:24";
+const SYNC_TIMESTAMP = "2026-07-25 21:34:57";
 const MARKETS = ["SET", "DR", "US", "China", "Others"];
 const stockData = [
   {
@@ -45,7 +45,7 @@ const stockData = [
   },
   {
     "ticker": "ALAB",
-    "market": "US",
+    "market": "DR",
     "noTag": false,
     "takeaways": [
       {
@@ -136,8 +136,8 @@ const stockData = [
   },
   {
     "ticker": "ASML",
-    "market": "Others",
-    "noTag": true,
+    "market": "DR",
+    "noTag": false,
     "takeaways": [
       {
         "label": "THI 17 Jul 26",
@@ -631,7 +631,7 @@ const stockData = [
   },
   {
     "ticker": "CRDO",
-    "market": "US",
+    "market": "DR",
     "noTag": false,
     "takeaways": [
       {
@@ -718,8 +718,8 @@ const stockData = [
   },
   {
     "ticker": "Disco",
-    "market": "Others",
-    "noTag": true,
+    "market": "DR",
+    "noTag": false,
     "takeaways": [
       {
         "label": "THI 23 Jul 26",
@@ -801,8 +801,8 @@ const stockData = [
   },
   {
     "ticker": "GEV",
-    "market": "Others",
-    "noTag": true,
+    "market": "DR",
+    "noTag": false,
     "takeaways": [
       {
         "label": "THI 22 Jul 26",
@@ -838,7 +838,7 @@ const stockData = [
   },
   {
     "ticker": "GLW",
-    "market": "US",
+    "market": "DR",
     "noTag": false,
     "takeaways": [
       {
@@ -1142,7 +1142,7 @@ const stockData = [
   },
   {
     "ticker": "LITE",
-    "market": "US",
+    "market": "DR",
     "noTag": false,
     "takeaways": [
       {
@@ -1325,8 +1325,8 @@ const stockData = [
   },
   {
     "ticker": "NFLX",
-    "market": "Others",
-    "noTag": true,
+    "market": "DR",
+    "noTag": false,
     "takeaways": [
       {
         "label": "THI 17 Jul 26",
@@ -2063,8 +2063,8 @@ const stockData = [
   },
   {
     "ticker": "TSLA",
-    "market": "Others",
-    "noTag": true,
+    "market": "DR",
+    "noTag": false,
     "takeaways": [
       {
         "label": "THI 23 Jul 26",
@@ -2168,8 +2168,8 @@ const stockData = [
   },
   {
     "ticker": "Uniqlo",
-    "market": "Others",
-    "noTag": true,
+    "market": "DR",
+    "noTag": false,
     "takeaways": [
       {
         "label": "THI 08 Jul 26",
@@ -2179,8 +2179,8 @@ const stockData = [
   },
   {
     "ticker": "VICR",
-    "market": "Others",
-    "noTag": true,
+    "market": "DR",
+    "noTag": false,
     "takeaways": [
       {
         "label": "THI 23 Jul 26",
