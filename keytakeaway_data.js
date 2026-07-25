@@ -1,9 +1,9 @@
 // AUTO-GENERATED — Chopper Key Takeaway Data
-// Last sync: 2026-07-25 13:29:21
+// Last sync: 2026-07-25 14:32:46
 // Source: G:\My Drive\Stock Notes
 // DO NOT edit manually — run sync_data.py to regenerate
 
-const SYNC_TIMESTAMP = "2026-07-25 13:29:21";
+const SYNC_TIMESTAMP = "2026-07-25 14:32:46";
 const MARKETS = ["SET", "DR", "US", "China", "Others"];
 const stockData = [
   {
@@ -59,6 +59,10 @@ const stockData = [
     "market": "SET",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "TTBW 20 Jul 26",
+        "content": "**Date:** 20 Jul 26\n\nAMATA (BUY Bt31 TP) : Soft 1H26 presales, stronger 2H expected\n\n--2Q26 presales reached 271 rai (-42% YoY, +156% QoQ), driven mainly by demand from Chinese electronics and home appliance manufacturers. Management views these customers as \"queen bee\" investors that can attract a broader supply chain ecosystem into its industrial estates. 1H26 presales totaled 377 rai, down 50% YoY.\n\n--Management outlook: The company expects to conclude an additional 600 rai of presales in Thailand and Vietnam in the near term, with 4Q26F expected to be the strongest quarter of the year. Supported by a healthy sales pipeline, management has maintained its FY26 presales target of 2,800 rai. In the pipeline, there are data centers (combinded 300 rai) and electronics supply chains. Our forecast remains more conservative at 1,400 rai. While 1H26 presales account for only around 27% of our full-year forecast, we are not concerned at this stage given the lumpy nature of industrial land sales and the seasonally stronger second half. As such, we maintain our FY26 presales and earnings forecasts.\n\n--2Q26F earnings: We expect earnings to remain strong, supported by the transfer of high-margin industrial land in Chonburi. We forecast 2Q26F normalized profit of Bt1.2bn, representing +273% YoY but -10% QoQ."
+      },
       {
         "label": "KS 21 May 26",
         "content": "**Date:** 21 May 26\n\nKS: AMATA – สรุปข้อมูล earnings call ของตลาดหลักทรัพย์ (เป็นกลางถึงบวกเล็กน้อย)\n\n- บริษัทยังมั่นใจในเป้ายอดขายที่ดินปี 2569 ที่ 2,800 ไร่ แม้ไตรมาส 1/2569 สรุปยอดขายที่เพียง 106 ไร่ โดยในเวียดนามและไทย มีลูกค้าที่มีศักยภาพสูงที่คุยกันอยู่ระดับ 240 ไร่และ 800 ไร่ตามลำดับ\n\n- โดยจากลูกค้าศักยภาพที่เวียดนาม เป็นนักลงทุนชาวจีนมาก ทำให้ประเด็นการโอนเงินออกเพื่อลงทุนที่ต้องใช้เวลานาน ทำให้ประเด็น ODI ยังเป็นส่วนสำคัญที่จะทำให้ยอดขายที่ดินมีความคืบหน้าหรือล่าช้า\n\n- ในปี 2569 คาดหวังจะเริ่มขายและโอนกรรมสิทธิ์นิคมอมตะ ซิตี้ นาหม้อ ในประเทศลาว ได้\n\n- ขาดทุน FX และขาดทุน derivatives เป็นส่วนสำคัญที่ทำให้ ส่วนแบ่งกำไรไตรมาส 1/2569 ลดลง และเนื่องจากบริษัทมองว่าเป็น one-time และในเชิง operation ยังดีอยู่ คาดการณ์ส่วนแบ่งกำไรจะดีขึ้นในไตรมาสถัดๆไป\n\n- บริษัทฯมองผลประกอบการไตรมาส 2/2569 โดยเฉพาะยอดขายที่ดินจะดีขึ้นกว่าไตรมาส 1 แต่จะมากหรือน้อยขนาดไหน ยังมีประเด็นที่ต้องจัดการอีกพอสมควร\n\n- บริษัทยังมั่นใจว่า backlog จำนวน 1.97 หมื่นลบ. จะสามารถรับรู้เป็นรายได้ภายใน 1 ปี ทำให้แนวโน้มรายได้จากการโอนกรรมสิทธิ์ปี 2569 จะมากกว่า 8.7 พันลบ.ในปี 2569\n\n- ในภาพรวม เรามองข้อมูลต่างๆข้างต้นเป็นการยืนยันถึงทิศทางผลประกอบการเชิงบวกที่มีต่อเนื่อง แต่เนื่องจากราคาหุ้นมีการปรับเพิ่มขึ้นมามากในระยะเวลาอันสั้น หรือ 22% ภายในหนึ่งสัปดาห์ ทำให้อาจมีการทำกำไรจากนักลงทุนบางกลุ่ม เนื่องจากการประชุมข้างต้นไม่มีข้อมูลใหม่ที่เป็นบวกอย่างมีนัย เราคงคำแนะนำ “ซื้อ” ที่ราคาเป้าหมายปี 2569 ที่ 24.50 บาท\n\n---\n\n**Market:** SET"
@@ -184,6 +188,10 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "KKPS 10 Jul 26",
+        "content": "**Date:** 10 Jul 26\n\n🏖️BA: From Resort Island to International Residential Community\n\nBA's share price has remained highly correlated with jet fuel prices, as the market continues to view BA primarily as an airline. We believe this will gradually change, driven by three structural catalysts.\n\n1. Samui is becoming an international residential community. Foreign demand for Samui property continues to strengthen. Foreign condominium ownership increased from Bt158mn in 2023 to Bt552mn in 2025, while Colliers expects prime villa prices to appreciate 8–9% p.a. Europe remains the largest tourist market, while Israeli tourists now account for 13% of arrivals, increasing 41% YoY and exceeding the pre-Covid level by more than 500%. Middle East conflict could further increase demand as more travelers and long-stay residents choose Samui as an alternative destination. Reflecting this strong demand, Samui passenger traffic grew 12–13% YoY in May and June, well above our expectations.\n\n2. Samui Airport is BA's hidden asset. Samui Airport has emerged as one of Thailand's best-performing airports, with passenger traffic 27% above the pre-Covid level, the strongest recovery among Thailand's major airports. We expect Bt1.5bn airport profit in 2026 and further growth as capacity doubles from 3mn to 6mn passengers by 2029 from renovation project. We value Samui Airport at 18x P/E, implying a valuation of Bt27bn, which still offers upside compared with regional airport peers trading at around 21x P/E and AOT at 47x P/E. Importantly, BA carries Samui Airport on its balance sheet at only Bt2bn under the historical cost method, suggesting substantial hidden value.\n\n3. Suvarnabhumi concession value has improved. AOT will extend BA's ground handling, cargo and catering concessions for three years. These businesses generate around Bt1.2bn in annual profit, yet we value them at only 6x P/E, well below SATS' 18x P/E. Valuing these businesses closer to SATS could add approximately Bt7–8/share to BA's valuation.\nOverall, we raise our 2026–27 Samui passenger growth assumption to 4–5% (from 2–3%) and increase our SoTP-based PO to Bt22.50 from Bt19.00. BA trades at just 9x 2027E P/E, compared with the regional average of 15x, leaving ample room for further re-rating.\n\nMore details are available in our report.\n\nhttps://www.nationthailand.com/business/property/40067109"
+      },
+      {
         "label": "KKPS 29 Jun 26",
         "content": "**Date:** 29 Jun 26\n\n🛫BA: Ground handling and cargo concessions extended for three years\n\n*According to AOT's analyst meeting on Friday, management commented that the concession contracts for the second operators of ground handling, cargo, and catering services at Suvarnabhumi Airport, which are currently operated by BA, will expire in September 2026. \n\n*AOT plans to open a new bidding process and, in the meantime, extend BA's existing concessions for three years until new contracts are signed with the winning bidder. Management also commented that BA is the frontrunner to win the bidding, given its extensive operating experience and existing equipment.\n \n*This news is positive for BA, as the concession renewal has been an overhang on the stock. The three concessions contribute around Bt1.3bn in 2025 profit, accounting for 34% of BA's total earnings.\n \n*We believe the extension could serve as a re-rating catalyst. Under our SoTP valuation, BA's PO is Bt19/share, of which we currently value the three concessions at only Bt1.2/share. This is based on an implied 2x P/E, derived from our 10x target P/E and applying an 80% risk discount. This assumption is highly conservative compared with SATS, a Singapore-listed cargo and ground handling operator, which trades at 21x 2026E P/E. Our sensitivity analysis suggests that valuing the three concessions at 15–20x P/E would increase their value from Bt1.2/share to Bt8.5–11.3/share."
       },
@@ -249,6 +257,10 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "KKPS 20 Jul 26",
+        "content": "**Date:** 20 Jul 26\n\n🏥BCH: Signs MOU to acquire Rajavej Ubonratchathani\n\n*BCH has signed an MOU with Rajavej Ubonratchathani to conduct a feasibility study for a potential investment in the private hospital.\n\n*Rajavej Ubon Ratchathani is a 100-bed hospital located in Ubon Ratchathani. According to the DBD, the hospital reported revenue of Bt188mn and a net loss of Bt29mn in 2025. Excluding interest expenses, the hospital recorded an EBIT loss of Bt3mn.\n\n*Management believes the hospital has strong turnaround potential, supported by its prime location in the city center. BCH also sees an opportunity to gain market share from the two major private hospitals in the province: (1) Ubonrak Thonburi Hospital, which has 100 beds and reported revenue of Bt980mn and net profit of Bt118mn in 2025, and (2) Princ Hospital Ubon Ratchathani, which has 59 beds and reported revenue of Bt316mn in 2025.\n\n*In the near term, BCH plans to enhance the hospital's capabilities and increase annual revenue to around Bt250mn, while targeting a minimum NPM of ~5%. Management also believes the hospital has the potential to attract patients from neighboring Laos. Over the longer term, BCH may apply for Rajavej to join SSO scheme. There are currently ~88,000 insured persons in Ubon Ratchathani, which registered with public hospitals. In addition, Rajavej has the potential to expand its capacity from 100 beds to 200 beds.\n\n*The transaction is currently undergoing due diligence, with completion expected by 3Q26. Management indicated that the preliminary valuation of Rajavej is around Bt500mn.\n\n*We view the acquisition positively. BCH currently has no presence in Thailand's northeastern region, making this an attractive strategic entry point. The acquisition price also appears reasonable compared with PRINC's acquisition of Sunpasit Inter Hospital, a 59-bed hospital in Ubon Ratchathani, for ~Bt500mn in 2020, which was subsequently rebranded as Princ Hospital Ubon Ratchathani."
+      },
+      {
         "label": "KKPS 07 Jul 26",
         "content": "**Date:** 07 Jul 26\n\n*Management updated that operations improved after a softer April, with patient volume picking up clearly in May and June. As a result, revenue growth should resume. The improvement was supported by the rainy season and school reopening, which drove more Thai patient visits, especially outpatient cases.\n\n*International patient momentum remained positive. Middle East patient volume continued to grow YoY in 2Q26, with Qatar and the UAE remaining the key drivers. BCH expects Middle East patient revenue to grow QoQ in 2Q26 and accelerate further in 3Q26.\n\n*SSO revenue should also improve. BCH expects to receive additional payment for chronic disease treatment this month and recognize the revenue in 2Q26.\n\n*Management believes the SSO will increase reimbursement rates for all three major categories: fixed capitation, chronic disease, and high-cost care. BCH expects the new rates to be approved by the end of this year and become effective in Jan-27. Management also expects the number of chronic diseases under the current reimbursement scheme to be reduced from 26 to around 18–19 diseases, with around 5–6 diseases moved to a separate payment category.\n\n*BCH maintained its guidance for mid-single-digit revenue growth in 2026 (vs. our 2% forecast).\n\n---\n\n**Market:** SET"
       },
@@ -289,6 +301,17 @@ const stockData = [
       {
         "label": "MBKET 25 Feb 26",
         "content": "**Date:** 25 Feb 26\n\nBDMS: 4Q25 profit fell by 15% YoY to Bt3.7bn, missing our/consensus estimates by 3%/10%; Extra dividend announced\n\n*BDMS reported 4Q25 core profit of Bt3.7b (-15% YoY, -15% QoQ), missing our/consensus estimates by 3%/10% mainly due to lower-than-expected gross profit margin of 36% (vs our estimate of 38% and 39% in 4Q24).\n\n*In this quarter, BDMS recorded total one-off items of Bt339mn including, Bt75mn Impact from flooding in Hat Yai, Bt229mn Provision for lifelong medical care programs, Bt40mn Provision for employee long service awards and Bt72mn Write off unused assets. Excluding these items, core profit would have been Bt4.0bn, still down 7% YoY due to 13% higher depreciation from the opening of two new hospitals and expansion of two existing hospitals, as well as lower tax privileges (tax rate of 18% in 4Q25 vs. 16% in 4Q24).\n\n*Hospital revenue grew 4% YoY. International patient revenue grew 1% YoY driven by patient revenue from Myanmar (+43% y-y), Qatar (+22% y-y), and American (+21% y-y). However, revenue from Cambodia patient revenue fell by 72% YoY. Excluding Cambodia, international patient revenue would increase by 10% YoY. Meanwhile, Thai patient revenue grew 5% y-y\n\n*COGS and SG&A increased 8% YoY. As a result, EBITDA margin declined to 22.2% and 23.6% excluding one-off items (vs 24.9% in 4Q24).\n\n*Full year 2025 core profit dropped 1% YoY to Bt15.8bn, accounting for 99% of our 2025E core profit forecast of Bt16.0bn\n\n*BDMS announced a 2H25 dividend of Bt0.4/shr and an additional special dividend of Bt0.25/shr. Including the 1H25 dividend of Bt0.35/shr, total 2025 dividends amount to Bt1.0/shr, implying a 4.7% dividend yield and 100% payout ratio."
+      }
+    ]
+  },
+  {
+    "ticker": "BEM",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "INVX 17 Jul 26",
+        "content": "**Date:** 17 Jul 26\n\nBEM – พรีวิว 2Q69: คาดกำไรเติบโตต่อเนื่อง YoY และ QoQ\n\nเราคาดว่า BEM จะรายงานกำไรสุทธิ 2Q69 ที่ 1.0 พันลบ. เพิ่มขึ้น 3.0% YoY และ 17.0% QoQ โดยได้รับแรงหนุนจากจำนวนผู้โดยสาร MRT และรายได้เงินปันผลที่สูงขึ้น ปริมาณการจราจรบนทางด่วนและจำนวนผู้โดยสาร MRT ในช่วง 1H69 เพิ่มขึ้น YoY สอดคล้องกับประมาณการของเรา แม้ว่าจำนวนผู้โดยสาร MRT จะต่ำกว่าที่คาดการณ์ไว้เล็กน้อย เรายังคงประมาณการกำไรปี 2569 ไว้ที่ 4.1 พันลบ. เพิ่มขึ้น 8.8% YoY โดยคาดการณ์ถึงโมเมนตัมที่แข็งแกร่งขึ้นใน 2H69 จากการฟื้นตัวของจำนวนนักท่องเที่ยวต่างชาติ อัพไซด์ของกำไรจะมาจากนโยบายอุดหนุนค่าโดยสาร MRT/BTS ที่ภาครัฐวางแผนไว้ในปี 2570 เราคงคำแนะนำ OUTPERFORM สำหรับ BEM โดยให้ราคาเป้าหมายสิ้นปี 2569 อิงวิธี SOTP ที่ 7.3 บาท (6.5 บาท สำหรับธุรกิจหลัก และ 0.8 บาท สำหรับเงินลงทุน) \n\nhttps://www.innovestx.co.th/cafeinvest/research/company-analysis/company-update/bem-update-20260717"
       }
     ]
   },
@@ -368,10 +391,33 @@ const stockData = [
     ]
   },
   {
+    "ticker": "Bank",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "MS 14 Jul 26",
+        "content": "**Date:** 14 Jul 26\n\nวันนี้ MS upgrade หุ้นไทย 2 sectors (Bank & Refinery) \n\n📌1.Refiners - The \"Golden Age\"\n⏫️U/G TP TOP to 70 (from 58)/ SPRC 12.9 (from 9.1)/ BCP 51 (from 49.3) และ OW ทั้ง 3 ตัว\n\n📍ยังคงมองเป็น The Golden Age of Refining เชื่อว่า GRM จะสูงกว่าระดับ Mid-cycle อย่างต่อเนื่องจากอุตฯที่ยัง tight จาก demand ที่โตเร็วกว่า supply และการที่ underinvestment มาตลอด 10 ปี ทำให้พอเจอ supply disruption ขณะที่ spare capacity ถูกใช้ไปแล้วเพราะตลาด tight อยู่ก่อนหน้านี้\n\n📍ปี 25-28 คาด incremental demand 2.5 mbpd ในขณะที่ capacity growth <1.5mnbpd\n\n📍ทั้งนี้โรงกลั่นเผชิญ 3 แรงกดดันด้าน supply พร้อมกัน การหยุดเดินเครื่องของโรงกลั่นในรัสเซียรวมประมาณ 2–3mb/d, การปิดโรงกลั่นในญี่ปุ่นและประเทศ OECD รวมถึง Teapot Refineries มีข้อจำกัดในการนำเข้าน้ำมันดิบและได้รับโควต้าส่งออกลดลง\n\nNew capacity ทั่วโลกต่ำมาก เพราะ MS ประเมินว่าการสร้างโรงกลั่นใหม่ขนาด 400,000 bpd ต้องใช้เงินลงทุนประมาณ US$12bn และ avg payback period 16 ปี ทำให้ผู้ประกอบการจำนวนมากชะลอการลงทุน ขณะที่ทั่วโลกต้องลงทุนมากกว่า US$250bn เพื่อรองรับ demand ในอนาคต แต่ปัจจุบันมี investment committed ที่เพียง US$70bn\n\n📍แม้สถานการณ์ ME คลี่คลาย แต่มองว่า Crack Spread ของ Diesel Jet Gasoline ยังอยู่ในระดับสูง เพราะ Marginal Cash Cost curve เพิ่มขึ้น ส่งผลให้ Mid-cycle Margins อยู่ในระดับสูงกว่าเดิม\n\n📍ปรับ GRM ขึ้น 15-20% คาดอยู่สูงกว่า mid-cycle 20-25% (ตอนนี้มอง GRM ที่ 14.3 ในปี 26, 12 ในปี 27, 10.5 ในปี 28 และ U-rate 81-82.5%) และปรับ EPS ขึ้น 30-50%\n\n📍MS ยังมองว่า โรงกลั่นในเอเชียยัง priced ที่แถว mid-cycle + ไม่มี dividend เพิ่ม / ไม่มี B/S De-gearing นอกจากนี้ complex refiners ที่มีการลงทุน countercyclically ใน 10 ปีที่ผ่านมาจะได้ประโยชน์ เพราะจะมี crude จากเวเนซูเอลา, เกรดใหม่จาก ME และอิหร่าน ชอบโรงกลั่นอินเดีย ไทย เกาหลีใต้"
+      }
+    ]
+  },
+  {
     "ticker": "CBG",
     "market": "SET",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "KKPS 10 Jul 26 ①",
+        "content": "**Date:** 10 Jul 26\n\nCBG Bullish\n\nCBG is no longer just an energy drink company. It has become an integrated platform across manufacturing, distribution, marketing and retail.\n\nCarabao is now the No.1 energy drink brand in Thailand, with accelerating sales and continued market-share gains. A broader SKU portfolio is driving rapid growth in traditional trade, while spirits are receiving strong feedback and improving distributor economics. Beer and more drinks should be the next major growth engine.\n\nCJ is set to expand from 2,000 stores to 2,500 by end-2026, with a long-term target of 10,000 stores, creating a powerful proprietary retail channel.\n\nThe ecosystem strategy is no longer just a concept. It is beginning to translate into accelerating growth, stronger margins and multiple new earnings engines.\n\nCBG is entering a structurally stronger growth phase. Boom!"
+      },
+      {
+        "label": "KKPS 17 Jul 26",
+        "content": "**Date:** 17 Jul 26\n\nCBG – Channel Checks\n\nA few fun observations from our recent channel checks. At dinner last night, a waiter told us that while he normally drinks Regency brandy, he switches to Khao Hom when he wants a more affordable option. \n\nHe claimed that Khao Hom has a milder smell, better packaging and causes less of a hangover than competing brands.\n\nWhile this is only anecdotal evidence, it may help explain why Khao Hom continues to gain market share, particularly among younger consumers. Its product positioning is also differentiated. \n\nKhao Hom is marketed as being made from jasmine rice, while many competing white spirits use molasses-based inputs. This may contribute to its smoother taste and lighter smell, helping the brand stand out. \n\nWe remain bullish on CBG."
+      },
+      {
+        "label": "KKPS 10 Jul 26 ②",
+        "content": "**Date:** 10 Jul 26\n\n***CBG (BUY): Key takeaways from our group meeting =\nMaximum loading***\n\nWe hosted a group meeting with Khun Romtham Sathientham, Managing Director. Overall, we came away more positive on CBG’s long-term outlook, as management continues to leverage its ecosystem to drive growth across both core and new businesses. \n\n*Domestic energy drink: market share gains to continue\n\nThe domestic sales deliver high single-digit growth, outperforming industry growth of about mid-single digits. CBG’s domestic market share has reached a new high of 30–31%. \n\n*Overseas energy drink: strong recovery ahead\n\nExcluding Cambodia, overseas sales are guided to grow\n30% YoY in 1H26, with management expecting stronger growth in 2H26 due to a low-base effect. \n\nIn Afghanistan, CBG plans to launch product in early 2027, targeting first-year sales of 2–3m cases (at least 100mn units). The factory will be funded by a local partner, while local production is expected to reduce retail prices from Bt27 to Bt12 per can, supporting affordability and growth across neighboring markets. \n\nMeanwhile, CBG expects to finalize its China partnership in 4Q26.\n\n*Distribution: long-term growth engine\n\nThe white-spirit, Kao Hom, is a key growth driver, with revenue expanding by 20–30% and market share accelerating to around 20%.  \n\nAlthough beer currently contributes only a small portion of sales, management sees significant growth potential over the longer term.\n\n*OEM soft drink (Loveza): Sparking a new business model opportunity\n\nLoveza, a fruit soda brand developed with a local influencer, has become a meaningful upside surprise, with sales reaching 5mn cans within three months of launch in April 2026. The next growth phase will be driven by deeper penetration into other modern trade channels.\n\nWe believe Loveza demonstrates CBG’s ability to expand beyond energy drinks by leveraging its manufacturing, distribution and marketing ecosystem. \n\nThe OEM revenue from Loveza is a big positive surprise as CBG captures growth opportunities in non-energy beverages.\n\n*We view CBG’s growth story is far from over in the next few years: \n\nWe expect CBG to deliver record-high earnings and sustain strong growth over the next few years, driven by domestic sales growth, overseas expansion and new growth engines built on the Carabao ecosystem: its integrated platform spanning manufacturing, an efficient distribution network and CJ More’s aggressive store expansion from 2,500 outlets at YE26 to 10,000 stores over the long term."
+      },
       {
         "label": "KKPS 09 Jul 26",
         "content": "**Date:** 09 Jul 26\n\nWe prefer CBG over OSP. The market still compares the two on valuation and dividend yield, but we think they are now playing in different leagues. \n\nOSP is mainly an efficiency and dividend-yield story, while CBG is a growth story. \n\nCBG continues to gain share from OSP in both Thailand and Myanmar, and is expanding into spirits, beer and lifestyle drinks, which represent a much larger TAM than energy drinks. \n\nCBG’s revenue and earnings growth gap versus OSP to widen. We see CBG as one of the few Thai consumer names with a credible new-market growth story, effectively a profitable startup entering a much larger TAM. Buy CBG!"
@@ -611,6 +657,18 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "CLSA 23 Jul 26",
+        "content": "**Date:** 23 Jul 26\n\nDELTA (HC O-PF, 450.00)\n\nWe view GOOGL’s 2Q26 results as a clear positive for DELTA. \n\nAlthough GOOGL shares fell post-market on margin and negative free cash flow concerns, this pressure stemmed from Google Cloud's massive 82% YoY growth (vs. 64% consensus). Demand simply outpaced internal capacity, necessitating expensive outsourced infrastructure—a sign of exceptional demand, not fundamental weakness.\n\nCrucially, GOOGL raised its 2026 CapEx guidance to US195–205bn (up from US180–190bn). We see this as confirmation that the AI-infrastructure build cycle is still accelerating and reinforces our view that the market underestimates the durability of hyperscaler CapEx, the primary external driver of DELTA’s earnings.\n\nWe reiterate our High Conviction Outperform with a TP of Bt450. While DELTA is expected to report a soft 2Q26 this Friday, this is well-anticipated by the market and leaves the structural story intact. With rising hyperscaler CapEx guidance, we advise looking past near-term weakness to position for a stronger 2H26."
+      },
+      {
+        "label": "TTBW 15 Jul 26",
+        "content": "**Date:** 15 Jul 26\n\nDELTA. BUY. + Delta TW guidance  \n\nDelta TW recently guided  that it maintains its pre-supply-shortage guidance for 3Q26 of teen q-q growth (~+4x% y-y). While demand remains strong, it has begun to secure new suppliers. The 2Q26 gross margin may be pressured by higher costs, but it can pass through to customers in 3Q26F. \n\nWe see this as positive for DELTA. We see a potentially soft 2Q26F (higher raw-material costs + a one-time provision for unsold finished products, which should be reversed in 3Q26F) as a BUYing  opportunity for the 3Q26F turnaround."
+      },
+      {
+        "label": "TTBW 24 Jul 26",
+        "content": "**Date:** 24 Jul 26\n\nDELTA. Disappointing 2Q26\n\nNormalized earnings of Bt5.6bn rose 19% y-y but fell 39% q-q.\n\nUS$ sales grew 50.7% y-y and 3.4% q-q. EBIT margin fell to 9.4% from 11.4% last year and 15.8% in 1Q26.\n\nWe estimate reasons for the miss:\n#1 Supply shortages caused around 10% lost sales.\n#2 Bt4.2bn margin pressure:\n- One-time Bt0.8bn provision for unsold finished products containing components from a sanctioned supplier.\n- Bt1.6bn impact from raw-material price hikes amid the shortage.\n- Bt1.7bn impact from weak product mix, as shortages occurred in key high-margin products.\n\nOutlook\n\nWe believe current customer orders imply around 50% h-h sales growth in 2H26F from strong AI demand. DELTA has likely found some new suppliers, but procurement and backlog fulfillment will take time and may not be completed in 3Q26F, with some slipping into 4Q26F.\n\nMargin should improve as the provision disappears and price hikes partly offset higher costs. We expect DELTA to maintain its 2H26F gross-margin target of 31%, vs. its normal level of  31.7% in 1Q26,  from 26.8% in 2Q26."
+      },
+      {
         "label": "KKPS 07 Jul 26",
         "content": "**Date:** 07 Jul 26\n\nวันนี้ SemiAnalysis ออกมาพูดว่า NVIDIA Kyber อาจดีเลย์ไปปี 2028 จากเดิมที่ตลาดเข้าใจว่าอาจเริ่มมากับ Rubin Ultra ช่วงปี 2027 โดย Kyber คือ rack architecture รุ่นใหม่ของ NVIDIA ที่ออกแบบมาเพื่อรองรับ Rubin Ultra และขยาย scale-up domain ให้ใหญ่ขึ้น เช่น NVL144 / NVL576 แทน architecture เดิมอย่าง Oberon / NVL72. \n\nNVIDIA เองเคยบอกว่า ecosystem ของ Kyber จะเชื่อม Rubin Ultra GPUs ได้มากถึง 576 ตัว ขณะที่ Rubin Ultra ถูกวางไว้ใน roadmap ปี 2027 และ Feynman ตามมาในปี 2028  \n\nประเด็นที่ SemiAnalysis claim คือ Kyber เจอปัญหาเรื่อง PCB midplane และ Co-Packaged Optics ยังไม่พร้อม ทำให้ Kyber NVL144 อาจเลื่อนไป 2028\n\nในเชิงเทคนิค Kyber สำคัญเพราะเป็น architecture ที่จะพา Rubin Ultra ไปสู่ rack density ที่สูงขึ้น และเกี่ยวข้องกับ transition ไปสู่ 800V DC power architecture ซึ่ง NVIDIA บอกว่าออกแบบมาเพื่อรองรับ AI racks ระดับ 1MW ขึ้นไป โดยเริ่ม transition ตั้งแต่ปี 2027  \n\nข่าวนี้เลยทำให้ Delta Taiwan วันนี้ราคาหุ้นตกใจลง เพราะตลาดเชื่อมโยงว่า ถ้า Kyber / Rubin Ultra / 800V DC ramp เลื่อน อาจทำให้ upside ของ Delta จาก AI power rack และ 800V DC ถูกเลื่อนตามไปด้วย\n\nแต่จริงๆ เรามองว่า ไม่น่ามีอะไรมาก เพราะเรื่องนี้ยังเป็น report จาก SemiAnalysis ไม่ใช่ official NVIDIA guidance และ SemiAnalysis เองก็ผิดมาหลายครั้งในช่วงหลังๆ\n\nที่สำคัญ ต่อให้ Kyber เลื่อนจริง ก็ไม่ได้แปลว่า AI capex หรือ power demand หายไป Rubin / Oberon racks ยังต้องเดินต่อ และถ้า performance ต่อ rack ต่ำกว่าที่คิด hyperscalers อาจต้อง deploy จำนวน rack มากขึ้นเพื่อชดเชย compute capacity ซึ่งยัง support demand ของ power supply, cooling และ data-center infrastructure อยู่ดี"
       },
@@ -636,6 +694,17 @@ const stockData = [
       {
         "label": "KS 26 Jun 26",
         "content": "**Date:** 26 Jun 26\n\nKS: ราคา DOHME (+10.8%), GLOBAL (+5.2%)\n\nเมื่อ 24 มิ.ย. กมอ. มีมติเห็นชอบร่างมาตรฐานใหม่ กำหนดให้ เหล็กข้ออ้อยสำหรับงานโครงสร้างอาคารสูงต้องผลิตจาก EAF/BOF และไม่อนุญาตให้ใช้เหล็กจากเตา IF โดยจะเปิดรับฟังความคิดเห็น 30 วันก่อนประกาศใช้เป็นทางการ\n\nComment:\nมองเป็น Positive ต่อกลุ่มเหล็ก เนื่องจากช่วยลดการแข่งขันจากผู้ผลิต IF และสนับสนุนการยกระดับมาตรฐานอุตสาหกรรม \n\nสำหรับกลุ่มค้าปลีกวัสดุก่อสร้าง มอง Slightly Positive ต่อ DOHOME มากกว่า GLOBAL จากสัดส่วนยอดขายเหล็กที่สูงกว่า ขณะที่ผลกระทบต่อกำไรระยะสั้นยังจำกัด\n\nKey Monitor: ผลการรับฟังความคิดเห็น 30 วัน และรายละเอียดการบังคับใช้จริง ซึ่งจะเป็นตัวกำหนดผลกระทบต่ออุปทานเหล็กในประเทศ.\n\nแนะนำ Neutral สำหรับ DOHOME ที่ TP Bt3.5, และ Outperform สำหรับ GLOBAL ที่ TP Bt7.0"
+      }
+    ]
+  },
+  {
+    "ticker": "EPG",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "FSS 16 Jul 26",
+        "content": "**Date:** 16 Jul 26\n\n(+) EPG แนวโน้มกำไรปกติ 1QFY27 (เม.ย.-มิ.ย. 2026) สดใสต่อ เราคาด 419 ลบ. (+20% q-q, +28% y-y) สูงสุดในรอบ 11 ไตรมาส\n\nแม้ว่าไตรมาสนี้จะเผชิญกับสงครามเต็มไตรมาส แต่ยอดขายฉนวน Aeroflex ยังโตได้ต่อเนื่องโดยเฉพาะตลาดสหรัฐ เราคาดรายได้ Aeroflex (33% ของรายได้รวม) +7% q-q, +6% y-y คาดอัตรากำไรขั้นต้นดีขึ้นเป็น 48.5% (+2.6% q-q, +2.5% y-y) จากการทยอยปรับราคา\n\nการขายฉนวนไปยัง Data center ตรงๆ ยังมีสัดส่วนน้อย แต่ปัจจุบันขายให้โรงงานที่อยู่ใน supply chain ของ Data center ไม่ว่าจะเป็นรง.ผลิตชิพ เซมิคอนดักเตอร์ ผลิต optical components ต่างๆ อานิสงส์ที่ Aeroflex US ได้จริงๆ คือนโยบาย Re-shoring ของทรัมป์ และการขยายตัวของภาคการผลิตในสหรัฐ\n\nรายได้จากบรรจุภัณฑ์พลาสติก EPP (21% ของรายได้รวม) ยังโตดี คาด +17% y-y (-6% q-q ตามฤดูกาล) ที่สำคัญคืออัตรากำไรขั้นต้นที่ยืนในระดับสูงต่อ เราคาด 17.5% สูงสุดในรอบ 4 ปี\n\nรายได้จากชิ้นส่วนยานยนต์ (46% ของรายได้รวม) โตช้าตามภาวะอุตสาหกรรม เราคาด +3% q-q, -1% y-y แต่เชื่อว่ายังรักษาอัตรากำไรขั้นต้นได้เท่าเดิม 33.7% \n\nไตรมาสนี้อาจตั้ง ECL ของบ.ร่วมในแอฟริกาใต้ คาด 40-60 ลบ. จากตลาดยานยนต์ที่ฟื้นช้า\n\nแนวโน้มอีก 3 ไตรมาสที่เหลือยังดูดี เราปรับประมาณการกำไรปีนี้เพิ่ม 11% เป็น 1.6 พันลบ. (+16% y-y) new high ปรับราคาเป้าหมายขึ้นเป็น 8.50 บาท (EV/EBITDA 10.5x) ยังคงแนะนำซื้อ\n\n#Finansia #FSSIA"
       }
     ]
   },
@@ -676,8 +745,27 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "KS 10 Jul 26",
+        "content": "**Date:** 10 Jul 26\n\nKS: Electronics - Positive\n\n- ในช่วงปลายเดือน มิ.ย.-ก.ค. มีข่าวบวกเพิ่มขึ้นเกี่ยวกับอุตสาหกรรม PCB โดยผู้ผลิตในจีนมีการปรับราคาขึ้นหลายรอบ รวมๆเฉียด 40-50%\n\n- Key driver มาจาก demand ที่โตแรงในอุตสาหกรรม AI servers และการขาดแคลนวัตถุดิบ ทําให้ราคาวัตถุดิบหลักเช่น CCL และ Prepreg ปรับตัวสูงขึ้น โดยราคา PCB ที่ปรับตัวสูงขึ้น หลักๆจะอยู่ในฝั่ง high-end PCB มากกว่า consumer grade ทั่วไป\n\n- ผู้ผลิตรายใหญ่อย่าง ZD Tech รายงานยอดขายเดือน มิ.ย. เป็น record-high ในขณะเดียวกัน หลายบริษัทเริ่มมีการรายงานถึงการลง capex ครั้งใหม่ ทั้งเพื่อการขยายไลน์ AI โดยเฉพาะ และจากการที่ utilization rate เริ่มตึงตัว และ lead time ใน product high-end ยาวนานขึ้นไปถึง 6 เดือน\n\n- ผู้ผลิตมีการให้ outlook ที่เป็นบวกในช่วงครึ่งปีหลัง หนุนจากทั้ง seasonal peak และจาก demand โดยรวมที่ปรับตัวขึ้นในหลาย end-market\n\n- โดยรวมมองเป็น positive read-through ต่อ KCE ในช่วงครึ่งปีหลัง โดยการปรับขึ้นราคาขายทั้งตลาดจะส่งผลบวกต่อรายได้และอัตรากําไร ในขณะเดียวกันค่าเงินบาทที่พลิกกับมาอ่อนค่าก็จะเป็นแรงหนุน มองว่าโดยรวม momentum ยังเป็นไปในทางบวก\n\n- คงคําแนะนําซื้อ KCE ราคาเป้าหมาย 45 บาท"
+      },
+      {
+        "label": "KKPS 13 Jul 26",
+        "content": "**Date:** 13 Jul 26\n\nThe first phase of Thailand's AI trade was straightforward. Investors bought DELTA because AI data centers require more power supplies, thermal systems and rack-level power infrastructure. That remains the clearest and most direct exposure. However, we believe the next phase of the AI trade should broaden beyond DELTA. As NVIDIA's roadmap advances from Blackwell to Vera Rubin, Rubin Ultra and ultimately Feynman, rack power is expected to rise from around 100-120kW today toward 600kW and eventually MW-class systems, making power delivery one of the biggest constraints in AI infrastructure.\n\nThis is where 800VDC becomes the next-generation architecture. Higher voltage reduces current, heat, copper usage and power losses while improving overall efficiency. The shift also changes the component mix, increasing demand for more efficient power conversion, faster switching and higher reliability. As a result, SiC and GaN are becoming key enabling technologies for the next generation AI power stack.\n\nAt the same time, AI is evolving from training and inference toward Agentic AI and ultimately Physical AI, where intelligence moves into robots, humanoids, autonomous machines and industrial automation. This creates demand for actuators, sensors, LiDAR, cameras, motor control, power management, batteries and high-reliability PCBs.\n\nThailand has a practical entry point through its established strengths in automotive electronics, power electronics and semiconductor manufacturing. The country does not need to produce leading-edge GPUs to benefit. Instead, the opportunity lies in the enabling hardware layer. As global suppliers expand manufacturing footprints, supported by government policy and emerging semiconductor clusters, Thailand's AI opportunity should broaden from a single DELTA story into a wider basket spanning power electronics, DC infrastructure and Physical AI hardware.\n\nDELTA is the clearest Thai beneficiary of the 800VDC transition. Higher rack power drives demand for AC/DC power shelves, DC/DC conversion, sidecar power racks, BBUs, SSTs, DC distribution and cooling, areas where DELTA has broad end-to-end exposure. We view 800VDC as an architectural shift rather than a product cycle, with SSTs emerging as a key long-term opportunity as power moves toward MW-class AI racks.\n\nHANA offers exposure to the power semiconductor layer through its Power Management Semiconductor business. As AI data centers adopt SiC and high-voltage power devices, HANA could become Thailand's proxy for the analog and power semiconductor opportunity, where BofA forecasts TAM to grow from US$7.9bn in CY25 to US$26.8bn by CY30.\n\nKCE represents our preferred Physical AI beneficiary. As AI expands into humanoids, demand should rise for automotive-grade PCBs used in sensors, motor control and power management. With strong automotive PCB expertise and ongoing humanoid-related R&D, KCE is well positioned to participate in the emerging humanoid hardware supply chain. Many humanoid-related names are already trading at ~50x P/E and 5-7x P/S. Should KCE establish itself as a credible humanoid supply chain beneficiary, the market could begin valuing it through a completely different lens.\n\nPSP is a picks-and-shovels play on AI infrastructure. Higher-voltage data centers require more transformer oil, specialty coolants and immersion cooling fluids. Management expects these products to increase to 8-10% of revenue over the next few years, while generating margins more than twice those of its legacy lubricants business. The mix shift should have a disproportionately larger impact on earnings growth and the bottom line than the revenue contribution alone suggests. Valuation is just 8x PER FY26E with 40% earnings growth.\n\nTRT provides an early-stage angle on power infrastructure through larger transformers for Data Center operators and potential exposure to solid-state transformers in the future (if possible), although commercial visibility now remains limited for SST.\n\nMGC offers long-term optionality through its partnership with XPeng, whose ambitions now extend beyond EVs into humanoid robotics. While not a near-term earnings driver, it provides indirect exposure to the Physical AI ecosystem.\n\nBeyond individual companies, Thailand is well positioned as an AI hardware manufacturing base, supported by strengths in power electronics, automotive electronics, PCBs, photonics, storage and semiconductor assembly, alongside supportive government policies. Our recent visits with Lumentum and Seagate reinforced this view. We see WHA as a key second-derivative beneficiary, as its new Saraburi industrial estate is well located to capture future semiconductor and advanced electronics investment.\n\n---\n\n**Market:** SET"
+      },
+      {
         "label": "KKPS 10 Jun 26",
         "content": "**Date:** 10 Jun 26\n\nComputex 2026 reinforces that AI is evolving beyond GPUs into a broader ecosystem, including AI factories, edge AI, AI PCs, robotics and humanoids. NVIDIA highlighted Vera Rubin, Vera CPU and RTX Spark, while also showcasing its DSX AI Factory ecosystem across compute, power, cooling, software and cloud services. Data to Agent AI to Physical AI…\n\nFor Thailand, we see three key beneficiaries.\n\nDELTA is a clear AI infrastructure play, as it was included in NVIDIA’s DSX AI Factory Ecosystem under Energy and Cooling. Rising power and cooling requirements in AI datacenters should support long term demand.\n\nCOM7 should benefit from the AI PC upgrade cycle, as NVIDIA, Microsoft and major OEMs push AI capable laptops that can run workloads locally. This could drive stronger replacement demand and higher ASPs.\n\nKCE is the key Thai play on humanoid robotics, given its exposure to industrial automation, motion control and actuator related customers. BofA estimates the humanoid robotics market could grow from around US$1bn in 2025 to approximately US$24bn by 2030 and exceed US$200bn by 2035.\n\nThe key angle is actuators, which are critical for robot movement and precision control. BofA estimates actuators and dexterous hands could account for around 62% of humanoid robot BOM by 2030. \n\nSeveral global humanoid related plays currently generate less than 1% of revenue from humanoids, yet have already re rated to around 50x P/E or 5 to 8x P/S. \n\nKCE is not yet priced as a humanoid robotics proxy, implying room for re rating if investors recognize this exposure. If the market starts to believe in this theme, market cap could move toward Bt60-65 per share."
+      }
+    ]
+  },
+  {
+    "ticker": "FTREIT",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "INVX 20 Jul 26",
+        "content": "**Date:** 20 Jul 26\n\nFTREIT – พรีวิว 3QFY69: คาดกำไรเติบโต YoY แต่ทรงตัว QoQ\n\nเราคาดว่า FTREIT จะรายงานกำไรปกติ 3QFY69 (เม.ย.-มิ.ย. 2569) ที่ 768 ลบ. เพิ่มขึ้น 6.9% YoY แต่ทรงตัว QoQ โดยคาดว่า DPU จะอยู่ที่ 0.2 บาท/หน่วย (อัตราผลตอบแทน 1.6%) ทั้งนี้ ผลการดำเนินงานโดยรวมยังคงแข็งแกร่ง แม้อัตราการเช่าพื้นที่ในส่วนของคลังสินค้าจะลดลงชั่วคราว การลงทุนในทรัพย์สินใหม่ยังคงเป็นไปตามแผน โดยเราคาดว่าธุรกรรมจะแล้วเสร็จภายในปลายเดือน ก.ย. เรายังคงคำแนะนำ OUTPERFORM สำหรับ FTREIT โดยให้ราคาเป้าหมายสิ้นปี FY2569 ซึ่งคำนวณด้วยวิธี DDM ที่ 14 บาท (WACC 5.6% และอัตราการเติบโตระยะยาว 0.3%) และยังคงเลือก FTREIT เป็นหนึ่งใน top picks ของกลุ่ม REIT และ IFF\n\nhttps://www.innovestx.co.th/cafeinvest/research/company-analysis/company-update/ftreit-update-20260720"
       }
     ]
   },
@@ -693,6 +781,17 @@ const stockData = [
       {
         "label": "FSS 18 May 26",
         "content": "**Date:** 18 May 26\n\n(0) GFPT กำไรปกติ 1Q26 ตามคาด ทรงตัว q-q และลดลง y-y\n\n📌กำไรสุทธิ 1Q26 เท่ากับ 517 ลบ. (+16.6% q-q, -19.0% y-y) หากไม่รวม FX และ Derivative gain จะมีกำไรปกติ 486 ลบ. (+0.7% q-q, -22.6% y-y) ใกล้เคียงคาด\n\n📌รายได้รวม -6.6% q-q, -8.2% y-y มาจากปริมาณขายส่งออก และราคาไก่ลดลง แต่อัตรากำไรขั้นต้นปรับตัวดีขึ้นเป็น 14.6% จาก 14.2% ใน 4Q25 และ 14.0% ใน 1Q25 มาจากต้นทุนวัตถุดิบที่อยู่ในระดับต่ำ และมาจาก product mix\n\n📌ควบคุมค่าใช้จ่ายได้ดี ทำให้ SG&A to sales ลดลงเป็น 7.4% จาก 7.8% ใน 4Q25 และ 1Q25\n\n📌ส่วนแบ่งกำไรบริษัทร่วมลดลงมาก -24.0% q-q, -54.2% y-y มาจาก GFN ที่มีกำไรลดลงเหลือ 8 ลบ. (-63.7% q-q, -92.4% y-y) เพราะราคาโครงไก่ลดลงพอควรช่วงต้น 1Q26 รวมถึง McKey มีกำไรลดลง -10.9% q-q, -19.9% y-y จากปริมาณการส่งออกลดลงเช่นกัน\n\nกำไร 1Q26 คิดเป็น 25% ของประมาณการทั้งปี\n\n#Finansia #FSSIA"
+      }
+    ]
+  },
+  {
+    "ticker": "GLOBAL",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "TTBW 24 Jul 26",
+        "content": "**Date:** 24 Jul 26\n\nGLOBAL. BUY. Very strong 2Q26F insight \n\nWe expect GLOBAL to deliver 2Q26F earnings of Bt700m, +34% y-y.\n\nDespite still soft SSSG, EBIT margin should expand to 7.9% from 5.4% last year. Excluding the steel price hike, margin should still rise to 6.5% from a higher sales mix of high-margin house-brand products and GLOBAL’s new cost-saving strategies.\n\nThe stronger house-brand sales came after GLOBAL readjusted its strategy from business expansion toward margin improvement. House brands are also doing well amid soft consumption, given their 15-20% lower selling prices than branded products. \n\nWe forecast a falt SSSG in 2H26F, continued margin expansiosn and forecast 19/14% EPS growth in 2026-27F Reiterate  BUY on GLOBAL."
       }
     ]
   },
@@ -743,6 +842,10 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "KKPS 15 Jul 26",
+        "content": "**Date:** 15 Jul 26\n\nBofA hosted a call with Kevin Wang, Global VP Sales at Amble Electronics. \n\nDemand broadened from memory into analog, discrete, FPGA and AVGO products, led by data centers and power.\n\nMemory demand slowed as supply improved and customers waited for 3Q pricing. However, lead times lengthened for STM, TXN and Renesas, pointing to potential shortages in 2H26, particularly across AI servers, networking and industrial servers.\n\nPrice increases from IFX, MCHP, NXPI, ROHM and Chinese suppliers improved order visibility. Price hikes of c10-15% remain modest compared with memory inflation, while supplier prices are still below market spot prices, suggesting further pricing upside.\n\nWe checked with HANA, and the CEO shared a broadly similar view…."
+      },
+      {
         "label": "CLSA 28 May 26",
         "content": "**Date:** 28 May 26\n\nInfineon announced its second price hike of 2026 effective July 1, citing AI data centre demand “exceeding expectations” alongside rising supply chain costs — with Texas Instruments simultaneously announcing its own second price hike covering PMICs and MOSFETs.  \n\nWe see this is a positive read-through for HANA on two fronts: \n\n(1) Infineon and TI are inferred key customers of HANA’s Ayutthaya IC assembly business — pricing power signals the IC upcycle is real, accelerating, and broader than consensus expects, supporting our FY27 estimates which sit 27–31% above Street; \n\n(2) surging demand for power semiconductors in AI data centres validates HANA’s PMS strategic pivot into AI Power Infrastructure via SiC JFET and high-voltage SiC MOSFET — the TAM HANA is entering is tightening, not commoditising. IC recovery playing out faster than consensus.\n\nhttps://www.trendforce.com/news/2026/05/27/news-infineon-announces-second-2026-price-hike-effective-july-1-amid-rising-supply-chain-costs-strong-demand/"
       },
@@ -765,6 +868,17 @@ const stockData = [
       {
         "label": "KKPS 18 May 26",
         "content": "**Date:** 18 May 26\n\nHANA\n\nWe believe the market may have misinterpreted HANA’s results.\n\nMost analyst comments appear to rely heavily on the MD&A, which we believe may contain incorrect revenue data. \n\nThis likely led to an overly negative interpretation of the results. Based on our own calculations, total revenue should have grown both YoY and QoQ. PCBA revenue improved QoQ, while the IC segment delivered growth both YoY and QoQ.\n\nIn our view, this is a positive signal and remains consistent with management’s guidance, as well as the broader recovery trend across the global semiconductor industry. \n\nWe therefore believe the positive industry outlook expected on 21 May remains intact."
+      }
+    ]
+  },
+  {
+    "ticker": "Healthcare",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "KKPS 14 Jul 26",
+        "content": "**Date:** 14 Jul 26\n\n🏥Thai Healthcare: Three positive catalysts\n\n*We see three positive developments for the Thai healthcare sector.\n\n*First, influenza cases have started to pick up again. According to the Department of Disease Control, Week 28 (5–11 July) marked the first week since Week 4 in January in which influenza cases exceeded the same period last year. This is consistent with hospital management commentary, including BDMS, which indicated that Thai patient revenue returned to mid-single-digit growth in June and early July, from low-single-digit growth during the first five months of the year, supported by the rainy season.\n\n*Second, Middle East tourist arrivals returned to growth, increasing 11% YoY during 1–11 July after declining on a YoY basis since March. This suggests that Middle East patient revenue could return to YoY growth in 3Q26, which is the seasonal peak for medical tourism from the region.\n\n*Third, the government is reportedly reviewing the Civil Servant Medical Benefit Scheme (CSMBS), which currently covers around 4–5 million beneficiaries. The scheme's budget reached Bt107bn in 2025, exceeding the original budget of Bt94bn, and has grown at around 5% CAGR since 2017. One proposal under consideration is to allow family members of civil servants to choose alternative healthcare schemes, such as the NHSO Scheme or SSO Scheme, instead of being covered exclusively under the civil servant scheme. This would reduce the number of CSMBS beneficiaries and help contain government healthcare spending.\n\n*Another proposal being discussed is to encourage greater use of private health insurance. If implemented, this could directly benefit private hospitals. BCH's CEO commented that, for example, if the government reduced the CSMBS budget from Bt90bn to Bt60bn and required civil servants to co-pay 10% of the reduced budget, this would create ~Bt6bn of additional revenue opportunities for private hospitals, while also helping alleviate overcrowding at public hospitals.\n\n*While these are relatively small catalysts, we believe they could help narrow the healthcare sector's underperformance, with Thai hospital stocks having lagged the SET by around 16% since the Middle East conflict began.\n\nhttps://today.line.me/th/v3/article/PGeRoro"
       }
     ]
   },
@@ -829,6 +943,10 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "KKPS 23 Jul 26",
+        "content": "**Date:** 23 Jul 26\n\nQuick view: KBANK-2Q26 profit beat on non-NII\n\nKBANK reported 2Q26 normalized profit of Bt13.25bn, broadly stable QoQ and up 6% YoY. The result beat our forecast and consensus by 9% and 5%, respectively. \n\n1H26 normalized profit grew 1% YoY and accounted for 55% of our full-year forecast, suggesting upside risk to our estimates. We re-iterate BUY.\n\nThe earnings beat was driven by stronger-than-expected non-interest income across fees, and FVTPL gains. Net fee income rose 4% QoQ and 26% YoY, mainly driven by mutual fund sales. FVTPL gains increased 53% QoQ to Bt4.8bn, alongside higher other income.\n\nNet interest income was broadly in line with our forecast. However, loan growth was stronger than expected at 4.5% QoQ, driven by corporate lending. NIM contracted by around 8bps QoQ.\n\nAsset quality remained manageable. NPL balances rose 1% QoQ, partly due to fewer write-offs, while Stage 2 loans declined slightly to 8.4% of total loans. The NPL ratio fell to 3.55%.\n\nKBANK set aside provisions of Bt10bn, broadly flat YoY and up 2% QoQ. Credit costs stood at 1.6%, at the high end of its normalized range, while the loan-loss coverage ratio improved to 163%.\n\nOperating expenses were flat YoY but rose 8% QoQ due to higher marketing and IT expenses. The cost-to-income ratio increased to 42% from 39% in 1Q26.\n\nThe company is hosting earnings call this morning. More details to follow.\n\n---\n\n**Market:** SET"
+      },
+      {
         "label": "— 22 Apr 26",
         "content": "**Date:** 22 Apr 26\n\nKBANK – Impressive results in 1Q26\n\nKBANK reported 1Q26 net profit of THB14.7b, up 6% YoY and 42% QoQ on the decent fee income and THB1.46b one off compensation income from investment.\n\nResults beat our forecast and consensus by 29-36% on higher-than-expected non-nii. 1Q26 earnings accounted for 33% of our FY26 forecast.\n\n- Loans fell 1% QoQ while NIM fell 10bps QoQ to 2.98% due to lower loan yield.\n\n- On positive note, net fee income rose 18% YoY, thanks to higher fees from wealth management and brokerage fees.\n\n- Non-NII jumped 28% YoY due to the higher insurance income and THB1.46b one off compensation income from investment.\n\n- OPEX fell 4% YoY and 16% QoQ due to the lower employee expenses and good cost control. Cost-to-income ratio fell 190bps YoY to 38.9%.\n\n- KBANK booked THB9.8b provisions, flat YoY, or 160bp credit cost.\n\n- NPL ratio fell 7bps QoQ to 3.71% while NPL coverage rose 8ppts QoQ to 161%.\n\n- On positive note, NPL formation fell to only 0.58% in 1Q26 from 1.2% in FY25 and stage 2 loans to total loans was flat QoQ at 8.6%.\n\n- KBANK wrote off THB4.2b NPLs in 1Q26 vs THB3.1b in 1Q25.\n\nWe expect share price to react positive on 1Q results. We will update with more details after attend the meeting today (21 Apr).\n\nJesada\nMaybank"
       }
@@ -865,6 +983,28 @@ const stockData = [
       {
         "label": "POP 25 May 26",
         "content": "**Date:** 25 May 26\n\n#KISS \n\nสรุป Company Visit \n\nKISS ได้มีการเปลี่ยน CEO ใหม่เข้ามาบริหารงานในปี 2568 ทำให้ management ภายในองค์กรณ์นั้นเปลี่ยนไป \n\n#รายได้ รายได้กลับมาเติบโตได้ดีในปีที่ผ่านมาต่อเนื่องมาถึงปัจจุบัน ด้วยรูปแบบการบริหารจัดการที่เปลี่ยนแปลงไป \n\nโดยทีมผู้บริหารใหม่ เน้นการ #SELL_OUT แล้ว #SELL_IN จะดีเอง .. การที่ KISS ขายของให้กับ ร้านค้า (SELL IN) แล้วร้านค้าก็ไปขายให้คนใช้ (SELL OUT) โดยบริษัทไปบริหารจัดการให้ร้านค้าสามารถขายของได้ดีขึ้นในหลายๆวิธีการ ทำให้สินค้าขายออกได้ดี ดังนั้นเมื่อสินค้าขายดี ทำให้ร้านค้าต้องกลับมาซื้อสินค้าไหม่ ... จากแต่เดิมการขายอาจจะเน้นให้ร้านค้าซื้อของไปเยอะๆ หากอยากขายดีก็ให้ Promotion เยอะๆ ซึ่งการที่ร้านค้าซื้อของไปสต๊อกเยอะๆ แต่ถ้าขายไม่ออก รายได้ก็จะมาก้อนใหญ่ แล้วรายได้ก็จะหายไป เพราะ ร้านค้าสต๊อกสินค้าไปแล้ว ทำให้รายได้ไม่ต่อเนื่อง ดังนั้นบริษัทจะไม่ได้เน้นอัดการขายไปที่ร้านค้า แต่เน้นการทำการตลาดให้ร้านค้าขายของได้อย่างรวดเร็ว \n\nการเติบโตของรายได้ ยังสามารถเติบโตได้จากหลายๆช่องทางการขาย เช่น เพิ่มจำนวนร้านค้า, ขาย Online มากขึ้น, ส่งออกไปยังต่างประเทศมากขึ้น\n\n#อัตรากำไรขั้นต้น 59% ตรงนี้ถ้าไปดูในอดีตก็จะรู้แหละว่าไตรมาส 1/2569 นั้น GPM ดีเกินไป (จากไตรมาส 3/2568 และ ไตรมาส 4/2568 ที่ระดับ 53%) เพราะ ไตรมาส 1/2569 ขายของแบบไม่ได้เน้นโปรโมชั่นเท่าไร เลยทำให้รายได้เข้ามาเต็มคาราเบล ไม่มีส่วนลด ไม่มีโปรโมชั่น โดยการรับรู้รายได้มาจาก รายได้ หัก GP และ หักโปรโมชั่น แล้วนำรายได้ที่สุทธิที่หักจากโปรโมชั่น แล้วค่อยมารับรู้รายได้ แต่ถ้าขายของแบบไม่มีโปรโมชั่น ขายได้ก็หักต้นทุนของแถมน้อย อัตรากำไรเลยดี ... \n\n(แต่ถ้าขายออนไลน์ รายได้ก็คือรายได้ทั้งจำนวน แต่ค่า fee จาก Platform จะไปบันทึกใน Selling Expense การบันทึกรายได้ และ ต้นทุนไม่เหมือนกัน)\n\n#ค่าใช้จ่ายในการขาย ก็ยังคงต้องทำการตลาดต่อ ไม่รู้ว่าแนวโน้มจะลดลงหรือไม่\n\n#ค่าใช้จ่ายในการบริหาร ปีที่แล้วขึ้นๆลงๆ เพราะ มีเรื่องการตั้งสำรอง และ กลับสำรอง แต่แนวโน้มคงเป็นขาขึ้นตามการมองหาการเติบโตทำให้ต้องมีการจ้างคนเพิ่มเพื่อรองรับการเติบโต แต่บริษัทก็คาดหวังว่าเมื่อคิดเป็น % ต่อรายได้ ต้นทุนส่วนนี้จะไม่เติบโต\n\n#สรุป รายได้คงดี จาก Management ใหม่ๆ, การขยายช่องทางการขาย, การส่งออก แต่ไตรมาส 2/2569 น่าจะลดลง QoQ ตาม Seasonal .. GPM ดีกว่าปกติ ก็ต้องลงมาปกติในสักไตรมาสนึง .. ต้นทุน การทำการตลาด น่าจะเพิ่มเพื่อการเติบโต ... ดังนั้นรอดูงบไตรมาส 2/2569 น่าจะยังทัน เพราะ ถ้ารายได้ลดลงตาม Seasonal + GPM ลดลงสู่ฐานปกติที่ประมาณ 53% (จาก 59% ในไตรมาส 1/2569) กำไรขั้นต้นที่เป็นบาทก็น่าจะลดลง .. และถ้า SG&A ไม่ลด กำไรสุทธิน่าจะลด QoQ เยอะอยู่ ดังนั้นน่าจะไม่ต้องรีบ รอดูงบได้ แต่ Management ใหม่ๆทำให้ภาพบริษัทในระยะยาวน่าสนใจเลย\n\nจ.บ. 💋"
+      }
+    ]
+  },
+  {
+    "ticker": "KKKP",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "TTBW 21 Jul 26",
+        "content": "**Date:** 21 Jul 26\n\nKKP 2Q26 Results — Solid Beat on Fee & AQ \n\nNet profit Bt2.1bn (+51% y-y, +9% q-q) - Beat consensus by 14%\n\n✅ Asset quality — meaningful improvement. NPLs -15% q-q from Bt1.9bn write-off of legacy micro SME loans (TCG-covered). Losses on repossessed vehicles fell to Bt283m — lowest in 16 quarters. Credit cost 143bps (from 150bps). Coverage ratio up to 134% (from 124%).\n\n✅ Fee income +28% y-y, +16% q-q. Led by asset management, brokerage, wealth management, and Dime. 1H26 Dime revenue already at Bt876m vs full-year 2025 of Bt802m — run rate well ahead.\n\n✅ Loans +1.6% q-q. Corporate and real estate development led growth, offsetting continued retail softness.\n\n〰️ NIM stable q-q at 3.72%. Lower funding costs fully offset loan yield pressure. \n\n📌 Outlook\n3Q26 earnings expected to grow y-y and q-q — driven by lower credit cost, sustained fee momentum, and NIM recovery."
+      }
+    ]
+  },
+  {
+    "ticker": "KKP",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "TTBW 23 Jul 26",
+        "content": "**Date:** 23 Jul 26\n\n🏦 KKP 2Q26 Analyst Meeting – Positive Take\n\nKey takeaways\n\n• AQ improving: 2Q26 had a one-off ~Bt500m provision from the Bt1.8bn micro SME write-off. Management expects 2H26 provisions to decline meaningfully from Bt2.5bn in 1H26. YFWH is tracking well, while used-car prices should remain stable.\n• Dime remains the highlight: 1H26 revenue reached Bt876m, already above FY25 revenue (Bt802m). The platform is evolving into a full financial services app, with health insurance coming soon and digital assets next year.\n• Capital management: Warrant conversion will add ~Bt6bn of capital. With slow loan growth, management is open to increasing the dividend payout ratio.\n• Guidance raised: ROE to 12–13% (from 10–11%), spread to 4.5–4.6% (from 4.3–4.4%), and credit cost to 1.3–1.5% (from 1.6–1.8%).\n\nOur view: Positive. We see 20–25% upside to our earnings forecasts from lower credit costs and stronger fee income, with additional upside from a potentially higher dividend payout."
       }
     ]
   },
@@ -910,6 +1050,22 @@ const stockData = [
     "market": "SET",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "MST 20 Jul 26 ①",
+        "content": "**Date:** 20 Jul 26\n\nKTC - Best of both worlds; highly resilient with bulletproof balance sheet\n \nWe see multi positive re-rating catalysts.\n\nFirst, KTC outpaced the industry average to grow its credit card market share from 11.9% in FY22 to 13.4% in 1H26 due to its targeted marketing campaigns to the right customer groups.\n\nSecond, NIM is projected to climb to 13.1–13.3% in FY26–27, driven by a 10–20bps YoY drop in cost of funds. KTC holds the highest credit rating (AA) in its sector, ensuring structural cost-of-fund advantages.\n\nThird, launching an insurance brokerage business likely generates fee income with zero NPL risk and capital requirements.\n\nWe like KTC for its highest profitability among peers of 8.0% ROA, significantly higher than 4.0% ROA for title loan operators and 1.0-2.0% for banks.\n\nWe see KTC offering high earnings predictability and quality, thanks to its solid credit card spending growth and high loan-loss reserve at 4.3x of NPLs.\n\nWe believe KTC could raise its payout ratio to 70%, given the slow loan growth and low D/E ratio.\n\nKTC reported 2Q26 earnings of THB2.2b (EPS: THB0.86), up 17% YoY, due to higher NIM and lower credit cost.\n\nWe raise FY26-28E net profit by 3-5% to reflect lower credit cost and forecast net profit to grow 10% YoY in FY26 and 5% pa in FY27-28.\n\nBUY with a higher TP of THB48 after raising our profit forecasts and roll forward valuations to FY27.\n\nJesada\nMaybank"
+      },
+      {
+        "label": "MST 20 Jul 26 ②",
+        "content": "**Date:** 20 Jul 26\n\nKTC งบดีมากๆ\n\nตลาดกลับมาสนใจแล้ว\n\nแรกๆคนจะไม่ชินแล้วกล้าๆกลัวๆ\nซื้อๆขายๆ \n\nปกติช่วงแรก คนจะยึดติดกับ valuation ต่ำๆ ในช่วง 3ปีที่ผ่านมา\n\nทำให้โดนเขย่าออก คิดว่าขึ้นมาเยอะแล้ว ทำให้อดกินคำใหญ่"
+      },
+      {
+        "label": "TTBW 15 Jul 26",
+        "content": "**Date:** 15 Jul 26\n\nKTC | (BUY; TP Bt44)\n\n- We raise TP to Bt44 (from Bt35) from 2026–28F net profit estimates up 7–9% p.a. on lower credit cost + tighter opex.\n\n- Expect earnings CAGR to improve to 6% in 2026–28F (vs. 3% in 2023–25), supported by resilient asset quality, disciplined opex.\n\n- 2Q26F net profit expected at record-high Bt2.2bn (+15% y-y).\n\n- Insurance brokerage offers long-term fee income upside, backed by 3.7m members and rich customer data."
+      },
+      {
+        "label": "MST 20 Jul 26 ③",
+        "content": "**Date:** 20 Jul 26\n\nKTC - Best of both worlds; highly resilient with bulletproof balance sheet\n \nWe see multi positive re-rating catalysts.\n\nFirst, KTC outpaced the industry average to grow its credit card market share from 11.9% in FY22 to 13.4% in 1H26 due to its targeted marketing campaigns to the right customer groups.\n\nSecond, NIM is projected to climb to 13.1–13.3% in FY26–27, driven by a 10–20bps YoY drop in cost of funds. KTC holds the highest credit rating (AA) in its sector, ensuring structural cost-of-fund advantages.\n\nThird, launching an insurance brokerage business likely generates fee income with zero NPL risk and capital requirements.\n\nWe like KTC for its highest profitability among peers of 8.0% ROA, significantly higher than 4.0% ROA for title loan operators and 1.0-2.0% for banks.\n\nWe see KTC offering high earnings predictability and quality, thanks to its solid credit card spending growth and high loan-loss reserve at 4.3x of NPLs.\n\nWe believe KTC could raise its payout ratio to 70%, given the slow loan growth and low D/E ratio.\n\nKTC reported 2Q26 earnings of THB2.2b (EPS: THB0.86), up 17% YoY, due to higher NIM and lower credit cost.\n\nWe raise FY26-28E net profit by 3-5% to reflect lower credit cost and forecast net profit to grow 10% YoY in FY26 and 5% pa in FY27-28.\n\nBUY with a higher TP of THB48 after raising our profit forecasts and roll forward valuations to FY27.\n\nJesada\nMaybank\n\n---\n\n**Market:** SET"
+      },
       {
         "label": "KSS 21 May 26",
         "content": "**Date:** 21 May 26\n\nKSS Research Update : KTC ( BUY , TP  39 b)\n\nSlightly Positive Meeting\n\n1. คุณภาพสินทรัพย์\n - การตามเก็บหนี้ในช่วงเมษายน-พฤษภาคมยังอยู่ในระดับดี\n - KTC มองว่าสามารถควบคุมคุณภาพพอร์ตของลูกหนี้\n- ค่าใช่จ่ายสำรอง (credit cost ) มองทั้งปี 2026F ที่ 5.0-5.5% เทียบ 1Q26 ที่ 5.1% \n\n2. ธุรกิจประกัน\n- อยู่ระหว่างการขอใบอนุญาต Digital Insurance \n- KTC มองการเติบโตจะเป็นไปอย่างค่อยเป็นค่อยไป\n\n3. ธุรกิจบัตรเครดิต\n- ยอดการใช้จ่ายยังอยู่ในระดับดี โดยลูกค้ามีการปรับเปลี่ยนการใช้จ่ายบ้าง ตามสถานการณ์เศรษฐกิจโดยรวม\n\n4. มาตการ ไทยช่วยไทย\n- KTC มองไม่ได้รับผลประโยชน์โดยตรงจากมาตการ แต่มองว่าหากภาพรวมเศรษฐกิจดีขึ้น การชำระหนี้ของลูกหนี้จะดีขึ้น\n\n5. เงินปันผล\n- KTC มองว่าการปรับเงินปันผลหรือไม่ ทางบริษัทพิจารณาจากต้องสามารถจ่ายได้ในระยะยาว ปัจจุบัน dividend payout ratio ที่ 55% \n- การจ่ายเงินปันผลระหว่างกาล ปัจจุบันยังไม่ได้มีนโยบายการจ่าย 2รอบ แต่ในอนาคตจะมีหรือไม่ยังไม่สามารถตอบได้\n\n# Chayaporn \n# KSS"
@@ -1013,6 +1169,10 @@ const stockData = [
     "market": "SET",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "KKPS 24 Jul 26",
+        "content": "**Date:** 24 Jul 26\n\n🏨MINT KTA from 2Q26 business update\n\n*Hotel: Owned hotel RevPAR grew 5% YoY in 2Q26, driven by Europe (+4% YoY) and Thailand (+3% YoY). However, Maldives RevPAR declined 6% YoY, while managed hotel RevPAR fell 12% YoY due to weak hotel operations in the Middle East. Overall, hotel operating performance was slightly better than expected.\n\n*Food: SSSG was -0.3% YoY. Thailand and China posted positive SSSG of 2% and 8% YoY, respectively, but this was offset by weaker performance in Australia (-4% YoY) and Singapore (-1% YoY).\n\n*Overall: Hotel EBITDA margin is likely to be flat YoY, pressured by 3–6% YoY increases in labor costs, particularly in Europe, as well as lower residential sales. Food EBITDA margin should also remain flat YoY, weighed down by higher raw material and packaging costs.\n\n*Interest expense should increase both YoY and QoQ after MINT redeemed its perpetual bonds and refinanced them with a syndicated loan carrying an interest rate of 2–3%.\n\n*We expect 2Q26 core profit to remain broadly flat YoY at Bt3.4bn.\n\n*Outlook (3Q26): Forward bookings remain positive across all major hotel portfolios, with Europe up low-single digits YoY, Thailand up mid-single digits YoY, and Maldives up double digits YoY."
+      },
       {
         "label": "KKPS 07 Jul 26",
         "content": "**Date:** 07 Jul 26\n\n*2Q26 operating update: European RevPAR continued to grow at a low-single-digit, broadly in line with management's expectations. Thailand hotel RevPAR was roughly flat to slightly positive in 2Q26. RevPAR increased by around 1% in April and May, while June was expected to be flat to slightly positive. Maldives RevPAR declined by around mid- to high-single digits in April and May but is expected to improve in June, resulting in a mid-single-digit decline for 2Q26.\n\n*Management guided that forward bookings remain positive across key markets in 2H26 but did not provide detailed guidance, as booking windows have become shorter.\n\n*For the food business, Thailand SSSG remained positive at low-single digits in April and May, led by Swensen's, Dairy Queen, and Bonchon. China SSSG also grew at high-single digits following the repositioning of Riverside. However, SSSG in Singapore and Australia declined YoY due to intense competition and weaker economic conditions.\n\n*Management guided that hotel EBITDA margin will remain under pressure from 3–5% labor cost inflation in Europe and higher lease expenses. Food EBITDA margin should see only limited impact in 2Q26 as raw material costs have been locked in. However, cost pressure is expected to become more visible in 2H26.\n\n*Management said the REIT plan has been postponed due to market conditions. MINT also has alternative plans to reduce debt, including asset rotation and other capital recycling initiatives.\n\n*MINT has already called its perpetual bond and replaced it with a bridging loan carrying an interest rate of only 2–3%. The company still has two outstanding perpetual bond tranches of Bt13bn due in 2027 and Bt9–10bn due in 2028. Management is considering issuing new perpetual bonds at lower interest rates to refinance the existing ones."
@@ -1201,6 +1361,22 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "KKPS 10 Jul 26",
+        "content": "**Date:** 10 Jul 26\n\nPLANB\n\nOOH is proving more complementary than vulnerable to digital advertising, while renewed brand-building budgets and strong private equity interest reinforce the sector’s infrastructure-like cash flows.\n\nRecent OOH transactions have ranged from ~6-7x EV/EBITDA for weaker assets to ~9-12x+ for high-quality platforms.\n\nPLANB, meanwhile, trades at only ~5x EV/EBITDA despite offering superior growth, a near-monopoly position in Thailand and expanding exposure to Singapore. Even at 10x EV/EBITDA, the stock would still look reasonable.\n\nOur view is simple; below Bt10/share, PLANB looks materially mispriced."
+      },
+      {
+        "label": "KKPS 17 Jul 26",
+        "content": "**Date:** 17 Jul 26\n\nPLANB - AI Advertising\n\nAnother interesting observation is the rise of AI-related advertising. AI companies and applications are stepping up their marketing globally, with examples ranging from IREN in Australia to OpenAI across the US and other developed markets. \n\nWe are now also seeing platforms such as Canva advertise in Thailand.\n\nThis could create a new customer segment for OOH media, with PLANB likely to be one of the key beneficiaries as AI platforms increasingly compete for consumer awareness and market share. \n\nAccording to eMarketer, US advertising spending related with AI App is forecast to reach ~US$32bn in 2026, nearly three times the previous year.\n\nWe remain bullish on PLANB.."
+      },
+      {
+        "label": "KKPS 20 Jul 26",
+        "content": "**Date:** 20 Jul 26\n\nPLANB\n\nBofA reiterates Buy on JCDecaux and raises its PO to €26, based on 8x 2026E EV/EBITDA, still well below the 11x pre-COVID average. \n\nIt expects stronger 2H26 momentum, supported by a better macro backdrop, accelerating OOH growth alongside online media, recovering passenger traffic, and a more rational competitive environment.\n\nHigher digital and programmatic advertising should also drive operating leverage and FCF.\n\nWe see a positive read-through to PLANB. Improving macro sentiment should support advertising spending, while AI applications are emerging as a new advertising customer segment.\n\nWith utilization, operating leverage and synergies continuing to improve, we expect earnings momentum to accelerate in 2H26. \n\nOutfront and Lamar trade at around 15x EV/EBITDA vs PLANB ~5x. Both GS and BofA are bullish on OOH now..\n\nSame view; below Bt10/share is simply too cheap."
+      },
+      {
+        "label": "TTBW 14 Jul 26",
+        "content": "**Date:** 14 Jul 26\n\nPLANB, BUY, TP Bt6.5\n\nFactoring in COM7\n\n- Factoring in the COM7 deal, we cut PLANB’s 2026F earnings by 8% on higher interest costs but raise 2027-28F forecasts by 7-9% on COM7 dividend income. \n\n- Rolling our valuation to 2027F, reducing discount rate by 0.6ppt to 9.1% due to higher debt-to-total-asset ratio and adding Bt1.7/share SOTP value from COM7, our TP is lifted to Bt6.5 (from Bt4.8). We upgrade to BUY (from Hold).\n\n- After a 10% y-y EPS decline in 2026F due to flat media earnings and higher interest costs from new debt, we forecast 26% y-y growth in 2027F as media earnings recover and COM7 dividend income more than offsets higher interest expenses.\n\n- There is potential earnings upside if PLANB can secure two COM7 board seats, allowing PLANB to recognize share of profits from COM7 instead of dividend income. While this would not affect our TP, PLANB’s earnings could grow 12% y-y this year and 22% y-y next year.\n\n- Despite the Bt7.2bn investment, net D/E should remain low at 0.3-0.4x. We expect an 80-90% payout ratio, implying a 4% dividend yield."
+      },
+      {
         "label": "KKPS 02 Jul 26",
         "content": "**Date:** 02 Jul 26\n\nPLANB\n\nPLANB disclosed that the total investment is Bt5.7-5.8bn, funded by ~Bt1.4-1.5bn of internal cash and the remainder through debt at a funding cost of around 3.87%, well below COM7's dividend yield of ~4.5-5%.\n\nManagement acknowledged that as PLANB's revenue approaches Bt10bn, with the majority still derived from its core OOH business, maintaining double-digit organic growth after more than a decade of expansion will become increasingly difficult. As a result, the company is adopting a more proactive capital allocation strategy, utilizing its underleveraged balance sheet, which currently holds more than Bt2bn in cash and generates over Bt3bn of annual free cash flow.\n\nManagement also indicated it could further increase its stake should the valuation remain attractive. Based on current cash flow generation, the investment could be repaid within 4 years, making the transaction both cash flow- and earnings-accretive from day one.\n\nManagement emphasized that the investment will not affect its dividend policy, and the company intends to maintain its existing payout ratio.\n\nPLANB has proposed appointing two board representatives to COM7, which would increase COM7’s board size from seven to nine seats and enable PLANB to account for the investment under the equity method.\n\nThe synergy is the development of an in-store retail media network across COM7's 1,400+ stores, strengthening PLANB's exposure to retail media, one of the fastest-growing advertising formats globally alongside department stores and convenience stores (e.g. CPN and 7-Eleven). Another near-term opportunity is expanding its EV transit media platform by increasing wrapped EV taxis from around 3,000 currently to 5,000 by year-end."
       },
@@ -1269,6 +1445,10 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "MST 24 Jul 26",
+        "content": "**Date:** 24 Jul 26\n\n🐯PTTGC (SELL, TP THB24)\n2Q26E : Near-Term Driven by Petchem Spreads, Facing Downside Risks Next Quarter\n\n-We forecast Core Profit for 2Q26 at THB 13.3b, turning around from a net loss of THB 5.4b in 2Q25 and expanding sharply from THB 5.7b in 1Q26. This earnings surge is primarily driven by widening petrochemical spreads, which offset softer sales volumes in the refinery segment. Key breakdown by business unit includes:\n\n      Petrochemicals: Strong QoQ and YoY recovery. Spread performance was anchored by HDPE–Naphtha at USD 526/ton (+46% YoY, +62% QoQ) and PP–Naphtha at USD 506/ton (+33% YoY, +53% QoQ), benefiting from tight regional supply throughout the quarter amid the ongoing war environment.\n\n      Refinery: Remained elevated with Market GRM at USD 16.3/bbl (+207% YoY, -3% QoQ) as regional supply remained tight due to geopolitical conflict. This was achieved despite a lower refinery utilization rate of 95% (vs. 103% in 1Q26) following the government's temporary ban on refined oil exports during 2Q26.\n\n      Performance Chemicals: Improved QoQ, supported by ongoing structural cost optimization efforts, while sales volume held steady QoQ at 0.2 MT.\n\n-Meanwhile, reported earnings are impacted by several major non-recurring items, including 1) a THB 1.8b provision for GCP, 2) a THB 1.0b stock and NRV loss, and 3) a THB 0.7b hedging loss—we project 2Q26 net profit at THB 10.7b, turning around from a net loss of THB 3.6b in 2Q25, buoyed by recovering petrochemical spreads and refining margins.\n\n-We expect 3Q26 earnings to soften QoQ, squeezed by a 40% QoQ drop in MTD HDPE spreads to USD 317/ton as regional crackers restart. As geopolitical risks abate, oversupply concerns are resurfacing, eroding earlier windfall gains. We prefer refiners like BCP, driven by strong post-conflict refining margins and full-quarter contributions from its SAF and Hong Kong retail oil operations.\n\n-PTTGC is scheduled to announce its 2Q26 financial results on Aug 7, 2026\n\nAomsub Maybank\n\n---\n\n**Market:** SET"
+      },
+      {
         "label": "KS 30 Apr 26",
         "content": "**Date:** 30 Apr 26\n\nKS: Petrochemical - ประเด็นจากการประชุมการรวมธุรกิจ olefins ของ PTTGC และ SCC\n\n- ที่มาของดีล—> ทั้ง 2 บริษัทอยู่ติดกันในมาตาพุด มีวัตถุดิบที่แตกต่างกัน มี portfolio ของ downstream product ที่ต่างกัน ผู้บริหารทั้ง 2 ฝ่ายเชื่อว่ามี synergy และสามารถทำ optimization เพื่อลดต้นทุน เพิ่มความสามารถในการแข่งขัน รวมถึงขยายโอกาสการเติบโตในอนาคตได้\n\n- มีเป้าที่จะศึกษาความเป็นได้แล้วเสร็จสินไตรมาส 3/69 (กำหนด valuation และรูปแบบของการรวม) หลังจากนั้นจะเป็นกระบวนการอนุมัติภายในของแต่ละฝ่าย รวมถึงของอนุมัติผู้ถือหุ้น และหน่วยงานราชการที่เกี่ยวข้อง โดยเฉพาะเรื่องการผูกขาดทางการค้า\n\n- จุดแข็งของ PTTGC คือ feedstock advantage ในขณะที่จุดแข็งของ SCGC คือ downstream and HVA portfolio โดยดีลจะครอบคลุมเฉพาะธุรกิจในประเทศไทย และไม่เปลี่ยนกลยุทธ์ในต่างประเทศ หรือกลยุทธ์ภาพรวมของทั้ง 2 บริษัท\n\n- ผู้บริหารทั้ง 2 บริษัทเชื่อว่า oversupply ยังมีอยู่ แม้สถานการณ์สงครามทำให้ตลาดตึงตัวขึ้นบ้างจากกำลังการผลิตที่ต้องหยุดชะงักจากความเสียหายจากสงคราม ดังนั้น JV ใหม่ต้องมีความแข็งแกร่งด้านการเงินตั้งแต่แรกเริ่ม เพื่อสามารถแข่งขันและเติบโตต่อได้ในสภาวะดังกล่าว\n\n- หลังการรวม JV ใหม่จะอยู่ใน top 10 petrochemical company ของโลก"
       },
@@ -1286,6 +1466,17 @@ const stockData = [
       {
         "label": "KS 23 Apr 26",
         "content": "**Date:** 23 Apr 26\n\nKS: Refinery - ข้อมูลความเพียงพอวัตถุดิบ (เช็คเช้านี้)\n\n- TOP มีน้ำมันดิบเพียงพอสำหรับ utilization 100% ถึงสิ้น มิย. (ปกติ run 110%)\n\n- BCP มีน้ำมันดิบเพียงพอสำหรับ utilization 90% ถึงสิ้น มิย. (ระดับปกติ)\n\n- IRPC มีน้ำมันดิบเพียงพอสำหรับ utilization 70% ถึงสิ้น มิย. (กำลังหาเพิ่ม)\n\n- PTTGC มีน้ำมันดิบเพียงพอสำหรับ utilization 100% ถึงสิ้น มิย. ส่วน ethane และ propane จากโรงแยกก๊าซยังปกติ\n\n- SPRC มีน้ำมันดิบเพียงพอสำหรับ utilization 90% ถึงสิ้น มิย. (ระดับปกติ)"
+      }
+    ]
+  },
+  {
+    "ticker": "Power",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "KS 15 Jul 26",
+        "content": "**Date:** 15 Jul 26\n\nKS: Utilities กพช. ตอบรับ 7 มาตรการลดค่าไฟ\n\n- ลดค่าไฟบ้านเหลือ 3 บาท/หน่วย สำหรับการใช้ไฟ 1-200 หน่วยแรก\n\n- แยกค่าไฟสาธารณะออกจากบิลค่าไฟบ้าน และจะนำเงินจากแหล่งอื่นมาชดเชย เช่น Data Center, ผู้ใช้ไฟแบบ Direct PPA, เงินจากการลด Adder และโครงการโซลาร์ชุมชน เพื่อลดภาระประชาชน\n\n- กำหนดอัตราค่าไฟเฉพาะสำหรับ Data Center และให้ Data Center รายใหญ่วางหลักประกัน (Bond) ก่อนรัฐลงทุนขยายระบบไฟฟ้า\n\n- เปิดตลาดไฟฟ้าสะอาด (Direct PPA) ให้ภาคอุตสาหกรรมและ Data Center ซื้อไฟฟ้าจากผู้ผลิตพลังงานหมุนเวียนได้โดยตรง เพิ่มการแข่งขันและรองรับความต้องการใช้ไฟสะอาด  \n\n- เดินหน้าแก้ปัญหาสัญญารับซื้อไฟฟ้าราคาแพง (Adder) โดยกำหนดวันสิ้นสุดสัญญาที่ต่ออายุอัตโนมัติ และปรับราคารับซื้อไฟฟ้าโซลาร์ลงเหลือประมาณ 2.16 บาท/หน่วย ก่อนเจรจาแก้ไขสัญญา\n\n- เดินหน้าโครงการโซลาร์ฟาร์มชุมชน 1,500 MW รับซื้อไฟในอัตรา 2.1679 บาท/หน่วย สัญญา 25 ปี \n\n- โดยรวมเรามองว่าข่าวนี้อาจจะเป็น sentiment ลบกับกลุ่มโรงไฟฟ้า แต่คิดว่าผลกระทบจํากัด หลักๆจะเป็นเรื่องโครงการที่มี adder สำหรับพลังงานทดแทนรุ่นเก่า ปกติเราไม่ได้ assume ให้มีการต่ออายุอยู่แล้วหลังปีที่ 25 จึงไม่ได้มีผลกระทบอะไรกับเรทค่าไฟฟ้าหลังจากนั้นหากภาครัฐปรับลงมาเป็น 2.16 บาท\n\n- ส่วนค่าไฟทางสาธารณะถูกรวมอยู่ในค่าไฟฐานไม่ได้อยู่ใน Ft หากดึงออก คาดว่าไม่ได้มีผลกระทบต่อโรงไฟฟ้า SPP ที่ รายได้เหวี่ยงตามค่า Ft\n\n- อีกเรื่องคือการจะให้ศูนย์ข้อมูลใช้ไฟฟ้าในเรตราคาแพงขึ้น อันนี้มองว่าอาจจะกระทบกับกลุ่มในทางอ้อม เนื่องจาก Demand ในการเข้ามาสร้าง data center ในไทยอาจได้รับผลกระทบ อย่างไรก็ตามเรายังมองการเปิด direct PPA เป็นบวกต่อกลุ่ม\n\n- คงมุมมองบวกต่อกลุ่มโรงไฟฟ้าในระยะยาว top pick GULF"
       }
     ]
   },
@@ -1308,6 +1499,17 @@ const stockData = [
       {
         "label": "FSS 18 May 26",
         "content": "**Date:** 18 May 26\n\n(+) RBF กำไร 1Q26 ดีกว่าคาด 6% จากอัตรากำไรขั้นต้นที่มากกว่าคาด และภาษีน้อยกว่าคาด\n\n📌กำไรสุทธิ 1Q26 เท่ากับ 142 ลบ. (+11.2% q-q, +34.3% y-y) เป็นกำไรสูงสุดในรอบ 8 ไตรมาส มาจากอัตรากำไรขั้นต้นที่ฟื้นตัวแรง และภาษีจ่ายลดลง\n\n📌รายได้รวมไม่ตื่นเต้น -1.8% q-q, +3.4% y-y โดยรายได้ในประเทศ -2.5% q-q และ +1.2% y-y ขณะที่รายได้ต่างประเทศ +0.8% q-q, +11.0% y-y เพราะเริ่มรับรู้รายได้อินเดีย จากการเริ่ม Conso งบการเงินอินเดียตั้งแต่ 4Q25\n\n📌สิ่งที่ดีคือ รายได้กลุ่ม Flavor & fragrance โตดี +14.4% q-q, +10.3% y-y ขณะที่กลุ่ม Food coating ลดลง -6.2% q-q, -1.3% y-y\n\n📌ส่งผลให้อัตรากำไรขั้นต้นปรับขึ้นแรงเป็น 38.4% (เราคาดไว้ 36.5%) จาก 35.5% ใน 4Q25 และ 35.3% ใน 1Q25 จากการเปลี่ยนแปลงของ product mix เป็นหลัก กอปรกับภาพรวมต้นทุนวัตถุดิบยังอยู่ในระดับต่ำ\n\n📌อัตราภาษีอยู่ที่ 10.0% (เราคาดไว้ 14.0%) ใกล้เคียง 4Q25 และลดลงจาก 21.3% ใน 1Q25 เนื่องจากรับรู้ประโยชน์ทางภาษีจาก BOI จากการใช้โรงงาน Flavor & fragrance แห่งใหม่ที่อยุธยาตั้งแต่ 4Q25\n\n📌กำไร 1Q26 คิดเป็น 26.3% ของประมาณการทั้งปี แนวโน้มกำไรน่าจะได้รับปัจจัยหนุนจากผลประโยชน์ทางภาษีที่ได้รับจาก BOI ต่อเนื่อง รวมถึงการใช้ Tax loss carry forward จากโรงงานอินโดนีเซียและเวียดนาม นอกจากนี้ RBF ยังถูกกระทบทางตรงจากสงครามค่อนข้างจำกัด\n\n📌แต่เรายังคงมุมมองระมัดระวังต่อผลกระทบทางอ้อมกรณีลูกค้าทั้งในไทยและต่างประเทศถูกกระทบจากสงคราม รวมถึงโรงงานในต่างประเทศ อาจเผชิญปัญหาขาดแคลนเชื้อเพลิง อาทิ อินเดีย เป็นต้น\n\n#Finansia #FSSIA"
+      }
+    ]
+  },
+  {
+    "ticker": "Refinery",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "MST 24 Jul 26",
+        "content": "**Date:** 24 Jul 26\n\nGov't mandating THB 2.4/liter diesel ex-refinery price cut for 29 Jul - 15 Aug:\n- diesel crack has surged to over USD70/bbl this week from USD 45-50 in the previous weeks.  This mandated cut amounts to USD11/bbl so net net, refineries still get higher margins.\n- gov't has been mandating such price cut for refineries on and off since April to help pump price subsidy.  Even so, refineries still enjoy strong earnings (GRM over USD10/bbl).\n- Refining remains our most preferred within energy space. BCP is our top pick but SPRC, TOP are also BUY.  \n\nChak Maybank"
       }
     ]
   },
@@ -1369,6 +1571,10 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "CLSA 23 Jul 26",
+        "content": "**Date:** 23 Jul 26\n\nSCC: Key takeaways (O-PF, TP Bt280)\n\nCautious tone and 2H26 is challenging period given elevated naphtha prices.\n\nExpect 5.5mt or +2% of new ethylene supply in 2H26.\n\nEstimated 30mt or 12% of global ethylene capacity remained shut, down from 46mt or 20% in 1Q26.\n\nSupply tightness for PE/PP continues but less than 2Q.\n\nExpect ROC restart at end 3Q26, but subject to feedstock availability and spreads. MOC turnaround end 4Q26.\n\nJV study between SCC and PTTGC to be finalized within 3Q26.\n\nNaphat"
+      },
+      {
         "label": "CLSA 10 Jun 26",
         "content": "**Date:** 10 Jun 26\n\nSCC: Divests 14.86% stake in Chandra Asri Petrochemical (CAP) (O-PF, Bt250)\n\nSCC reported to the SET on Friday evening it divested 14.86% stake in CAP through main board and big lots during early June with total proceeds of Bt24.6bn. Post transaction, SCC, through its fully owned SCG Chemical, owns the remaining 15.7%, which will be classified as other investment. The divestment is aligned with SCC’s strategic focus on deleveraging and reallocating capital to core growth businesses.\n\nThere will not be any impacy to P&L as SCC had already booked negative goodwill (Bt16.7bn) from fair value adjustment in 2Q25. \n\nWe are optimistic on the transaction given the cash will allow SCC to deleverage and use the proceeds to ethane project at LSP. \n\nNaphat\n\n---\n\n**Market:** SET"
       },
@@ -1420,6 +1626,17 @@ const stockData = [
     ]
   },
   {
+    "ticker": "SG Bank",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "KKPS 15 Jul 26",
+        "content": "**Date:** 15 Jul 26\n\nSG Banks - Banking on Wealth; Read through TH Banks\n\nSingapore banks are increasingly being valued as wealth-led financial platforms rather than traditional lenders. Wealth now contributes c.20-25% of income, with AUM growing 9-13% CAGR over the past decade. \n\nAs wealth rises toward 25-35% of earnings, we believe higher sustainable ROEs justify higher P/B multiples. \n\nDBS remains our top pick, with POs of S$75 for DBS, S$50 for UOB and S$30 for OCBC. Our targets imply forward P/B multiples of 3.0x, 1.6x and 2.1x, respectively. \n\nWe see three reasons for further upside: the market still undervalues wealth franchises, earnings are proving less rate-dependent, and wealth still has significant room to grow from the banks’ combined cS$2tn AUM base.\n\nThis provides a useful read-through for Thai banks. While still at an earlier stage, Thai banks are also shifting toward capital-light fee income from wealth management, which should support ROE expansion and gradual valuation re-rating. \n\nThai banks trade at only c.0.9x P/BV vs >2.0x for Singapore peers, while offering higher dividend yields of c6% vs below 5%. Illustratively, a 5% dividend yield at our target prices implies c11-38% upside."
+      }
+    ]
+  },
+  {
     "ticker": "SIRI",
     "market": "SET",
     "noTag": false,
@@ -1442,6 +1659,17 @@ const stockData = [
       {
         "label": "BofA 22 May 26",
         "content": "**Date:** 22 May 26\n\nBofA SK Hynix - Lift PO W3,000,000\n\nWe are turning more bullish on SK Hynix for three reasons.\n\nFirst, NVIDIA’s upbeat results and guidance point to stronger memory demand. \n\nSecond, memory chip prices continue to rise, supporting margin expansion. \n\nThird, we see a sustainable long term DRAM super cycle, driven by tight wafer capacity, shutdowns of older fabs, longer manufacturing cycle times, larger die sizes, and lower yields, while AI chip demand continues to rise sharply. \n\nBig Tech capex also remains on an upward trajectory toward 2030.\n\nAgainst this backdrop, we raise our 2026 and 2027 EPS estimates by 12% and 17%, PO is based on 9x 2027 to 2028E P/E."
+      }
+    ]
+  },
+  {
+    "ticker": "SPA",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "KKPS 21 Jul 26",
+        "content": "**Date:** 21 Jul 26\n\n💆🏻‍♀️SPA (Buy, PO Bt4.0)\n\nWe upgrade SPA from Underperform to Buy for three key reasons.\n\n1. Better-than-expected SSSG. We expect 2Q26 SSSG to grow 5% YoY despite the Middle East conflict, resulting in 1H26 SSSG of 7–8%. The growth momentum should continue in 3Q26, supported by Chinese tourists (35% of revenue) during the school holiday season and the recovery of Middle Eastern tourists (6% of revenue). We therefore raise our 2026 SSSG assumption from 5% to 7%.\n\n2. Slower branch expansion should support margins. SPA expanded its branch network rapidly from 80 branches in 1Q25 to 95 in 2Q26, but management plans to add only one more branch in 2H26. The slower expansion should reduce margin pressure from pre-opening costs. In addition, marketing expenses used to attract non-Chinese customers should gradually decline as Chinese tourist arrivals normalize.\n\n3. Market concerns over ZeaForest appear overdone. We believe the share price has already priced in concerns over the ZeaForest wellness hotel project in Pattaya. In our view, ZeaForest will enable SPA to expand beyond its core spa business and tap into the much larger wellness market. We also see limited competition in Pattaya's premium wellness segment, supporting the project's long-term potential.\n\nSPA is currently trading at 19x 2026E P/E, compared with 26x for tourism peers and its historical average of 28x. The stock has also underperformed the SET Index by 23% since the Middle East conflict, providing an attractive entry point.\n\nMore details are available in our report."
       }
     ]
   },
@@ -1710,10 +1938,25 @@ const stockData = [
     ]
   },
   {
+    "ticker": "TISCO",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "TTBW 14 Jul 26",
+        "content": "**Date:** 14 Jul 26\n\n🏦 TISCO | 2Q26 Results Flash\n\n- 2Q26 net profit of Bt1.76bn (+7% y-y, +2% q-q), in line with consensus and our forecast. We view the quarter as slightly positive.\n\n- Key positives:\n✅ Loan growth resumed — +0.3% q-q, led by hire-purchase (auto market share up to 6.7% from 5.2%) and SME inventory financing\n✅ NIM +12bps q-q to 4.98% on lower funding costs\n✅ Non-NII +6% y-y — strong brokerage, MF fees, and bancassurance\n✅ Asset quality intact — NPL ratio steady at 2.1%, credit cost eased to 94bps (from 132bps in 1Q26), coverage ratio solid at 190%\n\n- One soft note: Non-NII fell 9% q-q — no repeat of 1Q26 prepayment fee + weaker investment fee income as investors turned risk-averse post-Iran conflict in April.\n\n- Our view: Earnings resilience is intact and the ~6% dividend yield is attractive. That said, valuations remain relatively full at 14x PE / 2.2x P/BV (2026F). We reiterate HOLD."
+      }
+    ]
+  },
+  {
     "ticker": "TOP",
     "market": "SET",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "MST 24 Jul 26",
+        "content": "**Date:** 24 Jul 26\n\n🐯TOP (BUY, TP THB58)\n2Q26E : Core Profit Surges Driven by Strong Refining Margins\n\n-We project 2Q26 core profit at THB 15.8b (+396% YoY, +61% QoQ), following a strong recovery in refining margins amid Middle East supply tightness caused by the war. \n\n     Refinery: Showed a sharp recovery, with TOP GRM reaching USD 21.4/bbl (+311% YoY, +70% QoQ), supported by widening Diesel spread (+299% YoY, +78% QoQ) and Jet spread (+342% YoY, +73% QoQ) due to tighter supply from the Middle East conflict. Meanwhile, the run rate declined to 107% from its normal 114% level following a 1-month maintenance shutdown at CDU 1 (16% of total refining capacity).\n      \n     Lube Base: Margin stood at USD 2.0/bbl (+100% YoY, +82% QoQ), similarly benefiting from war-induced supply tightness.\n\n     Aromatics: Margin came in at USD 0.8/bbl (flat YoY, -27% QoQ), with unit margin declining due to slowing domestic demand.\n\n-Major non-core items in this quarter include 1) stock and NRV loss of THB 7.0b, 2) hedging loss of THB 1.5b, 3) FX loss of THB 0.6b, and 4) CFP equipment impairment of THB 1.0b. Consequently, we project net profit at THB 7.7b (+57% YoY, -60% QoQ), declining QoQ due to a reversal into stock losses this quarter.\n\n-3Q26 Outlook: We expect decline QoQ if war conditions ease, pressuring refining margins lower sequentially, though remaining well above the historical average of USD 5.5/bbl supported by tight refinery supply and limited net capacity additions compared to the past. We favor BCP as our Top Pick in the refining sector due to stock-specific catalysts, including full-quarter earnings contribution from its SAF business and Hong Kong retail operations in 3Q26.\n\n-TOP is scheduled to announce its 2Q26 financial results on Aug 13, 2026\n\nAomsub Maybank\n\n---\n\n**Market:** SET"
+      },
       {
         "label": "CLSA 11 May 26",
         "content": "**Date:** 11 May 26\n\nTOP reported a 1Q26 net profit of Bt19.5bn (Bt8.72 EPS), +6x QoQ and +4.6x YoY, driven by stock gain. Key highlights were high run rate and strong GRM. TOP guided strong operating performance in 2026 before turning to loss in 2H26. Maintain O-PF, TP Bt58.00.\n\nThe net profit beat consensus estimates by 35%. Key drivers were healthy run rate (113%, -1ppt QoQ), strong GRM at US$12.6/bbl vs US$9.3 in 4Q25, and Bt22.5bn stock gain vs Bt3.5bn loss in 4Q25. Aromatics improved QoQ with higher product to feed margin of US$58/ton versus US$51 in 4Q25. Aromatics added US$1.1/bbl to GIM. But run rate softened to 73% from 76% in 4Q25. The lube base dropped QoQ due to lower spreads from rising oil price pressure, adding another US$1.1/bbl to GIM versus US$1.5 in 4025. Apart from stock gain, other extra items were Bt5. 8bn NRV loss,Bt2.0bn FX gain, and Bt8.6bn hedging loss.\n\nTOP provided a simulation of GRM in 2Q-4Q26 in MD&A. This simulation factored in ex-refinery price cut in 2026 and Dubai oil price assumption of US$102/86.9/77 5/bbl in 2Q-4Q26. Given the on going conflict in the Middle East remains high, TOP expects Dubai oil price to stay high through 2Q26 before falling in 3Q and 4Q26. As a result, they expect accounting GRM (incl stock gain/loss) at US$12.5/-US$11 4/US$0 in 2Q-4Q26, or average US$9.9 in 2026.\n\nNaphat"
@@ -1736,6 +1979,14 @@ const stockData = [
     "market": "SET",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "MST 20 Jul 26",
+        "content": "**Date:** 20 Jul 26\n\nTTB – 2Q26 EPS jumped 20% YoY on solid non-nii growth and aggressive share buyback\n \nTTB reported THB5.5b net profit for 2Q26, up 10% YoY and 7% QoQ, beat our and street’s forecast by 5-7% due to a higher-than-expected fee income growth.\n \n1H26 EPS jumped 20% YoY to THB0.12, thanks to an aggressive share buyback. As of 2Q26, cumulative repurchased shares are 10.0b shares or 10.3% of paid-up shares. \n\nWe assume TTB to pay 1H26 DPS at THB0.073, implying 2.7% dividend yield.\n \nKey highlights\n\nLoans was flat QoQ while NIM rose 4bps QoQ to 3.05% due to the lower cost of funds.\n\nOn positive note, non-interest income jumped 40% YoY due to fees from mutual fund, credit card and bancassurance. Moreover, securities fees became new fee income since 3Q25.\n\nOpex rose 11% YoY while cost-to-income ratio rose 2.0ppts YoY to 46.4% due to higher employees and software expenses.  \n\nTTB booked THB4.0b provisions (137bps credit cost) as the bank has utilized THB1.3b tax benefit to set THB1.1b extra provisions. TTB has the remaining tax benefit of THB3.4b as of 2Q26.\n\nExcluding extra provisions, its normal provisions were THB2.9b (99bps credit cost).\n\nNPL ratio was flat QoQ at 3.29% while NPL coverage rose slightly QoQ to 157%. NPL formation fell 23bps QoQ to 0.94%.\n\nTTB sold and wrote off THB3.3b NPLs in 2Q26, down 34% YoY and 20% QoQ. NPLS sales and write off were THB7.4b in 1H26 vs THB10.2b in 1H25.\n \nWe expect share price to react positive on its decent fee income growth and good asset quality. \n\nWe will update with more details after attend the meeting with CEO today (20 July).\n\nJesada\nMaybank"
+      },
+      {
+        "label": "MST 21 Jul 26",
+        "content": "**Date:** 21 Jul 26\n\nTTB – Expect higher dividend payout ratio\n\nThe CEO favors higher cash returns to shareholders through a special dividend or an increased payout ratio over share buybacks, as the stock is trading above book value.\n\nTTB continues to prioritize higher-return lending segments, including home and auto financing, unsecured loans, and used-car hire purchase, to support ROE expansion.\n\nManagement expects OPEX to remain broadly flat HoH in 2H26, as 2Q26 expenses were elevated by one-off items.\n\nWealth management remains a key fee income growth driver, with a digital wealth platform scheduled for launch in 2H26.\n\nStage 2 loans declined QoQ, supported by stronger customer repayments under the \"You Fight We Help\" program, indicating improving asset quality.\n\nWe expect credit costs to decline materially in FY27–28, providing further support for earnings growth and ROE improvement.\n\nOverall, share price react very positive as expected due to solid fee income growth and potential higher dividend payment either special dividend or higher payout ratio.\n\nJesada\nMaybank\n\n---\n\n**Market:** SET"
+      },
       {
         "label": "MBKET 5 May 26",
         "content": "**Date:** 5 May 26\n\nTTB announced the fourth share buyback with THB9.25b budget via general offer (GO) with the preliminary price between THB2.20-2.28/sh during 25 May to 9 June 2026. \n\nTTB will notify the final repurchase price within 5 May 2026.\n \nComment\n\nWe are positive on this news as we see the moving from ‘Open Market’ buybacks to a GO is a significant tactical shift aimed at accelerating capital management to improve ROE and EPS.\n\nThe bank has bought back 0.2% of paid-up with an average price of THB2.24/sh in the third share buyback program via automatic order matching.\n\nWe expect ING would use this offer to trim its stake. ING currently holds 21.7% stake in TTB as of 4 Mar 2026. \n\nWe see the GO buyback is a cleaner mechanism for a large institutional holder to divest without causing massive downward price pressure.\n\nNote that in the previous buyback (1Q26), the final price (THB 2.03) came in slightly above the preliminary range (THB 1.90 - 2.00). \n\nIf this trend holds, the final price on May 5th may stay at the top end of the current THB 2.28 range.\n\nMaintain BUY with TP THB2.40. The accelerated buyback confirms a surplus of capital and a commitment to returning value to shareholders. \n\nThe stock remains attractive with a projected ROE improvement and a solid dividend yield.\n\nJesada\nMaybank"
@@ -1792,6 +2043,17 @@ const stockData = [
     ]
   },
   {
+    "ticker": "Truck",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "KS 23 Jul 26",
+        "content": "**Date:** 23 Jul 26\n\n(check mark) TRUCK LOANS FLIP TO POSITIVE — THANI TOP PICK, TP Bt2.40\n\n==> Finance/Truck Loans upgraded to Positive from Negative. Buy THANI (Outperform, TP Bt2.4, up from 1.72). ASK to Neutral (TP Bt12.2 from 7.90). MICRO stays Neutral (TP Bt1.16).\n\nWhy now:\n\n- Truck registrations +5.5% YoY 1H26, new loan drawdowns +25% YoY 1Q26 = lenders back in growth mode after 2023-25 cleanup\n\n- Portfolio contraction cycle ending — inflows catching outflows, expect sector loan growth to return late 2026\n\n- Used-truck prices stable (index 66.8, +4.7% MoM), repossession supply tight = better cash flow visibility for lenders\n\n- US-Iran war impact < feared = earnings upgrades across board\n\n- 2026-28 core profit revised UP: ASK +47%/66%/45%, THANI +28%/20%/15%, MICRO +22%/3%/17%\n\n- 2Q26 preview: sector core profit Bt571mn, flat QoQ but +39% YoY. THANI leads at Bt352mn (+3% QoQ, +26% YoY)\n\nWhy THANI #1 pick:\n- Lowest NPL in group at 2%, NPL coverage 158% = safest balance sheet\n- P/BV 0.86x, PER 9.2x vs ROE 9.6% = cheap for the growth\n- Div yield 6.5%/6.9% for 26/27 = cushion while you wait\n- Best growth + lowest risk combo in the space right now\n\n==> Sector inflection point confirmed by hard numbers, not just sentiment. THANI = best risk/reward, ride the re-rating."
+      }
+    ]
+  },
+  {
     "ticker": "VRT",
     "market": "DR",
     "noTag": false,
@@ -1810,6 +2072,21 @@ const stockData = [
       {
         "label": "TNS 26 May 26",
         "content": "**Date:** 26 May 26\n\nWHA: More data center exposure… maintain BUY with higher TP of Bt5.8\n\n• Ongoing FDI upcycle continues to drive strong IE land demand; forecast 2026-27F presales at 2,600/2,300 rai vs. 1,340 rai in 2025.\n\n• WHA remains well exposed to data center customers. Following the 900-rai big-lot presale earlier this year, we expect another 700-rai deal next year.\n\n• Data centers should support long-term recurring utility income growth through higher water and electricity demand.\n\n• WHA still looks inexpensive at 16/11x 2026-27F PE. Earnings estimates revised by -11/+4/+27% for 2026-28F, reflecting higher energy costs this year but stronger land transfer income in 2028F."
+      }
+    ]
+  },
+  {
+    "ticker": "WICE",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "TTBW 10 Jul 26",
+        "content": "**Date:** 10 Jul 26\n\nWICE: Upgrade to BUY higher TP Bt4.0...A new growth cycle\n• Thailand's FDI and export upcycle – WICE is well positioned to benefit as new factories ramp up production and exports.\n• Volume growth is starting to drive earnings as freight rate normalization is behind us.\n• We forecast 21% EPS growth in 2026F and a 19% EPS CAGR in 2027-29F, the start of a new earnings growth cycle.\n• ROE is expected to improve to 13% by 2028F, while the stock trades at only 12x 2027F PE with attractive 6% dividend yields.\n• Given stronger shipment volume assumptions, we raised our 2026-28F earnings forecasts and TP to Bt4.0 (from Bt2.6). BUY.\n\nRata TTBW\n\n---\n\n# WICE Idea"
+      },
+      {
+        "label": "TTBW 20 Jul 26",
+        "content": "**Date:** 20 Jul 26\n\nWICE: freight market remains supportive for WICE earnings. BUY to Bt4.0\n\nShanghai-US freight rates remain elevated (LA ~USD 6k/40ft, NY ~USD 8k/40ft vs. <USD 4k previously). This is in line with our forecast, though we have assumed gradual normalization after the tariff-driven front-loading effect. Capacity discipline should keep rates supported near term. WICE’s US exposure (~1/3 of revenue) remains a key earnings driver. Reaffirm BUY TP Bt4.0.\n\nRata TTBW"
       }
     ]
   },
