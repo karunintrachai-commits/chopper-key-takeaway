@@ -1,9 +1,9 @@
 // AUTO-GENERATED — Chopper Key Takeaway Data
-// Last sync: 2026-07-25 14:45:13
+// Last sync: 2026-07-25 15:14:07
 // Source: G:\My Drive\Stock Notes
 // DO NOT edit manually — run sync_data.py to regenerate
 
-const SYNC_TIMESTAMP = "2026-07-25 14:45:13";
+const SYNC_TIMESTAMP = "2026-07-25 15:14:07";
 const MARKETS = ["SET", "DR", "US", "China", "Others"];
 const stockData = [
   {
