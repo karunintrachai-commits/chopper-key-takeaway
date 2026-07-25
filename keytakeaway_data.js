@@ -1,9 +1,9 @@
 // AUTO-GENERATED — Chopper Key Takeaway Data
-// Last sync: 2026-07-25 14:32:46
+// Last sync: 2026-07-25 14:43:41
 // Source: G:\My Drive\Stock Notes
 // DO NOT edit manually — run sync_data.py to regenerate
 
-const SYNC_TIMESTAMP = "2026-07-25 14:32:46";
+const SYNC_TIMESTAMP = "2026-07-25 14:43:41";
 const MARKETS = ["SET", "DR", "US", "China", "Others"];
 const stockData = [
   {
@@ -306,8 +306,8 @@ const stockData = [
   },
   {
     "ticker": "BEM",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "INVX 17 Jul 26",
@@ -394,6 +394,17 @@ const stockData = [
     "ticker": "Bank",
     "market": "Others",
     "noTag": true,
+    "takeaways": [
+      {
+        "label": "MS 14 Jul 26",
+        "content": "**Date:** 14 Jul 26\n\nวันนี้ MS upgrade หุ้นไทย 2 sectors (Bank & Refinery) \n\n📌1.Refiners - The \"Golden Age\"\n⏫️U/G TP TOP to 70 (from 58)/ SPRC 12.9 (from 9.1)/ BCP 51 (from 49.3) และ OW ทั้ง 3 ตัว\n\n📍ยังคงมองเป็น The Golden Age of Refining เชื่อว่า GRM จะสูงกว่าระดับ Mid-cycle อย่างต่อเนื่องจากอุตฯที่ยัง tight จาก demand ที่โตเร็วกว่า supply และการที่ underinvestment มาตลอด 10 ปี ทำให้พอเจอ supply disruption ขณะที่ spare capacity ถูกใช้ไปแล้วเพราะตลาด tight อยู่ก่อนหน้านี้\n\n📍ปี 25-28 คาด incremental demand 2.5 mbpd ในขณะที่ capacity growth <1.5mnbpd\n\n📍ทั้งนี้โรงกลั่นเผชิญ 3 แรงกดดันด้าน supply พร้อมกัน การหยุดเดินเครื่องของโรงกลั่นในรัสเซียรวมประมาณ 2–3mb/d, การปิดโรงกลั่นในญี่ปุ่นและประเทศ OECD รวมถึง Teapot Refineries มีข้อจำกัดในการนำเข้าน้ำมันดิบและได้รับโควต้าส่งออกลดลง\n\nNew capacity ทั่วโลกต่ำมาก เพราะ MS ประเมินว่าการสร้างโรงกลั่นใหม่ขนาด 400,000 bpd ต้องใช้เงินลงทุนประมาณ US$12bn และ avg payback period 16 ปี ทำให้ผู้ประกอบการจำนวนมากชะลอการลงทุน ขณะที่ทั่วโลกต้องลงทุนมากกว่า US$250bn เพื่อรองรับ demand ในอนาคต แต่ปัจจุบันมี investment committed ที่เพียง US$70bn\n\n📍แม้สถานการณ์ ME คลี่คลาย แต่มองว่า Crack Spread ของ Diesel Jet Gasoline ยังอยู่ในระดับสูง เพราะ Marginal Cash Cost curve เพิ่มขึ้น ส่งผลให้ Mid-cycle Margins อยู่ในระดับสูงกว่าเดิม\n\n📍ปรับ GRM ขึ้น 15-20% คาดอยู่สูงกว่า mid-cycle 20-25% (ตอนนี้มอง GRM ที่ 14.3 ในปี 26, 12 ในปี 27, 10.5 ในปี 28 และ U-rate 81-82.5%) และปรับ EPS ขึ้น 30-50%\n\n📍MS ยังมองว่า โรงกลั่นในเอเชียยัง priced ที่แถว mid-cycle + ไม่มี dividend เพิ่ม / ไม่มี B/S De-gearing นอกจากนี้ complex refiners ที่มีการลงทุน countercyclically ใน 10 ปีที่ผ่านมาจะได้ประโยชน์ เพราะจะมี crude จากเวเนซูเอลา, เกรดใหม่จาก ME และอิหร่าน ชอบโรงกลั่นอินเดีย ไทย เกาหลีใต้"
+      }
+    ]
+  },
+  {
+    "ticker": "Banking",
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "MS 14 Jul 26",
@@ -699,8 +710,8 @@ const stockData = [
   },
   {
     "ticker": "EPG",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "FSS 16 Jul 26",
@@ -760,8 +771,8 @@ const stockData = [
   },
   {
     "ticker": "FTREIT",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "INVX 20 Jul 26",
@@ -786,8 +797,8 @@ const stockData = [
   },
   {
     "ticker": "GLOBAL",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "TTBW 24 Jul 26",
@@ -873,8 +884,8 @@ const stockData = [
   },
   {
     "ticker": "Healthcare",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "KKPS 14 Jul 26",
@@ -999,9 +1010,13 @@ const stockData = [
   },
   {
     "ticker": "KKP",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
+      {
+        "label": "TTBW 21 Jul 26",
+        "content": "**Date:** 21 Jul 26\n\nKKP 2Q26 Results — Solid Beat on Fee & AQ \n\nNet profit Bt2.1bn (+51% y-y, +9% q-q) - Beat consensus by 14%\n\n✅ Asset quality — meaningful improvement. NPLs -15% q-q from Bt1.9bn write-off of legacy micro SME loans (TCG-covered). Losses on repossessed vehicles fell to Bt283m — lowest in 16 quarters. Credit cost 143bps (from 150bps). Coverage ratio up to 134% (from 124%).\n\n✅ Fee income +28% y-y, +16% q-q. Led by asset management, brokerage, wealth management, and Dime. 1H26 Dime revenue already at Bt876m vs full-year 2025 of Bt802m — run rate well ahead.\n\n✅ Loans +1.6% q-q. Corporate and real estate development led growth, offsetting continued retail softness.\n\n〰️ NIM stable q-q at 3.72%. Lower funding costs fully offset loan yield pressure. \n\n📌 Outlook\n3Q26 earnings expected to grow y-y and q-q — driven by lower credit cost, sustained fee momentum, and NIM recovery."
+      },
       {
         "label": "TTBW 23 Jul 26",
         "content": "**Date:** 23 Jul 26\n\n🏦 KKP 2Q26 Analyst Meeting – Positive Take\n\nKey takeaways\n\n• AQ improving: 2Q26 had a one-off ~Bt500m provision from the Bt1.8bn micro SME write-off. Management expects 2H26 provisions to decline meaningfully from Bt2.5bn in 1H26. YFWH is tracking well, while used-car prices should remain stable.\n• Dime remains the highlight: 1H26 revenue reached Bt876m, already above FY25 revenue (Bt802m). The platform is evolving into a full financial services app, with health insurance coming soon and digital assets next year.\n• Capital management: Warrant conversion will add ~Bt6bn of capital. With slow loan growth, management is open to increasing the dividend payout ratio.\n• Guidance raised: ROE to 12–13% (from 10–11%), spread to 4.5–4.6% (from 4.3–4.4%), and credit cost to 1.3–1.5% (from 1.6–1.8%).\n\nOur view: Positive. We see 20–25% upside to our earnings forecasts from lower credit costs and stronger fee income, with additional upside from a potentially higher dividend payout."
@@ -1471,8 +1486,8 @@ const stockData = [
   },
   {
     "ticker": "Power",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "KS 15 Jul 26",
@@ -1504,8 +1519,8 @@ const stockData = [
   },
   {
     "ticker": "Refinery",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "MST 24 Jul 26",
@@ -1664,8 +1679,8 @@ const stockData = [
   },
   {
     "ticker": "SPA",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "KKPS 21 Jul 26",
@@ -1939,8 +1954,8 @@ const stockData = [
   },
   {
     "ticker": "TISCO",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "TTBW 14 Jul 26",
@@ -2044,8 +2059,8 @@ const stockData = [
   },
   {
     "ticker": "Truck",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "KS 23 Jul 26",
@@ -2077,8 +2092,8 @@ const stockData = [
   },
   {
     "ticker": "WICE",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "TTBW 10 Jul 26",
