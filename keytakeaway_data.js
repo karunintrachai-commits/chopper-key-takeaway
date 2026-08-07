@@ -1,9 +1,9 @@
 // AUTO-GENERATED — Chopper Key Takeaway Data
-// Last sync: 2026-08-07 13:38:39
+// Last sync: 2026-08-07 13:41:06
 // Source: G:\My Drive\Stock Notes
 // DO NOT edit manually — run sync_data.py to regenerate
 
-const SYNC_TIMESTAMP = "2026-08-07 13:38:39";
+const SYNC_TIMESTAMP = "2026-08-07 13:41:06";
 const MARKETS = ["SET", "DR", "US", "China", "Others"];
 const stockData = [
   {
@@ -994,19 +994,12 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
-        "label": "KKPS 14 Jul 26",
-        "content": "**Date:** 14 Jul 26\n\n🏥Thai Healthcare: Three positive catalysts\n\n*We see three positive developments for the Thai healthcare sector.\n\n*First, influenza cases have started to pick up again. According to the Department of Disease Control, Week 28 (5–11 July) marked the first week since Week 4 in January in which influenza cases exceeded the same period last year. This is consistent with hospital management commentary, including BDMS, which indicated that Thai patient revenue returned to mid-single-digit growth in June and early July, from low-single-digit growth during the first five months of the year, supported by the rainy season.\n\n*Second, Middle East tourist arrivals returned to growth, increasing 11% YoY during 1–11 July after declining on a YoY basis since March. This suggests that Middle East patient revenue could return to YoY growth in 3Q26, which is the seasonal peak for medical tourism from the region.\n\n*Third, the government is reportedly reviewing the Civil Servant Medical Benefit Scheme (CSMBS), which currently covers around 4–5 million beneficiaries. The scheme's budget reached Bt107bn in 2025, exceeding the original budget of Bt94bn, and has grown at around 5% CAGR since 2017. One proposal under consideration is to allow family members of civil servants to choose alternative healthcare schemes, such as the NHSO Scheme or SSO Scheme, instead of being covered exclusively under the civil servant scheme. This would reduce the number of CSMBS beneficiaries and help contain government healthcare spending.\n\n*Another proposal being discussed is to encourage greater use of private health insurance. If implemented, this could directly benefit private hospitals. BCH's CEO commented that, for example, if the government reduced the CSMBS budget from Bt90bn to Bt60bn and required civil servants to co-pay 10% of the reduced budget, this would create ~Bt6bn of additional revenue opportunities for private hospitals, while also helping alleviate overcrowding at public hospitals.\n\n*While these are relatively small catalysts, we believe they could help narrow the healthcare sector's underperformance, with Thai hospital stocks having lagged the SET by around 16% since the Middle East conflict began.\n\nhttps://today.line.me/th/v3/article/PGeRoro"
-      }
-    ]
-  },
-  {
-    "ticker": "Hospital",
-    "market": "SET",
-    "noTag": false,
-    "takeaways": [
-      {
         "label": "KKPS 05 Aug 26",
         "content": "**Date:** 05 Aug 26\n\n🏥Thematic Report: Thai Healthcare\n\nWe have published a new thematic report highlighting why we believe Thailand's private hospital sector is well positioned to benefit from several long-term structural trends:\n\n1. Government healthcare budget under pressure: The government currently finances nearly 80% of Thailand's healthcare spending despite the country's relatively low tax burden. Rising healthcare and welfare costs, together with rapid population aging, could make fiscal constraints increasingly binding by 2030.\n\n2. Health insurance penetration set to rise: Private health insurance remains underpenetrated in Thailand, covering only 6% of the population compared with the OECD average of 36%, while financing just 4% of total healthcare spending.\n\n3. Healthcare spending likely to shift to the private sector: Fiscal pressure and the difficulty of implementing meaningful UCS reform could shift part of the government's Bt450–500bn annual healthcare burden to the private sector, creating more than Bt100bn in additional revenue opportunities, equivalent to around 40% of the current revenue of Thailand's listed private hospitals.\n\nWe believe the recent sector weakness provides an attractive entry point. In our view, 2Q26 is likely to mark the earnings trough, with earnings expected to recover from 3Q26, supported by stronger Thai patient volumes following the influenza outbreak, a recovery in ME patients as ME tourist arrivals improved in July, and the normalization of Cambodian patient volumes. The sector is trading at an attractive 19x 2026E P/E, compared with around 30x for regional peers, and has underperformed the SET by 15% since the ME conflict began\n\nPlease refer to our report for further details"
+      },
+      {
+        "label": "KKPS 14 Jul 26",
+        "content": "**Date:** 14 Jul 26\n\n🏥Thai Healthcare: Three positive catalysts\n\n*We see three positive developments for the Thai healthcare sector.\n\n*First, influenza cases have started to pick up again. According to the Department of Disease Control, Week 28 (5–11 July) marked the first week since Week 4 in January in which influenza cases exceeded the same period last year. This is consistent with hospital management commentary, including BDMS, which indicated that Thai patient revenue returned to mid-single-digit growth in June and early July, from low-single-digit growth during the first five months of the year, supported by the rainy season.\n\n*Second, Middle East tourist arrivals returned to growth, increasing 11% YoY during 1–11 July after declining on a YoY basis since March. This suggests that Middle East patient revenue could return to YoY growth in 3Q26, which is the seasonal peak for medical tourism from the region.\n\n*Third, the government is reportedly reviewing the Civil Servant Medical Benefit Scheme (CSMBS), which currently covers around 4–5 million beneficiaries. The scheme's budget reached Bt107bn in 2025, exceeding the original budget of Bt94bn, and has grown at around 5% CAGR since 2017. One proposal under consideration is to allow family members of civil servants to choose alternative healthcare schemes, such as the NHSO Scheme or SSO Scheme, instead of being covered exclusively under the civil servant scheme. This would reduce the number of CSMBS beneficiaries and help contain government healthcare spending.\n\n*Another proposal being discussed is to encourage greater use of private health insurance. If implemented, this could directly benefit private hospitals. BCH's CEO commented that, for example, if the government reduced the CSMBS budget from Bt90bn to Bt60bn and required civil servants to co-pay 10% of the reduced budget, this would create ~Bt6bn of additional revenue opportunities for private hospitals, while also helping alleviate overcrowding at public hospitals.\n\n*While these are relatively small catalysts, we believe they could help narrow the healthcare sector's underperformance, with Thai hospital stocks having lagged the SET by around 16% since the Middle East conflict began.\n\nhttps://today.line.me/th/v3/article/PGeRoro"
       }
     ]
   },
