@@ -1,9 +1,9 @@
 // AUTO-GENERATED — Chopper Key Takeaway Data
-// Last sync: 2026-08-07 13:30:23
+// Last sync: 2026-08-07 13:37:11
 // Source: G:\My Drive\Stock Notes
 // DO NOT edit manually — run sync_data.py to regenerate
 
-const SYNC_TIMESTAMP = "2026-08-07 13:30:23";
+const SYNC_TIMESTAMP = "2026-08-07 13:37:11";
 const MARKETS = ["SET", "DR", "US", "China", "Others"];
 const stockData = [
   {
@@ -238,8 +238,8 @@ const stockData = [
   },
   {
     "ticker": "BBGI",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "MST 07 Aug 26",
@@ -745,8 +745,8 @@ const stockData = [
   },
   {
     "ticker": "Data Center",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "Yuanta 27 Jul 26",
@@ -968,8 +968,8 @@ const stockData = [
   },
   {
     "ticker": "HMPRO",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "FSS 04 Aug 26",
@@ -1001,8 +1001,8 @@ const stockData = [
   },
   {
     "ticker": "Hospital",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "KKPS 05 Aug 26",
@@ -1393,8 +1393,8 @@ const stockData = [
   },
   {
     "ticker": "NER",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "FSS 06 Aug 26",
@@ -1833,8 +1833,8 @@ const stockData = [
   },
   {
     "ticker": "SJWD",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "FSS 27 Jul 26",
@@ -1964,8 +1964,8 @@ const stockData = [
   },
   {
     "ticker": "SYNEX",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "FSS 06 Aug 26",
@@ -2310,8 +2310,8 @@ const stockData = [
   },
   {
     "ticker": "VIH",
-    "market": "Others",
-    "noTag": true,
+    "market": "SET",
+    "noTag": false,
     "takeaways": [
       {
         "label": "KKPS 06 Aug 26",
