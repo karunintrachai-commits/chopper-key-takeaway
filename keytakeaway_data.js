@@ -1,9 +1,9 @@
 // AUTO-GENERATED — Chopper Key Takeaway Data
-// Last sync: 2026-07-25 21:34:57
+// Last sync: 2026-08-07 13:30:23
 // Source: G:\My Drive\Stock Notes
 // DO NOT edit manually — run sync_data.py to regenerate
 
-const SYNC_TIMESTAMP = "2026-07-25 21:34:57";
+const SYNC_TIMESTAMP = "2026-08-07 13:30:23";
 const MARKETS = ["SET", "DR", "US", "China", "Others"];
 const stockData = [
   {
@@ -237,6 +237,17 @@ const stockData = [
     ]
   },
   {
+    "ticker": "BBGI",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "MST 07 Aug 26",
+        "content": "**Date:** 07 Aug 26\n\nBBGI reported 2Q26 net profit Bt624mn, + 300% qoq. \n\nP Chak highlighted that \n\nCurrent market cap THB 8.3b. 2Q26 profit was THB485m even with only half a quarter of SAF. So 3Q could be even higher.  This means even if we conservatively assume annual profit THB 1.5-2b , it's still very cheap at this price.  IPO price was THB 10.5 for your reference."
+      }
+    ]
+  },
+  {
     "ticker": "BBIK",
     "market": "SET",
     "noTag": false,
@@ -425,6 +436,10 @@ const stockData = [
     "market": "SET",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "KKPS 03 Aug 26",
+        "content": "**Date:** 03 Aug 26\n\nCBG announced a Bt2bn share-buyback programme, equivalent to Bt2/share. \n\nHowever, following the recent share-price rally, we believe the company could redirect part of the proceeds toward more aggressive capital management, potentially resulting in a higher DPS.\n\nCBG is therefore evolving from a pure growth story into a growth + capital management stock. Consensus will likely need to upgrade both earnings and DPS forecasts.\n\nThe rally has only just begun. With earnings upgrades, higher dividends and a potential valuation rerating ahead, CBG still has substantial room to climb and shine much brighter. Strong Buy!"
+      },
       {
         "label": "KKPS 10 Jul 26 ①",
         "content": "**Date:** 10 Jul 26\n\nCBG Bullish\n\nCBG is no longer just an energy drink company. It has become an integrated platform across manufacturing, distribution, marketing and retail.\n\nCarabao is now the No.1 energy drink brand in Thailand, with accelerating sales and continued market-share gains. A broader SKU portfolio is driving rapid growth in traditional trade, while spirits are receiving strong feedback and improving distributor economics. Beer and more drinks should be the next major growth engine.\n\nCJ is set to expand from 2,000 stores to 2,500 by end-2026, with a long-term target of 10,000 stores, creating a powerful proprietary retail channel.\n\nThe ecosystem strategy is no longer just a concept. It is beginning to translate into accelerating growth, stronger margins and multiple new earnings engines.\n\nCBG is entering a structurally stronger growth phase. Boom!"
@@ -676,6 +691,18 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "TTBW 27 Jul 26",
+        "content": "**Date:** 27 Jul 26\n\nDELTA. Expecting good recovery in 2H26F since July \n\nWe recap 2Q26 profits missed sharply, as supply shortages hit both sales growth and costs. DELTA began to resolve its 2Q26 hiccups in July.\n\nDELTA expects 50% h-h and 74% y-y US$ sales growth in 2H26F, with stronger growth in 3Q26F, while GM should recover from the abnormally low level in 2Q26.\n\nSales growth:\nDELTA qualified new replacement suppliers for the sanctioned vendor in July. Strong orders remain. customers  rush AI capex.\n\nBetter GM:\n1. DELTA will begin passing higher raw-material costs on to customers. Although not 100%. DELTA believes key customers, e.g., hyperscalers, will accept due to strong demand. (Raw-material prices rose in 2Q26 due to shortages after a major supplier was sanctioned) \n\n2. No more one-time inventory provision of ~Bt1bn (booked in 2Q26 on materials already purchased from the sanctioned supplier.)\n\n3. Product mix should return toward a more normal level. In 3Q26… higher contribution from high-margin data-center power management products as new supply resumes. (2Q26 shortages on key high-margin products.)\n\nWe see downside risk to our 2026F earnings forecast from the 2Q26 margin hiccup, but maintain our strong growth forecast from 2H26F through 2028F."
+      },
+      {
+        "label": "KS 27 Jul 26",
+        "content": "**Date:** 27 Jul 26\n\nKS: DELTA earnings call and analyst meeting - Neutral\n\n- ประเด็นสําคัญโฟกัสไปที่เรื่อง raw material shortage ซึ่งทางผู้บริหารแจ้งว่ามาจาก 2 ส่วน คือจากราคา semiconductors และ components ต่างๆที่ปรับขึ้น กับปัจจัยเฉพาะตัว จาก Chinese supplier รายนึงที่โดน sanction จาก EU\n\n- ผู้บริหารมองว่าราคาวัตถุดิบที่ปรับตัวขึ้นจะยังเป็นปัญหาต่อในช่วงครึ่งปีหลัง เนื่องจาก supplier หลายๆเจ้าได้เข้ามาเจรจาของปรับราคาขึ้น ส่วนเรื่องปัจจัยเฉพาะตัวคาดว่ามีผลถึงเดือน ก.ค. เท่านั้น เนื่องจากทางบริษัทได้หา supplier ใหม่มาทดแทนบริษัทเก่าได้แล้ว\n\n- สำหรับไตรมาส 3 คาดว่ารายได้จะเติบโตขึ้นแรง QoQ จากการที่บริษัทเร่งผลิตสินค้าให้ได้ตามออเดอร์ของลูกค้าที่มี backlog อยู่ ซึ่งจะ carry over มาในไตรมาส 3 เรามองว่าเป็นปัจจัยบวก\n\n- ในแง่ของอัตรากำไรขั้นต้น เรามองว่าจะมีการปรับตัวขึ้นจากไตรมาสสองที่ต่ำผิดปกติ คาดว่าจะบวกขึ้นมาอย่างต่ำประมาณ 2% จาก inventory provision ที่คาดว่าจะลดลง และผลกระทบของการเร่งซื้อสินค้า และการใช้กําลังผลิตที่ดีขึ้น อย่างไรก็ตามเรามองว่าผลกระทบจากราคาวัตถุดิบที่แพงขึ้นจะยังมีผลต่อในช่วงครึ่งปีหลัง เพราะราคา semiconductor และ component ต่างๆ ไม่ได้มีการปรับราคาลง\n\n- ทางบริษัทมองว่าสินค้าที่จะเร่งตัวขึ้นในช่วงไตรมาสสามเป็นต้นไปจะเป็น AI power system ที่ถูกพัฒนาโดย R&D ของ DELTA ในประเทศเยอรมัน ซึ่งจะไม่โดนเรียกเก็บ royalty fee จึงมองว่า product mix จะดีขึ้นในช่วงครึ่งหลัง และค่าใช้จ่ายต่อยอดขายควรจะมีแนวโน้มลดลง\n\n- คงคำแนะนำถือราคาเป้าหมาย 320 บาท"
+      },
+      {
+        "label": "FSS 27 Jul 26",
+        "content": "**Date:** 27 Jul 26\n\n(0) DELTA ประชุมนักวิเคราะห์เมื่อครู่ ได้ภาพโทนบวกมากกว่า Earnings call แต่ยังต้องติดตามประเด็นวัตถุดิบต่อไป\n\n📌คำสั่งซื้อที่ผลิตไม่ได้ใน 2Q26 จะถูกเลื่อนไปใน 3Q-4Q26 ราว USD100m และ IR ให้วิวว่าจะทำให้สัดส่วนรายได้ 1H:2H ปีนี้เปลี่ยนเป็น 40:60 (จากปกติ 45:55) ถ้าอิงตามนี้ รายได้ใน 2H จะโตสูงมาก +50% h-h และ +80% y-y…..เราขอคงมุมมองระมัดระวังต่อ Guidance นี้ก่อน\n \n📌ส่วนปัญหาวัตถุดิบ แบ่งเป็น 2 ประเด็น\n1) Supplier เจ้าหลักในจีนที่โดน EU Sanction ใน 2Q26 ปัจจุบันบริษัทได้จัดหา Supplier เจ้าอื่นแทน คาดสถานการณ์จะคลี่คลายในเดือน ส.ค. เป็นต้นไป\n\n2) Global supply shortage ยังคงมีอยู่ และไม่สามารถคลี่คลายได้เร็วภายใน 3-6 เดือน.....สอดคล้องกับวิวก่อนหน้าของเรา อาจต้องใช้เวลาเป็นปีกว่า Supply-Demand ของ Semiconductor จะเริ่มดีขึ้น\n\n📌แต่ด้วยการจัดหา Supplier เจ้าอื่นทดแทน และต้นทุนการเร่งซื้อของใน 2Q26  (ตามคำขอของลูกค้า) น่าจะหายไปใน 3Q26 ทางบริษัทให้ guidance อัตรากำไรขั้นต้นใน 2H26 จะกลับมาอยู่ในกรอบเป้าหมายที่ระดับ 30% (ฟื้นจาก 26.8% ใน 2Q26)\nซึ่งหาก 3Q26 ทำได้ตามที่ให้วิว กำไร 3Q26 จะกลับมาฟื้นแรงสู่ 9.0-9.5 พันลบ. (ดีกว่าที่เราคาดไว้ราว 7-8 พันลบ.)\n\n📌อย่างไรก็ตาม เรายังคงมุมมองระมัดระวังต่อสถานการณ์วัตถุดิบ แม้ 3Q26 อาจคลี่คลายได้บางส่วน แต่ยังมีความเสี่ยงจากการจัดหาวัตถุดิบได้ล่าช้ากว่าแผน กอปรกับยังอยู่ระหว่างทยอยเจรจาปรับราคากับลูกค้า\n\n📌ขณะที่ CEO ให้วิวว่า Supplier อาจปรับขึ้นราคาวัตถุดิบอีกระลอกใน 4Q26 ซึ่งเป็นช่วงที่ปกติมีการเจรจากัน ประเด็นนี้ เราเชื่อว่า DELTA จะเจรจาปรับขึ้นราคากับลูกค้าได้หมด เหมือนทุกครั้งที่ผ่านมา (แพงไม่กลัว แต่กลัวไม่มีของ)\n\n⭐️สรุป เรายังคงมุมมองเดิมว่า น่าจะผ่านกำไรต่ำสุดปีนี้ใน 2Q26 แต่การฟื้นตัวน่าจะค่อยเป็นค่อยไป โดยต้องติดตามปัญหาการขาดแคลนวัตถุดิบเป็นหลัก เราแนะนำเป็น เก็งกำไร ตามข่าวและพัฒนาการเป็นหลัก\n\n#Finansia #FSSIA"
+      },
+      {
         "label": "CLSA 23 Jul 26",
         "content": "**Date:** 23 Jul 26\n\nDELTA (HC O-PF, 450.00)\n\nWe view GOOGL’s 2Q26 results as a clear positive for DELTA. \n\nAlthough GOOGL shares fell post-market on margin and negative free cash flow concerns, this pressure stemmed from Google Cloud's massive 82% YoY growth (vs. 64% consensus). Demand simply outpaced internal capacity, necessitating expensive outsourced infrastructure—a sign of exceptional demand, not fundamental weakness.\n\nCrucially, GOOGL raised its 2026 CapEx guidance to US195–205bn (up from US180–190bn). We see this as confirmation that the AI-infrastructure build cycle is still accelerating and reinforces our view that the market underestimates the durability of hyperscaler CapEx, the primary external driver of DELTA’s earnings.\n\nWe reiterate our High Conviction Outperform with a TP of Bt450. While DELTA is expected to report a soft 2Q26 this Friday, this is well-anticipated by the market and leaves the structural story intact. With rising hyperscaler CapEx guidance, we advise looking past near-term weakness to position for a stronger 2H26."
       },
@@ -713,6 +740,17 @@ const stockData = [
       {
         "label": "KS 26 Jun 26",
         "content": "**Date:** 26 Jun 26\n\nKS: ราคา DOHME (+10.8%), GLOBAL (+5.2%)\n\nเมื่อ 24 มิ.ย. กมอ. มีมติเห็นชอบร่างมาตรฐานใหม่ กำหนดให้ เหล็กข้ออ้อยสำหรับงานโครงสร้างอาคารสูงต้องผลิตจาก EAF/BOF และไม่อนุญาตให้ใช้เหล็กจากเตา IF โดยจะเปิดรับฟังความคิดเห็น 30 วันก่อนประกาศใช้เป็นทางการ\n\nComment:\nมองเป็น Positive ต่อกลุ่มเหล็ก เนื่องจากช่วยลดการแข่งขันจากผู้ผลิต IF และสนับสนุนการยกระดับมาตรฐานอุตสาหกรรม \n\nสำหรับกลุ่มค้าปลีกวัสดุก่อสร้าง มอง Slightly Positive ต่อ DOHOME มากกว่า GLOBAL จากสัดส่วนยอดขายเหล็กที่สูงกว่า ขณะที่ผลกระทบต่อกำไรระยะสั้นยังจำกัด\n\nKey Monitor: ผลการรับฟังความคิดเห็น 30 วัน และรายละเอียดการบังคับใช้จริง ซึ่งจะเป็นตัวกำหนดผลกระทบต่ออุปทานเหล็กในประเทศ.\n\nแนะนำ Neutral สำหรับ DOHOME ที่ TP Bt3.5, และ Outperform สำหรับ GLOBAL ที่ TP Bt7.0"
+      }
+    ]
+  },
+  {
+    "ticker": "Data Center",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "Yuanta 27 Jul 26",
+        "content": "**Date:** 27 Jul 26\n\n(+) ประเด็น รัฐบาลคุม Data center เรามองเป็นบวกมากกว่าลบ\n\nกลุ่มนิคม - ช่วงสั้นตลาดตีความเป็นลบเพราะอาจกระทบยอดขายที่ดินและราคาที่ดิน แต่เรามองว่าเป็นบวกเพราะที่ดินมีจำกัด การเข้ามาแบบถูกต้องและลงทุนในระยะยาวจะสร้างความยั่งยืนมากกว่า เพียงแต่จะกระทบเรื่องราคาที่ดินที่อาจถูกแย่งซื้อจนพุ่งได้มากกว่านี้ แต่ก็เป็นประเด็นที่ไม่ได้รวมไว้ในประมารการอยู่แล้ว ส่วน WHAUP เรายังคาดว่าจะได้อานิสงค์จากการลงทุนอยู่เพราะรัฐบาลไม่หยุดการลงทุนเพียงแต่บริหารทรัพยากรและคัดเลือกผู้ลงทุนที่มีคุณภาพ \nผู้ลงทุนในประเทศ GULF/ BGRIM/ GPSC และอื่นๆ ที่จะลงทุนสร้าง Data center เองกับพันธมิตร ซึ่งเป็นลูกค้าระดับ Hyperscales อยู่แล้วทำให้ไม่ติดเรื่องเงื่อนไขของรัฐบาล ในทางกลับกันไม่ถูกแย่งทรัพยากรทั้งน้ำ ไฟ และที่ดินไปใช้ทำให้ต้นทุนการดำเนินงานไม่สูงเกินความจำเป็น และฝั่งธุรกิจขายไฟก็มีความยั่งยืนมากขึ้นเพราะมีเงินมัดจำสายส่งและผู้ลงทุนมีคุณภาพ เพราะความเสี่ยงของ Direct PPA คือระยะเวลาในการใช้ไฟ ถ้าใช้สั้นไปการลงทุนสร้างโรงไฟฟ้าให้ไปจะไม่คุ้มทุน \nผู้รับเหมาสายส่งอย่าง GUNKUL / DEMCO/ SAMART เป็นบวกเพราะ EGAT จะตัดสินใจลงทุนได้เร็วขึ้นเพราะการวางมัดจำ 4.5 ลบ./MW ทำให้ EGAT มั่นใจได้ว่าเมื่อลงทุนไปแล้วจะมีการใช้งาน \nผู้มีส่วนเกี่ยวข้องใน Supply chain ของ Data center ที่เป็นบริษัทไทยจะได้ประโยชน์ เพราะเงื่อนไขคือต้องสนับสนุนการใช้งานผู้ประกอบการไทยเป็นหลักเป็นบวกกับ GUNKUL/  SAMART/ TRT/STPI/ STECON/ CSS/ INSET/ SYMC/KJL/ HARN/ EPG / LTS/ TEAMG ฯลฯ\n\n#YuantaResearch"
       }
     ]
   },
@@ -816,6 +854,10 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "FSS 03 Aug 26",
+        "content": "**Date:** 03 Aug 26\n\n⚠️กลุ่มไก่ - ข่าวจีนขอส่งออกไก่เข้าไทย ปัจจุบันทางการไทยยังไม่อนุมัติ และยังไม่มีการพูดคุยกับผู้ประกอบการ\nเรามองข่าวนี้เป็น sentiment เชิงลบ และประเมินว่าโอกาสเกิดน้อย แต่ยังต้องติดตามข่าวต่อไป\n\n📌มีข่าวสนง.ศุลกากรของจีนแจ้งความประสงค์ขอส่งออกเนื้อสัตว์ปีกมายังไทย โดยครอบคลุมทั้งเนื้อไก่แช่แข็ง ไก่ปรุงสุก รวมถึงเครื่องใน\n\n📌จากการตรวจสอบแหล่งข่าวอื่นเพิ่มเติม อาทิ กรมปศุสัตว์ยังยืนยันว่า ยังไม่มีการอนุมัติให้นำเข้าไก่จีน ซึ่งการแจ้งความประสงค์ของจีนเข้ามาตั้งแต่ 27 ม.ค. 2026 แล้ว และถือเป็นกระบวนการขั้นตอนการค้าปกติ ซึ่งยังต้องใช้เวลาในการพิจารณาอีกนาน และหลายขั้นตอน โดยเฉพาะมาตรฐานสุขอนามัยสัตว์ ต้องยึดตามกฏระเบียบของไทย\n\n📌นอกจากนี้ FSSIA ได้สอบถามไปยังผู้ประกอบการ (CPF, GFPT) พบว่า ทางการยังไม่มีการประสานงานแจ้งเรื่องดังกล่าวกับผู้ประกอบการไก่แต่อย่างใด\n\n📌เบื้องต้นเรามองข่าวนี้เป็น Sentiment เชิงลบต่อกลุ่มไก่ เพราะมีข่าวเกิดขึ้นแล้ว และหากอนุญาตให้นำเข้าจริง จะเป็นลบต่ออุสาหกรรมไก่อย่างมาก เพราะปัจจุบันไทยถือเป็นผู้ส่งออกไก่สุทธิ ไทยเลี้ยงไก่เป็นอันดับ 7 ของโลก (ราว 3.59 ล้านตัน) ส่วนจีนเลี้ยงมากเป็นอันดับ 2 ราว 16.2 ล้านตัน และไทยเป็นผู้ส่งออกไก่อันดับ 4 (ราว 1.25 ล้านตัน 8.8% ของไก่ส่งออกทั่วโลก) ขณะที่จีนส่งออกเป็นอันดับ 5 (ราว 1.05 ล้านตัน 7.4% ของโลก) ตามหลังไทยแบบใกล้ชิด\n\n📌แต่เชื่อว่าโอกาสอนุญาตให้นำเช้าน่าจะค่อนข้างยาก เพราะสร้างความเสียหายให้กับผู้เลี้ยงทั้งรายใหญ่และรายย่อย ขณะที่เชื่อว่าจะมีการคัดค้านจากผู้ประกอบการพอควร ปัจจุบันตลาดไก่ของไทยเป็นผู้เลี้ยงรายใหญ่ค่อนข้างมาก สัดส่วนราว 70-80% ของปริมาณการเลี้ยง\n\n#Finansia #FSSIA\n\nhttps://mgronline.com/news1/detail/9690000075482\n\nhttps://www.dld.go.th/webnew/index.php/dld-news/hotissue/hotissue2569/krm-psusatw-chicaeng-krni-cin-khx-sng-xxk-neux-satw-pik-khea-thiy"
+      },
+      {
         "label": "KSS 21 May 26",
         "content": "**Date:** 21 May 26\n\nKSS Research Update: GFPT (Neutral; TP THB 9.40)\n\nประเด็น: กำไรปกติ 1Q26 in line + พร้อมข้อมูลจาก meeting ทันทีหลังการรายงานงบ\n\n📍GFPT รายงานกำไรปกติ 1Q26 ที่ 468 ลบ. (-23% y-y, +11% q-q) มี FX และ hedging gain +31ลบ. ส่งผลให้กำไรสุทธิอยู่ที่ 517ลบ. (-19% y-y, +17% q-q)\n\nKey numbers\n▪️รายได้ 4,268 ลบ. ลดลง -8% y-y, -6% q-q จากปริมาณส่งออกที่ลดลง โดยเฉพาะลูกค้าจีนที่หายไป\n▪️ GPM 14.6% ปรับขึ้นทั้ง y-y และ q-q หนุนโดยต้นทุนวัตถุดิบที่ยังอยู่ในระดับต่ำ\n▪️SG&A/sales 7.4% ลดลงทั้ง y-y และ q-q ตามค่าใช้จ่ายขนส่งส่งออกที่ลดลง\n▪️ ส่วนแบ่งกำไรจากบริษัทร่วมลดลงแรง y-y จากฐานที่สูง และลดลง q-q ทั้งจาก McKey และ GFN จากปริมาณส่งออกและราคาชิ้นส่วนไก่ที่ปรับตัวลง\n\nKey takeaways from Meeting\n\n👎Tone: Slightly negative \n\n🎯 GFPT คงเป้าปี 26F ตามเดิม\n- รายได้ +2–3% y-y\n- GPM 15–16%\n- SG&A/sales 7.5–8.0%\n- Capex THB 1.0–1.2 bn\n\nUpdate ลูกค้าจีน: ยังไม่มีกำหนดการกลับมามีออเดอร์ เน้นหาตลาดใหม่แทน\n\nแนวโน้ม 2Q26: ปริมาณส่งออกมีแนวโน้มเพิ่มขึ้นสู่ราว 8,000 ตัน จาก UK+EU อย่างไรก็ตาม ถูกหักล้างด้วยราคาขายที่ชะลอตัว ต้นทุนที่ทยอยปรับเพิ่มขึ้น และ GFN ที่อาจได้รับแรงกดดันจากราคาโครงไก่ที่อ่อนตัว\n\n💡Our view: \nเรามองข้อมูลจากการประชุมในเชิง slightly negative โดยเห็นว่าเป้าหมายของบริษัทมี downside risk  อย่างไรก็ตาม assumption ของเรา conservative กว่าบริษัทอยู่แล้ว\n\nทั้งนี้ กำไรปกติ 1Q26 คิดเป็น 25% ของประมาณการกำไรปกติปี 2026 ของเราที่ THB 1,960 mn (-20% y-y) แนวโน้มกำไร 2H26 คาดต่ำกว่าครึ่งแรก จากต้นทุนที่ทยอยปรับเพิ่ม ขณะที่ราคาขายชะลอตัว ส่วนแบ่งกำไร บ.ร่วมลดลง\n\nสำหรับ 2Q26 เราคาดกำไรลดลง y-y จากฐานที่สูง แต่ทรงตัวถึงลดลงเล็กน้อย q-q โดยรายได้มีแนวโน้มปรับขึ้นตาม seasonal แต่ถูกหักล้างด้วย GPM ที่ลดลง และโอกาสที่ GFN จะรายงานส่วนแบ่งขาดทุน\n\nคงคำแนะนำ Neutral; TP 9.40บ.\n\n#Kate_KSS #KSS #Research\n\n---\n\n# GFPT Idea"
       },
@@ -852,6 +894,10 @@ const stockData = [
     "market": "DR",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "BVI 23 Jul 26",
+        "content": "**Date:** 23 Jul 26\n\nหุ้น Alphabet รายงานงบไตรมาส 2 ออกมาแข็งแกร่ง โดยรายได้รวมและธุรกิจคลาวด์โตเหนือคาดมาก แต่ราคาหุ้นกลับติดลบ 2% เพราะตลาดกังวลเรื่องอัตรากำไร กระแสเงินสด และการลงทุนด้าน AI ที่สูงขึ้น ผมขอสรุป 10 ประเด็นสำคัญดังนี้\n\n1️⃣ รายได้รวมอยู่ที่ 119.8 พันล้านดอลลาร์ เพิ่มขึ้น 25% จากปีก่อน และสูงกว่าประมาณการเกือบ 3 พันล้านดอลลาร์ ถือเป็นการเติบโตระดับเลขสองหลักต่อเนื่องเป็นไตรมาสที่ 12\n\n2️⃣ Google Cloud โตระเบิด เพิ่มขึ้น 82% เป็น 24.8 พันล้านดอลลาร์ สูงกว่าคาดมากกว่า 2 พันล้านดอลลาร์ และเร่งตัวจากการเติบโต 63% ในไตรมาสก่อน\n\n3️⃣ ผู้บริหารระบุว่าการเติบโตของคลาวด์มาจากทั้งโครงสร้างพื้นฐานของ AI และโซลูชันสำหรับองค์กร สะท้อนว่าการลงทุนเริ่มสร้างรายได้จริงอย่างชัดเจน\n\n4️⃣ กำไรของธุรกิจคลาวด์ดีขึ้นมาก อัตรากำไรจากการดำเนินงานของ Google Cloud เพิ่มขึ้นเป็นประมาณ 36% จากราว 21% ในปีก่อน แสดงให้เห็นว่าคลาวด์กำลังเปลี่ยนจากธุรกิจที่เน้นขยายตัวไปเป็นแหล่งกำไรสำคัญของบริษัท\n\n5️⃣ รายได้จากระบบ Search อยู่ที่ประมาณ 63 พันล้านดอลลาร์ เพิ่มขึ้น 17% จากปีก่อน ช่วยลดความกังวลว่า AI จะทำลายธุรกิจค้นหาหลักของ Google ในระยะใกล้\n\n6️⃣ YouTube กลับมาโตเหนือคาด รายได้ YouTube อยู่ที่ 11.06 พันล้านดอลลาร์ เพิ่มขึ้น 13% และสูงกว่าที่ตลาดคาดไว้ที่ 10.81 พันล้านดอลลาร์ แสดงให้เห็นว่าธุรกิจวิดีโอและโฆษณากลับมามีแรงส่งอีกครั้ง\n\n7️⃣ แอป Gemini มีผู้ใช้งานรายเดือนประมาณ 950 ล้านคน มีการใช้งาน Token สูงถึง 22,000 ล้านต่อนาที ทำให้ Alphabet มีฐานผู้ใช้ขนาดใหญ่มากสำหรับต่อยอดบริการแบบเสียเงิน โฆษณา และเครื่องมือ AI ในอนาคต\n\n8️⃣ กำไรต่อหุ้นที่รายงานมีรายการพิเศษสูง กำไรต่อหุ้นที่รายงานอยู่ที่ 9.11 ดอลลาร์ แต่ได้รับแรงหนุนอย่างมากจากกำไรที่ยังไม่เกิดขึ้นจริงจากการลงทุนในหลักทรัพย์อย่าง Anthropic ที่มูลค่าขึ้นมา 3 เท่าในปีนี้ หากตัดรายการดังกล่าว กำไรต่อหุ้นจากธุรกิจหลักอยู่ประมาณ 2.85 ดอลลาร์ ต่ำกว่าที่ตลาดคาดเล็กน้อยที่ 2.89 ดอลลาร์\n\n9️⃣ บริษัทลงทุนในไตรมาสนี้ถึง 44.92 พันล้านดอลลาร์ ส่งผลให้กระแสเงินสดอิสระติดลบราว 5.9 พันล้านดอลลาร์ สะท้อนว่าการเร่งสร้างศูนย์ข้อมูลและกำลังประมวลผลกำลังกดดันเงินสดระยะสั้น\n\n🔟 เพิ่มเป้าการลงทุนทั้งปี Alphabet คาดว่าจะลงทุนในปี 2026 ราว 195–205 พันล้านดอลลาร์ สูงกว่ากรอบเดิมที่ 189–190 พันล้านดอลลาร์ เนื่องากความต้องการ AI ยังตึงตัว การเพิ่มงบลงทุนนี้ได้เพิ่มความเสี่ยงว่าบริษัทต้องสร้างผลตอบแทนให้คุ้มกับเงินลงทุนมหาศาลระดับนี้ให้ได้\n\nโดยสรุป Alphabet กำลังพิสูจน์ว่า AI ไม่ได้ทำลายธุรกิจเดิม แต่กำลังช่วยเร่งทั้งคลาวด์ Search และระบบ Gemini อย่างไรก็ตามจุดที่ต้องจับตาคือกระแสเงินสดที่ติดลบและเงินลงทุนที่พุ่งสูง หาก Google Cloud รักษาการเติบโตและอัตรากำไรระดับนี้ได้ การลงทุนครั้งใหญ่อาจคุ้มค่า แต่หากความต้องการชะลอลง ความเสี่ยงต่อผลตอบแทนผู้ถือหุ้นจะเพิ่มขึ้นทันทีครับ #Alphabet #Google"
+      },
       {
         "label": "THI 23 Jul 26 ①",
         "content": "**Date:** 23 Jul 26\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎_𝐆𝐨𝐨𝐠𝐥𝐞 𝐄𝐚𝐫𝐧𝐢𝐧𝐠𝐬 𝐑𝐞𝐬𝐮𝐥𝐭 𝟐𝐐𝟐𝟔\n\n• Google รายงานผลประกอบการโดยรวมดีกว่าคาด รายได้อยู่ที่ $119.80 bn (beat 2.4%) โต 24.2% YoY แรงหนุนหลักมาจาก Google Cloud ที่ทำรายได้ $24.77 bn (beat 10.5%) โต 81.8% YoY และ 23.8% QoQ ขณะที่ Operating income ของ Cloud อยู่ที่ $8.81 bn (beat 27.5%) โต 211.9% YoY ดัน Cloud margin ขึ้นทำสถิติสูงสุดใหม่ที่ 35.59% จาก 20.74% ในปีก่อน และทำ all-time high ติดต่อกัน 11 ไตรมาส นอกจากนี้ Cloud backlog เพิ่มเป็น $514 bn หรือราว 11% QoQ สะท้อนความต้องการ AI Infrastructure และ AI Solutions ที่ยังแข็งแกร่งมาก\n\n• อย่างไรก็ตาม ธุรกิจ Google Services แม้ยังโตสองหลัก แต่อัตราการเติบโตเริ่มชะลอลง โดยรายได้อยู่ที่ $94.54 bn โต 14.5% YoY เทียบกับโต 16% ในไตรมาสก่อน Google Search ทำรายได้ $63.27 bn (miss 0.09%) โต 16.8% YoY ชะลอจาก 19% ใน 1Q26 ขณะที่ YouTube Ads ทำรายได้ $11.06 bn โต 12.9% YoY และธุรกิจ Subscriptions, Platforms and Devices ทำรายได้ $12.91 bn (miss 1%) โต 15.2% YoY ส่วน Google Network ลดลงเล็กน้อย 0.7% YoY สะท้อนว่าธุรกิจโฆษณาหลักเริ่มโตชะลอ แต่ Cloud เป็นตัวเร่งการเติบโตที่ชัดเจนที่สุด\n\n• กำไรจากการดำเนินงานรวมอยู่ที่ $40.77 bn โต 30.4% YoY เร็วกว่าการเติบโตของรายได้ ส่งผลให้ Operating margin เพิ่มเป็น 34.03% จาก 32.43% ในปีก่อน ส่วน EPS เพิ่มจาก $2.31 เป็น $9.11 หรือโต 294.4% YoY จากกำไรของ mark-to-market หุ้นที่ถืออยู่  ซึ่งคาดว่าเป็น SpaceX หากหักผลกระทบดังกล่าวออก EPS โดยคร่าวจะอยู่ที่ประมาณ $2.85 ดังนั้น Headline EPS จึงไม่ได้สะท้อนกำไรจากธุรกิจหลักทั้งหมด\n\n• Google ปรับเพิ่มกรอบ CAPEX ปี 2026 จากเดิม $180–190 bn เป็น $195–205 bn (ค่ากลาง $200 bn มากกว่าตลาดคาดที่ $186.4 bn) พร้อมส่งสัญญาณว่า CAPEX ปี 2027 จะเพิ่มขึ้นอีกอย่างมีนัยสำคัญ โดย CAPEX ไตรมาสนี้อยู่ที่ $44.92 bn โต 100.1% YoY สูงกว่า Operating cash flow ที่ $39.07 bn ส่งผลให้ Free cash flow ติดลบ $5.86 bn สะท้อนว่าความต้องการ AI และ Cloud แข็งแรงมาก แต่แรงกดดันต่อ Free cash flow มีความชัดเจนมากขึ้น\n\n• เราจะ update อีกครั้ง หลัง Earnings call\n \n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎 𝐎𝐟𝐟𝐢𝐜𝐞"
@@ -921,6 +967,17 @@ const stockData = [
     ]
   },
   {
+    "ticker": "HMPRO",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "FSS 04 Aug 26",
+        "content": "**Date:** 04 Aug 26\n\n(0) HMPRO มองโทนประชุมเป็นกลาง โดยยังเห็นการปรับตัวต่อเนื่อง เพื่อรักษาฐานยอดขายเดิม ขณะที่กำไร 2H26 คาดหวังเติบโตเล็กน้อย y-y\n\nภาพรวมเรามีมุมมองเป็นกลางต่อ analyst meeting เช้านี้ โดยประเด็นหลัก คือ 1) ในส่วนของความ sustain ของ GPM (+1.9% y-y ใน 2Q26) ผู้บริหารคาด gap ที่เพิ่มขึ้นอาจเบาลง โดยมอง GPM ที่เพิ่มขึ้นใกล้เคียงช่วง 1Q26 (เพิ่มราว +0.4% y-y), และ 2) room ในการขยายสาขา Hybrid คาดที่ระดับราว +/-10 แห่ง เรามองสะท้อนการ conversion ที่น่าจะเสร็จภายในช่วง 2027-28\n\nระยะสั้นแนวโน้ม SSS ยังประคองตัว ในเดือน Jul 26 HomePro ลดลง 1.5% y-y, Mega Home +0.5% y-y และ Malay ลดลง 6.5% y-y\n\nประเมินกำไร 2H26 ยังคาดหวังการเติบโต +/-5% y-y หนุนจาก GPM ที่ยังมีผลบวกจาก organic + เรื่อง stock ที่ยังมีเล็กน้อย ขณะที่คาด SSS ยังประคองตัว y-y\n\nโดยรวมจึงยังคงคาดกำไร ปี 2026 ทรงตัว y-y โดยมีปัจจัยหนุนจาก GPM เป็นหลัก ประเมิน consensus earnings downside ยังจำกัด\n\nเรายังคงคำแนะนำ ซื้อ HMPRO ราคาเป้าหมาย 7.7 บาท/หุ้น ยังมองเน้นเป็นการ trading เป็นหลัก จากกำไรคาดเติบโตได้เล็กน้อยใน 2H26 และ valuation 2026E P/E ที่ 14-15x ยังต่ำกว่ากลุ่ม\n\n#Finansia #FSSIA"
+      }
+    ]
+  },
+  {
     "ticker": "Hanmi",
     "market": "Others",
     "noTag": true,
@@ -939,6 +996,17 @@ const stockData = [
       {
         "label": "KKPS 14 Jul 26",
         "content": "**Date:** 14 Jul 26\n\n🏥Thai Healthcare: Three positive catalysts\n\n*We see three positive developments for the Thai healthcare sector.\n\n*First, influenza cases have started to pick up again. According to the Department of Disease Control, Week 28 (5–11 July) marked the first week since Week 4 in January in which influenza cases exceeded the same period last year. This is consistent with hospital management commentary, including BDMS, which indicated that Thai patient revenue returned to mid-single-digit growth in June and early July, from low-single-digit growth during the first five months of the year, supported by the rainy season.\n\n*Second, Middle East tourist arrivals returned to growth, increasing 11% YoY during 1–11 July after declining on a YoY basis since March. This suggests that Middle East patient revenue could return to YoY growth in 3Q26, which is the seasonal peak for medical tourism from the region.\n\n*Third, the government is reportedly reviewing the Civil Servant Medical Benefit Scheme (CSMBS), which currently covers around 4–5 million beneficiaries. The scheme's budget reached Bt107bn in 2025, exceeding the original budget of Bt94bn, and has grown at around 5% CAGR since 2017. One proposal under consideration is to allow family members of civil servants to choose alternative healthcare schemes, such as the NHSO Scheme or SSO Scheme, instead of being covered exclusively under the civil servant scheme. This would reduce the number of CSMBS beneficiaries and help contain government healthcare spending.\n\n*Another proposal being discussed is to encourage greater use of private health insurance. If implemented, this could directly benefit private hospitals. BCH's CEO commented that, for example, if the government reduced the CSMBS budget from Bt90bn to Bt60bn and required civil servants to co-pay 10% of the reduced budget, this would create ~Bt6bn of additional revenue opportunities for private hospitals, while also helping alleviate overcrowding at public hospitals.\n\n*While these are relatively small catalysts, we believe they could help narrow the healthcare sector's underperformance, with Thai hospital stocks having lagged the SET by around 16% since the Middle East conflict began.\n\nhttps://today.line.me/th/v3/article/PGeRoro"
+      }
+    ]
+  },
+  {
+    "ticker": "Hospital",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "KKPS 05 Aug 26",
+        "content": "**Date:** 05 Aug 26\n\n🏥Thematic Report: Thai Healthcare\n\nWe have published a new thematic report highlighting why we believe Thailand's private hospital sector is well positioned to benefit from several long-term structural trends:\n\n1. Government healthcare budget under pressure: The government currently finances nearly 80% of Thailand's healthcare spending despite the country's relatively low tax burden. Rising healthcare and welfare costs, together with rapid population aging, could make fiscal constraints increasingly binding by 2030.\n\n2. Health insurance penetration set to rise: Private health insurance remains underpenetrated in Thailand, covering only 6% of the population compared with the OECD average of 36%, while financing just 4% of total healthcare spending.\n\n3. Healthcare spending likely to shift to the private sector: Fiscal pressure and the difficulty of implementing meaningful UCS reform could shift part of the government's Bt450–500bn annual healthcare burden to the private sector, creating more than Bt100bn in additional revenue opportunities, equivalent to around 40% of the current revenue of Thailand's listed private hospitals.\n\nWe believe the recent sector weakness provides an attractive entry point. In our view, 2Q26 is likely to mark the earnings trough, with earnings expected to recover from 3Q26, supported by stronger Thai patient volumes following the influenza outbreak, a recovery in ME patients as ME tourist arrivals improved in July, and the normalization of Cambodian patient volumes. The sector is trading at an attractive 19x 2026E P/E, compared with around 30x for regional peers, and has underperformed the SET by 15% since the ME conflict began\n\nPlease refer to our report for further details"
       }
     ]
   },
@@ -1324,6 +1392,17 @@ const stockData = [
     ]
   },
   {
+    "ticker": "NER",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "FSS 06 Aug 26",
+        "content": "**Date:** 06 Aug 26\n\n(+) NER กำไร 2Q26 ดีกว่าที่ตลาดคาดเล็กน้อย แนวโน้มกำไร 3Q26 น่าจะฟื้นตามราคายางต่อเนื่อง\n\n📌กำไรสุทธิ 2Q26 เท่ากับ 436 ลบ. (+72% q-q, -21% y-y) ส่วนกำไรปกติอยู่ที่ 447 ลบ. (+47% q-q, -8.6% y-y) \n\n📌กำไรที่ดีกว่าตลาดคาดมาจากภาษีจ่ายที่น้อยกว่าคาด เนื่องจากบริษัทใช้ประโยชน์ทางภาษี จากการลงทุนในกิจกรรมพัฒนาชุมชนและสังคม (มาตรการ BOI-CSR)\n\n📌รายได้รวม -0.8% q-q และ -5.8% y-y มาจากปริมาณขายที่ลดลง โดยอยู่ที่ 1.08 แสนตัน (-12% q-q, -3% y-y) ส่วนราคาขายเริ่มปรับขึ้น q-q ตามราคายาง SICOM และปรับขึ้นได้ดีกว่าต้นทุน ทำให้อัตรากำไรขั้นต้นฟื้นเป็น 10.2% จาก 8.6% ใน 1Q26 แต่ยังต่ำกว่า 10.6% ใน 2Q25 อยู่เล็กน้อย\n\n📌กำไรสุทธิ 1H26 เท่ากับ 691 ลบ. (-40.6% y-y) คิดเป็น 42% ของประมาณกำไรทั้งปีของ Consensus\nคาดกำไรจะฟื้นตัวได้ต่อใน 3Q26 เพราะราคาขายจะปรับขึ้นได้ดี ตามราคายาง SICOM ที่เร่งขึ้นใน 2Q26 กอปรกับบาทอ่อน จึงคาดช่วยหนุนรายได้และอัตรากำไรขั้นต้นได้ต่อเนื่อง\n\n📌ถัดไปใน 4Q26 จะเข้าสู่ช่วง Super El Nino ของประเทศไทย อาจกระทบต่อผลผลิตยาง โดยเฉพาะในโซนภาคอีสาน ซึ่งเป็นที่ตั้งโรงงานของ NER และเป็นประเด็นที่ ผบห. ให้ความระมัดระวังอยู่แล้ว จึงเลื่อนแผนขยายกำลังการผลิตออกไป\n\n📌บริษัทประกาศจ่ายปันผลงวด 1H26 หุ้นละ 0.05 บาท คิดเป็น Yield 1.1% (ขึ้น XD 20 ส.ค.)\n\n📌อย่างไรก็ตาม ราคาหุ้นช่วงถัดไปอาจมี Catalyst เชิงบวกจากราคายางที่อาจปรับขึ้นอีกครั้ง จาก El Nino และ EUDR ในช่วงปลายปี จึงแนะนำ เก็งกำไรตามราคายาง\n\n#Finansia #FSSIA"
+      }
+    ]
+  },
+  {
     "ticker": "NFLX",
     "market": "DR",
     "noTag": false,
@@ -1387,6 +1466,17 @@ const stockData = [
       {
         "label": "FSS 18 May 26",
         "content": "**Date:** 18 May 26\n\n(-) OKJ 1Q26 ขาดทุนสุทธิ 30 ลบ. ติดต่อกันเป็นไตรมาสที่ 2\n\n📌1Q26 ขาดทุนสุทธิ -30 ลบ. จาก -34 ลบ. ใน 4Q25 แต่หากไม่รวมรายการพิเศษ ใน 4Q25 จะขาดทุนปกติ -17 ลบ. แสดงว่า 1Q26 ขาดทุนมากขึ้นจาก 4Q25 และพลิกจากที่มีกำไร 64 ลบ. ใน 1Q25\n\n📌รายได้รวมลดลง -7.8% q-q, -19.0% y-y โดย SSSG (รวม 3 แบรนด์) -39.4% y-y ติดลบเป็นไตรมาสที่ 4 ติดต่อกัน มาจากกำลังซื้อชะลอตัว และการแข่งขันแรงขึ้น\n\n📌มีจำนวนสาขา 78 สาขา โดยใน 1Q26 เปิด 2 สาขา Joe Wings และปิด 1 สาขา Oh Juice ที่พารากอน (เพราะหมดสัญญา)\n\n📌อัตรากำไรขั้นต้นอยู่ที่ 42.2% ลดลงจาก 46.7% ใน 1Q25 และดีขึ้นจาก 40.0% ใน 4Q25 แต่ยังไม่เพียงพอที่จะหักล้างค่าใช้จ่าย (ส่วนใหญ่เป็นค่าใช้จ่ายคงที่) ได้ทั้งหมด\n\n📌SG&A to sales เท่ากับ 47.3% เพิ่มขึ้นจาก 35.6% ใน 1Q25 และ 46.7% ใน 4Q25 แม้ค่าใช้จ่ายยังคุมได้ดี แต่รายได้ลดลงค่อนข้างมาก\n\n#Finansia #FSSIA"
+      }
+    ]
+  },
+  {
+    "ticker": "ON",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "BofA 04 Aug 26",
+        "content": "**Date:** 04 Aug 26\n\nON Semiconductor - Auto Cycle Has Moved Beyond the Trough\n\nON’s latest earnings call pointed to a gradual but broadening recovery in automotive semiconductors. \n\nChina remains the strongest automotive market, supported by EV demand and domestic OEMs, while Europe has begun to stabilize and North America is improving.\n\nCEO Hassane El-Khoury said demand strengthened through the quarter and that the company had “moved beyond the cyclical trough on a path to recovery.”\n\nBeyond the cyclical improvement, ON continues to see rising semiconductor content as a long-term growth driver. \n\nMgmt highlighted increasing chip content across automotive applications, with structural demand supported by EV power systems, ADAS, power management and intelligent sensing, even if overall vehicle production grows only modestly.\n\nStill bearish on KCE? The facts are becoming impossible to ignore. A major earnings upgrade cycle is coming. This rerating has only just begun. Stay tuned. Buy!"
       }
     ]
   },
@@ -1742,6 +1832,17 @@ const stockData = [
     ]
   },
   {
+    "ticker": "SJWD",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "FSS 27 Jul 26",
+        "content": "**Date:** 27 Jul 26\n\n(+) SJWD แนวโน้มกำไรปกติดีกว่าที่เคยประเมิน สงครามกลายเป็นอานิสงส์ต่อบริษัท คาดรายได้โต q-q แรงสุดในรอบ 7 ไตรมาส\n\nหลายธุรกิจเติบโตจากการที่ลูกค้าส่งออกหยุดชะงักเพราะสงคราม ส่วนลูกค้าที่ต้องนำเข้า จำเป็นต้องตุนสินค้า/วัตถุดิบเพราะกลัวของขาด ทำให้ปริมาณการขนส่ง คลังสินค้า มี demand สูง \n\nส่วนธุรกิจ Auto yard ได้อานิสงส์จากงาน Motor Show ทำให้การใช้พื้นที่ (occ rate) สูงขึ้น งานบริการมากขึ้น \n\nต้นทุนและรายจ่ายยังคุมได้ดีเหมือนเดิม จึงคาดรายได้ +9% q-q, +7% y-y คาดกำไรปกติ 329 ลบ. (+23% q-q, +15% y-y) คงประมาณการและราคาเป้าหมาย 13.30 บาท\n\n#Finansia #FSSIA"
+      }
+    ]
+  },
+  {
     "ticker": "SK Hynix",
     "market": "Others",
     "noTag": false,
@@ -1862,6 +1963,17 @@ const stockData = [
     ]
   },
   {
+    "ticker": "SYNEX",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "FSS 06 Aug 26",
+        "content": "**Date:** 06 Aug 26\n\n(+) SYNEX กำไรปกติ 2Q26 ดีกว่าเราและตลาดคาดเล็กน้อย 5-6%\n\nSYNEX รายงานกำไรสุทธิ 2Q26 ที่ 223 ลบ เติบโต 17.1% y-y และ 0.6% q-q โดยหากไม่รวม FX จะได้กำไรปกติ 2Q26 ที่ 197 ลบ เติบโต 19.4% y-y และ 11% q-q ดีกว่าที่เราและตลาดคาดเล็กน้อย 5-6%\n\nรายได้รวม 2Q26 เติบโต 1.3% y-y และ 4.4% q-q โดยการเติบโตเล็กน้อย y-y หนุนจากทุก BUs กลุ่ม IT commercial (+43.1% y-y), Gaming (+13.6% y-y), Enterprise (+11.3% y-y), IT consumer (+4.8% y-y), Wearables (+9.7% y-y) ช่วยชดเชยยอดขายกลุ่ม Apple (-10.7% y-y) ซึ่งถูกกดดันจากประเด็น supply shortage\n\nภาพรวมรายได้ที่เติบโตเป็นไปตามที่เราคาด จากการเน้นกลุ่ม high margin B2B ที่มากขึ้น, ยอดขายกลุ่ม smart watch ที่ยังดีต่อเนื่อง รวมถึง IT consumer + gadget\n\nขณะที่ GPM 2Q26 อยู่ที่ 3.96% เพิ่มขึ้นจาก 3.83% และ 3.87% ในงวด 2Q25 และ 1Q26 ตามลำดับ โดยหลักจาก product mix กลุ่ม high margin ที่เพิ่มขึ้น และสัดส่วนรายได้ Apple ที่ลดลง ทั้งนี้ GPM ที่ดีขึ้น จะถูกหักล้างจาก SG&A/Sales ที่เพิ่มขึ้น y-y, q-q เช่นเดียวกัน\n\nบรรทัดอื่นๆปรับตัวดีขึ้น ทั้งในมุมส่วนแบ่งกำไร จาก NCAP ที่เพิ่มขึ้น y-y และดอกเบี้ยที่ลดลง y-y *ในส่วนลูกหนี้ค้าชำระเกิน 12 เดือน ปรับเพิ่มขึ้นเล็กน้อย q-q แต่ port ลูกค้าหนี้ค้างชำระรวม ลดลง q-q\n\nกำไร 1H26 คิดเป็น 53% ของกำไรปี 2026 เทียบ 1H25/2025 = 48% คาดสะท้อน downside ที่จำกัด ภาพรวมยังคงคาดกำไร ปี 2026 เติบโต 7.8% y-y เบื้องต้นคาดกำไร 3Q26 ยังคาดหวังการเติบโต 10-15% y-y ต่อเนื่อง จากฐานรายได้ high margin ที่ดีขึ้น\n\nประเด็นที่ยังต้องติดตาม คือ 1) ฐานยอดขาย Apple ประเด็น supply shortage (เจ้าอื่นๆดูจะกระทบน้อยกว่า), 2) สถานการณ์ memory shortage แต่เราเห็นการ build inventory ที่เพิ่มขึ้นเพื่อรับมือเรื่องนี้\n\nจากแนวโน้มกำไร 2H26 ที่ยังคาดหวังการเติบโต y-y ต่อเนื่อง ประกอบกับ valuation ที่ยังอยู่โซนล่าง 11-12x 2026E P/E จึงยังคงคำแนะนำ ซื้อ ราคาเป้าหมาย 12.5 บาท\n\nSYNEX ประกาศจ่ายปันผลระหว่างกาล 0.1 บาท/หุ้น (yield = 1%) ขึ้น XD วันที่ 19 Aug 26\n\n#Finansia #FSSIA"
+      }
+    ]
+  },
+  {
     "ticker": "Semi Japan",
     "market": "Others",
     "noTag": true,
@@ -1908,6 +2020,10 @@ const stockData = [
     "market": "US",
     "noTag": false,
     "takeaways": [
+      {
+        "label": "BofA 04 Aug 26",
+        "content": "**Date:** 04 Aug 26\n\nBofA raised its AI hyperscaler capex outlook, now expecting spending to exceed US$860bn in 2026, up 78% YoY, before reaching around US$1.2tn in 2027, up 35% YoY.\n\nThe stronger outlook is supported by continued compute supply constraints, AI sales growth of 80–100%+ YoY, and more than US$2.3tn (vs US$2trn early July) of customer commitments and backlog, giving hyperscalers better visibility to keep investing.\n\nFree cash flow will likely remain under pressure through 2028, but improving utilization, margins and AI ROI should eventually restore profitability. Meanwhile, roughly US$270bn of long-term financing is viewed as balance-sheet optimization rather than funding stress.\n\nKey beneficiaries remain compute, memory, semiconductor equipment, power semis and optical networking."
+      },
       {
         "label": "KKPS 07 Jul 26",
         "content": "**Date:** 07 Jul 26\n\nUS Hyperscalers - Raising Internet capex ests\n\nAI capex returns remain the key debate for Internet hyperscalers. The main investor concern into 2Q results is that higher capex and lower FCF estimates could overshadow strong revenue growth. However, BofA argues that recent capacity monetization deals suggest AI infrastructure may have significant revenue upside. \n\nBofA raises capex estimates for Alphabet, Meta and Amazon as hyperscalers prioritize capacity. Alphabet’s 2027 capex estimate rises to US$290bn, Meta’s to US$185bn and AWS’s to US$230bn. \n\nThis reflects higher server demand, rising memory costs and continued pressure to secure AI compute capacity. \n\nAmazon is expected to add the most capacity, followed by Google and Meta. Importantly, recent AI capacity deals, including Anthropic and Google with SpaceX at up to US$50bn/GW, suggest that specialized AI capacity could be monetized at much higher rates than current cloud revenue per GW. The biggest potential upside appears to be Meta.\n\n****While BofA expects US hyperscalers to continue raising AI capex, share prices have reacted negatively as investors worry that AI infrastructure has been overbuilt, raising the risk of lower utilization and future capex cuts. \n\nWe think the key proof point will come when US hyperscalers report 2Q results in late July and early August. When hyperscalers reaffirm higher capex plans and provide positive evidence of AI capacity monetization, semis and AI-related stocks could rebound."
@@ -2120,6 +2236,10 @@ const stockData = [
     "noTag": false,
     "takeaways": [
       {
+        "label": "FSS 04 Aug 26",
+        "content": "**Date:** 04 Aug 26\n\n(+) TU ประชุมช่วงเช้า โทนบวก แนวโน้ม 2H26 ยังดีต่อ จะจ่ายปันผลมากขึ้น และจะเน้นลดค่าใช้จ่ายเข้มข้นใน 2 ปีนี้\n\n📌ระยะสั้น แนวโน้มรายได้ 2H26 จะโตต่อเนื่องจาก 1H26 ทั้ง Ambient, Frozen และ Per care ตามฤดูกาล และยังมีการทำโปรโมชั่นกระตุ้นยอดขายทั้งใน US และ EU จึงเป็นสาเหตุที่ผบห.ปรับเพิ่มเป้ารายได้ปี 2026 เป็นโต 4-6% y-y (1H26 +4.3% y-y)\n\n📌คาดอัตรากำไรขั้นต้น 2H26 จะปรับลงจาก 2Q26 ที่ทำนิวไฮที่ 21.4% เบื้องต้นคาดไว้ระดับ 19-20% สูงกว่า 2H25 ที่ราว 18-19% (ผบห. Guided ราว 20% +- สำหรับ 2H26) ที่มองลดลงเพราะจะเริ่มรับรู้ต้นทุนปลาทูน่าที่สูงขึ้น หลังใช้สต็อคราคาต่ำหมดไป\n\n📌ราคาปลาทูน่า 3Q26 กลับมาสูงขึ้นราว USD1,900/ตัน จากราคาเฉลี่ย 2Q26 ที่ USD1,768/ตัน จากสงครามที่ปะทุขึ้น ทำให้ต้นทุนค่าขนส่งสูง และผบห.ให้วิวราคาปลา 4Q26 จะลดลงสู่ระดับ USD1,800/ตัน ซึ่งจะทำให้ราคาปลาเฉลี่ยทั้งปี 2026 อยู่ที่ USD1,790/ตัน (+13.8% y-y) และมองจะปรับลงในปี 2027 อยู่ที่ราว USD1,700/ตัน +- จาก El Nino เป็นบวกต่อปริมาณปลาที่จะมากขึ้นในฝั่ง Western และ Central Pacific ซึ่งเป็นแหล่งซื้อปลาของ TU\n\n📌ผบห.เน้นการลดค่าใช้จ่ายอย่างเข้มข้นในช่วง 2 ปีหลังจากนี้ ซึ่งกำหนดกลยุทธ์ที่เป็นรูปธรรมในทุกมิติ เช่น ทำ Digital มาใช้ในองค์กร รวมถึงรวม HR ที่กระจายอยู่ทั่วโลกให้มารวมในจุดเดียวกัน โดยตั้งเป้าลด SG&A to sales ลง 0.8-1.0% จากเป้าปี 2026 ที่ 13.5-14.5%\n\n📌สำหรับปี 2026 จะพยายามจ่ายปันผลในอัตรา 65% (ใกล้เคียงกับที่จ่ายใน 1H26) ซึ่งสูงกว่านโยบายที่ 60% และสูงกว่าในอดีต เพื่อให้ผลตอบแทนกับผู้ถือหุ้น คาด Dividend yield ทั้งปีราว 6%\n\n📌สำหรับการขอกู้ยืมเงินจาก ITC ราว 6 พันลบ. อัตราดอกเบี้ย 2.5% ผบห.ยังยืนยันว่าเหตุผลเดียวที่ขอกู้จากลูกคือ ต้องการสร้างผลประโยชน์ให้กับ ITC ในการได้รับดอกเบี้ยราว 100 ลบ./ปี โดย ITC สามารถเรียกคืนเงินกู้คืนเมื่อไหร่ก็ได้ (แจ้งล่วงหน้า 30 วัน) ขณะที่ย้ำว่า TU ไม่มีปัญหาสภาพคล่อง ยังมีวงเงินกู้ยืมจากธนาคารที่ยังไม่ได้เบิกใช้อีกราว 3-4 หมื่นลบ. ดีลนี้จะขออนุมัติจาก ผถห. ITC ไม่รวม TU ในวันที่ 24 ส.ค. นี้\n\n📌สุดท้าย สำหรับประเด็น RL ผบห.ระบุว่าปัจจุบันยังไม่ได้รับทราบข้อมูลว่าคู่กรณีฟ้องร้องในประเด็นไหนและมูลฟ้องเท่าไหร่ โดยระบุใน Note ว่าอยู่ในขั้นตอนก่อนกระบวนการทางศาล และไม่มีการตั้งสำรองใดๆ ซึ่งผบห.ไม่กังวลต่อประเด็นนี้ แต่ทำให้ค่าใช้จ่ายด้านกฎหมายยังไม่จบ เบื้องต้นจะอยู่ที่ราย USD4m/ปี\n\n⭐️เรายังแนะนำ ซื้อ ด้วยเป้า 14.2 บาท\n\n#Finansia #FSSIA\n\n---\n\n**Market:** SET"
+      },
+      {
         "label": "KS 29 Jun 26",
         "content": "**Date:** 29 Jun 26\n\n(-) TU มีข่าวว่า Red Lobster GUC Trust (กองทรัสต์ที่เป็นตัวแทนของเจ้าหนี้ RL) ฟ้อง TU เพิ่มเติม \n\n📌นับตั้งแต่ปี 2024 RL ได้ยื่นล้มละลาย และเจ้าของใหม่ได้ฟ้องร้อง TU กรณีบริหารงานผิดพลาด ด้วยการทำโปร Ultimate Endless Shrimp (บุฟเฟ่ต์กุ้ง) ทำให้ RL ประสบผลขาดทุน ปัจจุบันยังอยู่ในชั้นศาล ยังไม่มีคำตัดสินใดๆ\n\n📌ล่าสุดมีข่าวว่า กลุ่มผู้เสียผลประโยชน์ได้จัดตั้งกองทรัสต์ RL เพื่อเป็นตัวแทน และได้ยื่นฟ้อง TU และอดีตผู้บริหารเพิ่มเติม โดยกล่าวหาว่า TU ใช้อำนาจในการบริหาร RL ด้วยการคำนึงประโยชน์ส่วนตน (ไม่ได้คำนึงถึง RL และเจ้าหนี้) เช่น ผูกขาดการเป็นผู้ supply กุ้ง, การทำโปรกุ้งทั้งที่รู้ว่าขาดทุน จึงเรียกร้องค่าเสียหายเพิ่มเติมจากการละเมิดหน้าที่และเอื้อประโยชน์ตนเอง จากเดิมที่ระบุถึงการบริหารงานผิดพลาดเท่านั้น\n\n📌ไม่มีการเปิดเผยมูลค่าการฟ้องร้อง มีเพียงการระบุถึงมูลหนี้ของกองทรัสต์ RL ราว USD295m จากการสอบถาม TU พบว่า ยังอยู่ระหว่างตรวจสอบรายละเอียด และยังอยู่ในกระบวนการของศาล (ที่ผ่านมาไม่มีการประเมินความเสียหายและตั้งสำรองในงบการเงินแต่อย่างใด) ถือเป็นประเด็น overhang ที่ต้องติดตามต่อไป \n\n#Finansia #FSSIA\n\nhttps://www.cnbc.com/2026/06/26/red-lobsters-endless-shrimp-promotion-was-a-car-crash-lawsuit-says.html"
       }
@@ -2185,6 +2305,17 @@ const stockData = [
       {
         "label": "THI 23 Jul 26",
         "content": "**Date:** 23 Jul 26\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎_𝐕𝐢𝐜𝐨𝐫 𝐄𝐚𝐫𝐧𝐢𝐧𝐠𝐬 𝐑𝐞𝐬𝐮𝐥𝐭 𝟐𝐐𝟐𝟔\n\nVicor ชิป Power โตแรงจาก AI จนต้องเร่งสร้างโรงงานใหม่\n\nรายได้รวมดีกว่าคาด แต่ Product revenue และ Gross margin ยังมีตำหนิ\n\n• Vicor รายงานผลประกอบการ 2Q26 ด้วยรายได้รวม $143.35 mn มากกว่าตลาดคาด 3.69% แรงหนุนหลักมาจาก Royalty revenue ที่ $30.43 mn มากกว่าตลาดคาด 29.60% ขณะที่ Product revenue อยู่ที่ $112.93 mn ต่ำกว่าตลาดคาด 2.56% และ Gross margin 58.0% ต่ำกว่าคาด 0.75% ส่วนโครงสร้างสินค้าดีขึ้น โดย Advanced Products โต 45% QoQ เป็น $94.20 mn ขณะที่ Brick Products โตเพียง 2.4% เป็น $49.20 mn สะท้อนว่าการเติบโตกำลังย้ายไปยังผลิตภัณฑ์รุ่นใหม่ แต่ยอดส่งมอบและ Margin ยังต่ำกว่าที่ตลาดคาด\n\n3Q26 จะพิสูจน์การเปลี่ยน Backlog เป็นรายได้\n\n• Royalty คือเงินที่บริษัทอื่นจ่ายให้ Vicor เพื่อใช้สิทธิบัตรภายใต้สัญญา Licensing โดยรายได้จากสัญญาใหม่จะลดจาก $15 mn ใน 2Q26 เหลือ $5 mn ใน 3Q26 ตามจังหวะการรับรู้บัญชี ไม่ใช่เพราะสัญญาถูกยกเลิก แม้มีแรงกดส่วนนี้ Vicor ยังคาดว่ารายได้รวม 3Q26 จะโตเกือบ 10% QoQ และมากกว่าตลาดคาด 1.41% จึงต้องอาศัย Advanced Products โตระดับเลขสองหลักมาชดเชย ขณะที่ Backlog เพิ่มเป็นเกือบ $380 mn และ Bookings ยังดีในกลุ่ม HPC, เครื่องทดสอบชิป, Industrial และ Aerospace & Defense ประเด็นสำคัญจึงไม่ใช่ว่ามี Demand หรือไม่ แต่คือบริษัทจะผลิตและส่งมอบได้ทันแค่ไหน\n\nปรับ Growth Outlook ขึ้นทั้งระยะสั้นและระยะยาว\n\n• Vicor ปรับเป้ารายได้ FY26 จากประมาณ $570 mn เป็นมากกว่า $600 mn จากทั้ง Product growth และ Licensing ที่เกิดเร็วกว่าสมมติฐานเดิม บริษัทเพิ่มเป้าหมายระยะยาวจากรายได้ $1.00 bn และ Gross margin 65% เป็นรายได้ $2.50 bn, Gross margin 70% และ Operating margin 40% โดยมี Advanced Power Modules และ Licensing เป็นสองเครื่องยนต์หลัก ส่วน Brick Products จะมีบทบาทลดลงเรื่อย ๆ อย่างไรก็ตาม บริษัทยังไม่ระบุกรอบเวลาที่ชัดเจน และยืนยันว่าต้องมี Fab แห่งที่สองจึงจะไปถึงเป้าหมายดังกล่าวได้\n\n2nd Gen VPD เริ่มเปลี่ยนจากโครงการพัฒนาเป็นโอกาสเชิงพาณิชย์\n\n• ชิป AI รุ่นใหม่กินไฟมากขึ้น แต่ใช้แรงดันต่ำ จึงต้องรับกระแสจำนวนมาก ระบบเดิมที่ส่งไฟผ่านแผงวงจรจากด้านข้างเริ่มติดข้อจำกัดทั้งด้านความร้อน การสูญเสียพลังงาน และพื้นที่ Vicor จึงพัฒนา 2nd Gen VPD หรือระบบจ่ายไฟแนวตั้งรุ่นที่สอง ซึ่งนำอุปกรณ์จ่ายไฟไปวางใกล้หรือใต้ชิป ทำให้ส่งกระแสได้มากขึ้นในพื้นที่เล็ก บริษัทพัฒนาระบบเริ่มต้นให้ลูกค้าหลักเสร็จแล้ว และกำลังสร้างระบบสาธิตให้ลูกค้ารายอื่น โดยคาดว่าจะเริ่มทำงานกับผู้ให้บริการ Data center ขนาดใหญ่หนึ่งรายและผู้ผลิตระบบ AI อีกหลายรายภายในปีนี้ ก่อนเริ่มผลิตจริงช่วงปลาย 3Q27–4Q27 โอกาสทางธุรกิจจึงชัดขึ้น แต่รายได้ก้อนใหญ่ยังต้องรอการทดสอบและการนำไปใช้จริง\n\nโทนผู้บริหารเปลี่ยนจากเตรียมพร้อม เป็นเร่งเพิ่ม Capacity\n\n• ผู้บริหารมีโทนมั่นใจมากขึ้น โดยใน 1Q26 บริษัทมองว่ายังสามารถเพิ่มกำลังผลิตของโรงงานเดิมได้ ด้วยการปรับกระบวนการ ย้ายงานบางส่วนไปอาคารใกล้เคียง และลดพื้นที่ของ Brick Products จึงยังมีความยืดหยุ่นในการเลือกสถานที่ Fab แห่งที่สอง แต่รอบนี้โรงงานแรกเริ่มใกล้เต็ม บริษัทต้องเลือกรับเฉพาะโครงการสำคัญ และได้ยื่นข้อเสนอสำหรับสถานที่ Fab ใหม่แล้ว ซึ่งอาจรองรับกำลังผลิตได้สองถึงสามเท่าของโรงงานแรก ขณะที่ CAPEX ปัจจุบันยังไม่รวมเงินลงทุน Fab ใหม่เต็มจำนวน ภาพธุรกิจจึงเปลี่ยนจาก “เพิ่มประสิทธิภาพกำลังผลิตเดิม” เป็น “เร่งสร้างกำลังผลิตใหม่ให้ทันการเติบโต” โดยความเสี่ยงหลักคือการส่งมอบสินค้า การฟื้นตัวของ Product margin และการควบคุม CAPEX\n\n 💡 𝐈𝐦𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧\n\n• จากผลประกอบการของ Vicor เรามองเป็นบวกต่อธีม AI เพราะความต้องการไม่ได้อยู่เพียงชิปประมวลผลอย่าง GPU หรือ ASIC แต่ลามมาถึงชิปและโมดูลควบคุมการจ่ายไฟรอบตัวชิปด้วย โดย Vicor โดดเด่นในช่วง Last Mile ของระบบไฟ คือช่วงสุดท้ายที่ต้องลดไฟจากระบบ 48V ของเซิร์ฟเวอร์ ลงมาใกล้ 1V ที่ชิป AI ใช้งานจริง และส่งกระแสจำนวนมากเข้าไปยังชิปอย่างมีประสิทธิภาพ เมื่อชิป AI กินไฟสูงขึ้น การลดการสูญเสียพลังงาน ความร้อน และพื้นที่จึงสำคัญมากขึ้น การเติบโตของ Advanced Products และการเร่งเพิ่มกำลังผลิตของ Vicor จึงสะท้อนว่า Power management กำลังกลายเป็นชิ้นส่วนสำคัญของ AI Infrastructure ไม่แพ้ตัวชิปประมวลผล เพราะต่อให้ GPU แรงเพียงใด หากจ่ายไฟเข้าไปได้ไม่ดี ประสิทธิภาพของระบบก็ไม่สามารถเพิ่มขึ้นได้เต็มที่\n\n𝐘𝐮𝐚𝐧𝐭𝐚 𝐂𝐈𝐎 𝐎𝐟𝐟𝐢𝐜𝐞"
+      }
+    ]
+  },
+  {
+    "ticker": "VIH",
+    "market": "Others",
+    "noTag": true,
+    "takeaways": [
+      {
+        "label": "KKPS 06 Aug 26",
+        "content": "**Date:** 06 Aug 26\n\n🏥Small-Cap Hospital Update:\n\nSrivichaivejvivat (VIH TB, Not Rated)\n\n*VIH has been one of the strongest-performing hospital stocks, with 2025 profit growth of 39% (vs. the Thai hospital sector average of 3%) and 1Q26 core profit growth of 19% YoY (excluding the one-off gain in 1Q25), compared with the sector average decline of 6% YoY.\n\n*We believe revenue growth should remain solid at 3–4% YoY in 2Q26 (vs. around 1% for the hospitals under our coverage), driven by continued growth from its specialist centers, particularly the Eye Clinic and Cardiovascular Center. As a result, we expect 2Q26 core profit to increase by 5% YoY to Bt102mn, outperforming the 4% YoY earnings decline we forecast for the hospitals under our coverage.\n\n*VIH is also likely to recognize additional SSO revenue from chronic disease treatments, as the actual amount is expected to exceed the accrued amount. The company may record this upside in either 2Q26 or 3Q26. If recognized in 2Q26, it would provide upside to our current earnings forecast.\n\n*Looking ahead, we expect revenue growth to accelerate in July to 4-5% YoY supported by the rainy season. Overall, we forecast 2026 revenue growth of 5–6% and core profit growth of 14% to Bt480mn, well above the 2026 earnings growth expected for the hospitals under our coverage (BDMS: +1%, BH: +7%, BCH: +3%, CHG: +6%, and PR9: +3%).\n\n*We believe VIH will become increasingly attractive once investor interest returns to the healthcare sector, which we expect to occur in 3Q26 as earnings momentum improves. The stock is trading at an attractive 11x 2026E P/E, compared with the Thai healthcare sector average of 19x, while offering stronger earnings growth than the large-cap hospital operators. In addition, VIH offers an attractive dividend yield of ~5%.\n \n*Its growth is supported by continued expansion of specialist centers, which not only attract more patients but also reduce referral costs to other hospitals—already down 19% YoY in 1Q26. In addition, VIH could benefit from patients switching from self-pay to the SSO scheme amid a weaker economic environment, supporting patient volume growth over the medium term."
       }
     ]
   },
